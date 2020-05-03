@@ -2,23 +2,35 @@ import csv
 import requests
 import os
 from pydriller import RepositoryMining
+""""
 
+"""
 def initialize():
-    cwd=os.getcwd()
-    with open('dataset_from2_to_101.csv', mode='r') as csv_file:
-        if "RepositoryMining" not in os.listdir():
-             os.mkdir("RepositoryMining")
-        os.chdir("RepositoryMining")
-        csv_reader = csv.DictReader(csv_file)
-        first = 0
-        data = dict()
-        i = 0
-        for riga in csv_reader:
-            data[i]=riga   
-            i+=1
-        startMiningRepo(data, cwd)
+	cwd=os.getcwd()
+	count_plus_one = 0
+	#In modo da calcolare tutti e 13 i dataset che sono stati estratti dal dataset principale.
+	#Per calcolarli tutti insieme for count in range(1,14)
+	#PER GILBERTO: for count in range(2,13,2) per calcolare i pari.
+	#PER ME: for count in range(1,14,2) per calcolare i dispari.
+	for count in range(1,14,2):
+		count_plus_one +=1
+		repoName = 'RepositoryMining'+str(count)
+		name_dataset = str(count)+'.csv'
+		with open(name_dataset, mode='r') as csv_file:
+			if repoName not in os.listdir():
+				os.mkdir(repoName)
+			os.chdir(repoName)
+			csv_reader = csv.DictReader(csv_file)
+			first = 0
+			data = dict()
+			i = 0
+			for riga in csv_reader:
+				data[i]=riga   
+				i+=1
+			startMiningRepo(data, cwd, repoName)
+			os.chdir(cwd)
 
-def startMiningRepo(data, cwd):
+def startMiningRepo(data, cwd, repoName):
     statusOK = "OK!\n"
     statusNE = "NOT EXIST COMMIT\n"
     statusNR = "REPO NOT AVAILABLE\n"
@@ -54,7 +66,7 @@ def startMiningRepo(data, cwd):
                              if mod.source_code_before != None:
                                 javafile=open(mod.filename,"w+")
                                 javafile.write(mod.source_code_before)
-                             os.chdir(cwd+"/RepositoryMining")
+                             os.chdir(cwd+"/"+repoName)
                     status = statusOK
                     toWrite = toWrite + status
                     file1.write(toWrite)

@@ -1,0 +1,4 @@
+cve_id,repolink,commit_id,class
+CVE-2017-4971,https://github.com/spring-projects/spring-webflow,57f2ccb66946943fbf3b3f2165eac1c8eb6b1523,pos
+
+

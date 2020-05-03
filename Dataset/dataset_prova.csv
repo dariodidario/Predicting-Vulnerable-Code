@@ -1,8 +1,0 @@
-cve_id,repolink,commit_id,class
-CVE-2017-4971,https://github.com/spring-projects/spring-webflow,57f2ccb66946943fbf3b3f2165eac1c8eb6b1523,pos
-CVE-2018-1000134,https://github.com/pingidentity/ldapsdk,8471904a02438c03965d21367890276bc25fa5a6,pos
-CVE-2016-8749,https://github.com/apache/camel,57d01e2fc8923263df896e9810329ee5b7f9b69,pos
-CVE-2017-1000393,https://github.com/jenkinsci/jenkins,d7ea3f40efedd50541a57b943d5f7bbed046d091,pos
-CVE-2018-8034,https://github.com/apache/tomcat,2835bb4e030c1c741ed0847bb3b9c3822e4fbc8a,pos
-CVE-2016-8747,https://github.com/apache/tomcat85,9601a937ff3b7ef5d04b2a0e950d0e44e1bb4cbd,pos
-
