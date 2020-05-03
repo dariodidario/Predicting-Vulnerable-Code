@@ -98,4 +98,3 @@ CVE-2018-6331,https://github.com/facebook/buck,8c5500981812564877bd122c0f8fab48d
 CVE-2013-4330,https://github.com/apache/camel,ce19353f1297c5d3dc59be21a1ead89c0a44907,pos
 CVE-2018-11047,https://github.com/cloudfoundry/uaa,a1d523c7f150e56bf06df8b83ed1d416d6c1d3b,pos
 CVE-2016-7051,https://github.com/FasterXML/jackson-dataformat-xml,eeff2c312e9d4caa8c9f27b8f740c7529d00524a,pos
-CVE-2013-4517,https://github.com/apache/santuario-java,a09b9042f7759d094f2d49f40fc7bcf145164b25,pos
