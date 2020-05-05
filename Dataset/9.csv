@@ -1,6 +1,6 @@
 cve_id,repolink,commit_id,class
 CVE-2016-3082,https://github.com/apache/struts,6bd694b7980494c12d49ca1bf39f12aec3e03e2f,pos
-CVE-2018-11797,https://github.com/apache/pdfbox,a6deb9d7ffec79986cac82345db724b343ca3e5,pos
+CVE-2018-11797,https://github.com/apache/pdfbox,a6deb9d7ffec79986cac82345db724b343ca3e5d,pos
 CVE-2016-8745,https://github.com/apache/tomcat85,16a57bc885e212839f1d717b94b01d154a36943a,pos
 CVE-2018-15761,https://github.com/cloudfoundry/uaa,95b7d9e7fae534a362b98de1df5bf501cd52c481,pos
 CVE-2018-12538,https://github.com/eclipse/jetty.project,a0b8321ef452dddff9bc6c14e3ac0108239bfa2c,pos

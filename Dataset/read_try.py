@@ -7,13 +7,11 @@ from pydriller import RepositoryMining
 """
 def initialize():
 	cwd=os.getcwd()
-	count_plus_one = 0
 	#In modo da calcolare tutti e 13 i dataset che sono stati estratti dal dataset principale.
 	#Per calcolarli tutti insieme for count in range(1,14)
 	#PER GILBERTO: for count in range(2,13,2) per calcolare i pari.
 	#PER ME: for count in range(1,14,2) per calcolare i dispari.
 	for count in range(1,14,2):
-		count_plus_one +=1
 		repoName = 'RepositoryMining'+str(count)
 		name_dataset = str(count)+'.csv'
 		with open(name_dataset, mode='r') as csv_file:
@@ -36,7 +34,7 @@ def startMiningRepo(data, cwd, repoName):
     statusNR = "REPO NOT AVAILABLE\n"
     statusVE = "VALUE ERROR! COMMIT HASH NOT EXISTS\n"
     file1 = open("CHECK.txt", "a")
-    file2 = open("ERRORS.txt","w+")
+    file2 = open("ERRORS.txt","a")
     j = 0    
     for line in data:
         link=data[line]['repolink']+'.git'
