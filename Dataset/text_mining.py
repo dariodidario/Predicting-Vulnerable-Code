@@ -20,26 +20,36 @@ def stringTokenizer(s):
 
 def removeComments(java_file):
 	text=java_file.read()
-	print(text)
 	text=re.sub(r'\/\*(.|\n)*?\*\/',' ',text)
-	print(text)
 	return text
 
-def takeJavaClass():
+def takeJavaClass(java_file_name):
 	final = []
-	with open("file_try.java", "r") as java_file:
+	current = []
+	dic ={}
+	with open(java_file_name, "r") as java_file:
 		text=removeComments(java_file)
 		for line in text.splitlines():
-			final += stringTokenizer(line)
-		print(final)
+			current = stringTokenizer(line)
+			final+=current
+			for eachElem in current:
+				if eachElem in dic:
+					dic[eachElem] += 1
+				else:
+					dic[eachElem] = 1
+		return dic
 def removeNotAlpha(tokens):
 	rightOne = []
 	for element in tokens:
 		if(element.isalpha()):
 			rightOne.append(element)
 	return rightOne
-def main():	
-	takeJavaClass()
+
+def main():
+	java_file_name="file_try.java"	
+	dic = takeJavaClass(java_file_name)
+	file = open(java_file_name+"_text_mining.txt","w+")
+	file.write(str(dic))
 
 if __name__ == '__main__':
 	main()
