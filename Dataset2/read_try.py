@@ -5,16 +5,15 @@ from pydriller import RepositoryMining
 """"
 
 """
-def initialize():
+def initialize(count):
 	cwd=os.getcwd()
 	#In modo da calcolare tutti e 13 i dataset che sono stati estratti dal dataset principale.
 	#Per calcolarli tutti insieme for count in range(1,14)
 	#PER GILBERTO: for count in range(2,13,2) per calcolare i pari.
 	#PER ME: for count in range(1,14,2) per calcolare i dispari.
-	for count in range(1,14,2):
-		repoName = 'RepositoryMining'+str(count)
-		name_dataset = str(count)+'.csv'
-		with open(name_dataset, mode='r') as csv_file:
+	repoName = 'RepositoryMining'+str(count)
+	name_dataset = str(count)+'.csv'
+	with open(name_dataset, mode='r') as csv_file:
 			if repoName not in os.listdir():
 				os.mkdir(repoName)
 			os.chdir(repoName)
@@ -37,9 +36,9 @@ def startMiningRepo(data, cwd, repoName):
     file2 = open("ERRORS.txt","a")
     j = 0    
     for line in data:
-        link=data[line]['repolink']+'.git'
+        link=data[line]['repo_url']+'.git'
         #per chiamare la seconda api e controllare che il commit esiste
-        link1=data[line]['repolink']
+        link1=data[line]['repo_url']
         commit_id=data[line]['commit_id']
         cve_id=data[line]['cve_id']
         print(link)
@@ -86,6 +85,7 @@ def startMiningRepo(data, cwd, repoName):
             toWrite = toWrite + status
             file1.write(toWrite)
             j+=1
+        os.system("find /tmp -mtime -1 -and -not -exec fuser -s {} ';'")
     file1.close()
     file2.close()
 def main():
