@@ -1,6 +1,6 @@
 import read_try
 import os
-for count in range(1,14,2):
+for count in range(21,27,1):
 	print("Starting file:")
 	print(count)
 	read_try.initialize(count)

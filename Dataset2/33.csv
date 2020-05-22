@@ -1,4 +1,4 @@
-,repo_url,commit_id,cls
+cve_id,repo_url,commit_id,cls
 1599,https://github.com/elastic/elasticsearch,f9f8856d89372be1a8577ea9bcdb47d8f47b7338,neg
 1600,https://github.com/elastic/elasticsearch,9da8822aedcc01b4f44551947136b0f38425e2c5,neg
 1601,https://github.com/elastic/elasticsearch,dfeb9379ab81d6de63a42dfdc82a5feb1252f4e0,neg

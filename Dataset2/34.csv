@@ -1,4 +1,4 @@
-,repo_url,commit_id,cls
+cve_id,repo_url,commit_id,cls
 1649,https://github.com/apache/struts,16e8f10f6664f4d5abbc64650a0b7a93cd49290b,neg
 1650,https://github.com/apache/struts,735fd96114413181defb17cd49aa75da232a7040,neg
 1651,https://github.com/apache/struts,2818f9218b826641fd15605c41be4324f5ebe4dc,neg

@@ -1,4 +1,4 @@
-,repo_url,commit_id,cls
+cve_id,repo_url,commit_id,cls
 999,https://github.com/apache/tomcat,288738a25d3b24ee4d1f6dd03ac393c09f0253c0,neg
 1000,https://github.com/apache/tomcat,dbe24997a59a77a185510af743368272c8197866,neg
 1001,https://github.com/apache/tomcat,1c869cf7dd7f26ca5283fb7e208b7261e2dfbee1,neg

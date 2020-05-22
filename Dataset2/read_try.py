@@ -85,7 +85,7 @@ def startMiningRepo(data, cwd, repoName):
             toWrite = toWrite + status
             file1.write(toWrite)
             j+=1
-        os.system("find /tmp -mtime -1 -and -not -exec fuser -s {} ';'")
+        #os.system("find /tmp -mtime -1 -and -not -exec fuser -s {} ';'")
     file1.close()
     file2.close()
 def main():
