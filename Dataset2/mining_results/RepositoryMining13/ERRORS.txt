@@ -1,0 +1,6 @@
+indice: 21 link repo: https://github.com/apache/ofbiz status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,0187743b1ef3c847a2d6b8687070c909316936a6indice: 23 link repo: https://github.com/apache/jackrabbit status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,b7fa1ae39641936872617ff95363353b0345b777indice: 35 link repo: https://github.com/apache/poi status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,6050a68d5adfb4ffef1edb778add09bcee32d1c3indice: 36 link repo: https://github.com/apache/ofbiz status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,34125e42d1db74064482c296c871e11c92dc4527indice: 38 link repo: https://github.com/apache/ofbiz status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,1dcaab7f58c3f639c9e94b77861cb8f80c546b3c

@@ -1,0 +1,50 @@
+indice: 1 link repo: https://github.com/apache/brooklyn-server status: OK!
+indice: 2 link repo: https://github.com/apache/commons-compress status: OK!
+indice: 3 link repo: https://github.com/undertow-io/undertow status: OK!
+indice: 4 link repo: https://github.com/rhuss/jolokia status: OK!
+indice: 5 link repo: https://github.com/apache/cordova-android status: OK!
+indice: 6 link repo: https://github.com/apache/struts status: OK!
+indice: 7 link repo: https://github.com/opennetworkinglab/onos status: OK!
+indice: 8 link repo: https://github.com/spring-projects/spring-integration status: OK!
+indice: 9 link repo: https://github.com/spring-projects/spring-social status: OK!
+indice: 10 link repo: https://github.com/apache/axis2-java status: REPO NOT AVAILABLE
+indice: 11 link repo: https://github.com/apache/tomcat status: OK!
+indice: 12 link repo: https://github.com/spring-projects/spring-framework status: OK!
+indice: 13 link repo: https://github.com/spring-projects/spring-framework status: OK!
+indice: 14 link repo: https://github.com/apache/activemq status: OK!
+indice: 15 link repo: https://github.com/apache/jackrabbit status: VALUE ERROR! COMMIT HASH NOT EXISTS
+indice: 15 link repo: https://github.com/apache/tomcat status: OK!
+indice: 16 link repo: https://github.com/apache/poi status: VALUE ERROR! COMMIT HASH NOT EXISTS
+indice: 16 link repo: https://github.com/apache/sling-org-apache-sling-xss status: OK!
+indice: 17 link repo: https://github.com/itext/itext7 status: OK!
+indice: 18 link repo: https://github.com/bcgit/bc-java status: OK!
+indice: 19 link repo: https://git.eclipse.org/r/hudson/org.eclipse.hudson.core status: REPO NOT AVAILABLE
+indice: 20 link repo: https://github.com/apache/geode status: OK!
+indice: 21 link repo: https://github.com/apache/httpcomponents-client status: OK!
+indice: 22 link repo: https://github.com/apache/struts status: OK!
+indice: 23 link repo: https://github.com/apache/tomee status: OK!
+indice: 24 link repo: https://github.com/apache/hadoop status: OK!
+indice: 25 link repo: https://github.com/spring-projects/spring-integration-extensions status: OK!
+indice: 26 link repo: https://github.com/jenkinsci/jenkins status: OK!
+indice: 27 link repo: https://github.com/jenkinsci/pmd-plugin status: OK!
+indice: 28 link repo: https://github.com/elastic/elasticsearch status: OK!
+indice: 29 link repo: https://github.com/cloudfoundry/uaa status: OK!
+indice: 30 link repo: https://github.com/apache/jackrabbit status: VALUE ERROR! COMMIT HASH NOT EXISTS
+indice: 30 link repo: https://github.com/spring-projects/spring-framework status: OK!
+indice: 31 link repo: https://github.com/apache/struts status: OK!
+indice: 32 link repo: https://github.com/apache/tomcat status: OK!
+indice: 33 link repo: https://github.com/square/retrofit status: OK!
+indice: 34 link repo: https://github.com/droolsjbpm/drools status: OK!
+indice: 35 link repo: https://github.com/apache/cassandra status: OK!
+indice: 36 link repo: https://github.com/jenkinsci/build-publisher-plugin status: OK!
+indice: 37 link repo: https://github.com/apache/wicket status: OK!
+indice: 38 link repo: https://github.com/apache/storm status: OK!
+indice: 39 link repo: https://github.com/apache/tomcat status: OK!
+indice: 40 link repo: https://github.com/apache/cxf-fediz status: OK!
+indice: 41 link repo: https://github.com/cloudfoundry/uaa status: OK!
+indice: 42 link repo: https://github.com/jenkinsci/jenkins status: OK!
+indice: 43 link repo: https://github.com/jenkinsci/jenkins status: OK!
+indice: 44 link repo: https://github.com/OpenRefine/OpenRefine status: OK!
+indice: 45 link repo: https://github.com/apache/tomcat status: OK!
+indice: 46 link repo: https://github.com/apache/hive status: OK!
+indice: 47 link repo: https://github.com/SonarSource/sonarqube status: OK!

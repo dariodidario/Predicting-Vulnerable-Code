@@ -1,0 +1,6 @@
+indice: 13 link repo: https://github.com/apache/poi status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,07771c3d8c7204c14a7a597b4db04a7e828a956findice: 13 link repo: https://github.com/apache/santuario-java status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,55857fd4cdfdb1af4069170ecdac448c078f544eindice: 33 link repo: https://github.com/apache/ofbiz status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,914c5783c4e268e2584f9713e3784f848c494aa1indice: 37 link repo: https://github.com/apache/jackrabbit status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,ddf9a3cd408397d0805917299c4114b09449373dindice: 42 link repo: https://github.com/apache/jackrabbit status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,4908cb64317122cdd3e096ebe8c32bd98d2ed8b7

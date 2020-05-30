@@ -1,0 +1,5 @@
+indice: 3 link repo: https://github.com/apache/pdfbox status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,f7dc8eed7df007c88421919932e2d4de44d2ae2findice: 24 link repo: https://github.com/apache/ofbiz status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,13c980be3edf51dee1a3e5acfbeaa5101ee27834indice: 34 link repo: https://github.com/apache/jackrabbit status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,3903739363b79deb7579802fbc27b9b7448218b2indice: 35 link repo: https://github.com/apache/poi status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,c702bc5ce58f9f11f408c7568cc96382c76641ef
