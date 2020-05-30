@@ -1,4 +1,4 @@
-,repo_url,commit_id,cls
+cve_id,repo_url,commit_id,cls
 1049,https://github.com/apache/cxf-fediz,db7b4ea76b85c52b59bf0acfe8e39cb7070ff325,neg
 1050,https://github.com/apache/cxf-fediz,bf5783b5aa8b33a78800281a895b05c2cbcc5578,neg
 1051,https://github.com/seam2/jboss-seam,9ffd74de1f9ce9ce53c0e532865e75432cde0f66,neg

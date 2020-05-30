@@ -1,4 +1,4 @@
-,repo_url,commit_id,cls
+cve_id,repo_url,commit_id,cls
 1349,https://github.com/apache/tomcat70,a9a0bb98cdcf9379893351b357bc02f9d8bf9845,neg
 1350,https://github.com/apache/tomcat70,6775bffaaef6b8598c5401250b344b34041e141d,neg
 1351,https://github.com/apache/tomcat70,c78ab47aef4a21ffdc8d4ef3d35ccf409d36d735,neg

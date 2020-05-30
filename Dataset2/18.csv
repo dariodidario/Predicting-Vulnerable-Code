@@ -1,4 +1,4 @@
-,repo_url,commit_id,cls
+cve_id,repo_url,commit_id,cls
 849,https://github.com/apache/struts,ba0563183b128dcef88b469f46e528a12e0179e7,pos
 850,https://github.com/cloudfoundry/uaa,1e2a746968cdac5b53164ca8955646e4257ecc7,pos
 851,https://github.com/pippo-java/pippo,9f36e5891c0b11f840e1e1561ae96d83ba9ce759,pos
