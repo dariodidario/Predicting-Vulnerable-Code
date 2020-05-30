@@ -1,0 +1,50 @@
+indice: 1 link repo: https://github.com/apache/qpid-broker-j status: OK!
+indice: 2 link repo: https://github.com/apache/hbase status: OK!
+indice: 3 link repo: https://github.com/apache/jackrabbit status: VALUE ERROR! COMMIT HASH NOT EXISTS
+indice: 3 link repo: https://github.com/apache/jackrabbit status: VALUE ERROR! COMMIT HASH NOT EXISTS
+indice: 3 link repo: https://android.googlesource.com/platform/frameworks/base status: NOT EXIST COMMIT
+indice: 4 link repo: https://github.com/apache/hadoop status: OK!
+indice: 5 link repo: https://github.com/apache/tomcat status: OK!
+indice: 6 link repo: https://github.com/apache/tomcat70 status: REPO NOT AVAILABLE
+indice: 7 link repo: https://github.com/apache/activemq status: OK!
+indice: 8 link repo: https://github.com/jenkinsci/junit-plugin status: OK!
+indice: 9 link repo: https://github.com/apache/tika status: OK!
+indice: 10 link repo: https://github.com/apache/cxf status: OK!
+indice: 11 link repo: https://github.com/junrar/junrar status: OK!
+indice: 12 link repo: https://github.com/apache/cxf status: OK!
+indice: 13 link repo: https://github.com/apache/tomcat70 status: REPO NOT AVAILABLE
+indice: 14 link repo: https://github.com/jeremylong/DependencyCheck status: OK!
+indice: 15 link repo: https://github.com/jenkinsci/saltstack-plugin status: OK!
+indice: 16 link repo: https://github.com/jenkinsci/jenkins status: OK!
+indice: 17 link repo: https://github.com/apache/struts status: OK!
+indice: 18 link repo: https://git.eclipse.org/r/hudson/org.eclipse.hudson.core status: REPO NOT AVAILABLE
+indice: 19 link repo: https://github.com/belaban/JGroups status: OK!
+indice: 20 link repo: https://github.com/jenkinsci/jenkins status: OK!
+indice: 21 link repo: https://github.com/apache/struts status: OK!
+indice: 22 link repo: https://github.com/apache/tomcat55 status: OK!
+indice: 23 link repo: https://github.com/apache/tomcat status: OK!
+indice: 24 link repo: https://github.com/AsyncHttpClient/async-http-client status: OK!
+indice: 25 link repo: https://github.com/vert-x3/vertx-web status: OK!
+indice: 26 link repo: https://github.com/jenkinsci/ssh-agent-plugin status: OK!
+indice: 27 link repo: https://github.com/spring-projects/spring-framework status: OK!
+indice: 28 link repo: https://github.com/apache/geode status: OK!
+indice: 29 link repo: https://github.com/apache/activemq status: OK!
+indice: 30 link repo: https://github.com/apache/jackrabbit status: VALUE ERROR! COMMIT HASH NOT EXISTS
+indice: 30 link repo: https://github.com/apache/tomcat status: OK!
+indice: 31 link repo: https://github.com/apache/tomcat status: OK!
+indice: 32 link repo: https://github.com/apache/struts status: OK!
+indice: 33 link repo: https://github.com/nahsra/antisamy status: OK!
+indice: 34 link repo: https://github.com/apache/axis2-java status: REPO NOT AVAILABLE
+indice: 35 link repo: https://github.com/FasterXML/jackson-databind status: OK!
+indice: 36 link repo: https://github.com/jenkinsci/promoted-builds-plugin status: OK!
+indice: 37 link repo: https://github.com/apache/geode status: OK!
+indice: 38 link repo: https://github.com/jenkinsci/jenkins status: OK!
+indice: 39 link repo: https://github.com/jenkinsci/google-play-android-publisher-plugin status: OK!
+indice: 40 link repo: https://github.com/apache/sling status: OK!
+indice: 41 link repo: https://github.com/apache/ofbiz status: VALUE ERROR! COMMIT HASH NOT EXISTS
+indice: 41 link repo: https://github.com/opennetworkinglab/onos status: OK!
+indice: 42 link repo: https://github.com/google/conscrypt status: OK!
+indice: 43 link repo: https://github.com/cloudfoundry/uaa status: OK!
+indice: 44 link repo: https://github.com/apache/tomcat status: OK!
+indice: 45 link repo: https://github.com/apache/ofbiz status: VALUE ERROR! COMMIT HASH NOT EXISTS
+indice: 45 link repo: https://github.com/bcgit/bc-java status: OK!
