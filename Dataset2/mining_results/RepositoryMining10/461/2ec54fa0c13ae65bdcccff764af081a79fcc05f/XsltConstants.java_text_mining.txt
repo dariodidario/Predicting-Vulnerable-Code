@@ -1,0 +1,1 @@
+{'package': 1, 'org': 1, 'apache': 1, 'camel': 1, 'component': 1, 'xslt': 1, 'public': 2, 'final': 2, 'class': 1, 'XsltConstants': 2, 'static': 1, 'String': 1, 'private': 1}

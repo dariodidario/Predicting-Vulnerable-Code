@@ -1,0 +1,1 @@
+{'package': 1, 'org': 4, 'apache': 4, 'cxf': 4, 'endpoint': 2, 'import': 3, 'message': 4, 'Exchange': 2, 'Message': 3, 'transport': 1, 'Conduit': 2, 'public': 1, 'interface': 1, 'ConduitSelector': 1, 'void': 3, 'prepare': 1, 'selectConduit': 1, 'complete': 1, 'exchange': 1, 'Endpoint': 2, 'getEndpoint': 1, 'setEndpoint': 1}

@@ -1,0 +1,1 @@
+{'package': 1, 'org': 1, 'springframework': 1, 'cache': 1, 'import': 1, 'java': 1, 'util': 1, 'Collection': 2, 'public': 1, 'interface': 1, 'CacheManager': 1, 'Cache': 1, 'getCache': 1, 'String': 2, 'name': 1, 'getCacheNames': 1}

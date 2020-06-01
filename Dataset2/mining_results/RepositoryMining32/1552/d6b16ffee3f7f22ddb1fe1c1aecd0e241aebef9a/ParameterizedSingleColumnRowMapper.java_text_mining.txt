@@ -1,0 +1,1 @@
+{'package': 1, 'org': 2, 'springframework': 2, 'jdbc': 2, 'core': 2, 'simple': 1, 'import': 1, 'SingleColumnRowMapper': 2, 'Deprecated': 1, 'public': 2, 'class': 1, 'ParameterizedSingleColumnRowMapper': 4, 'T': 8, 'extends': 1, 'implements': 1, 'ParameterizedRowMapper': 1, 'static': 1, 'newInstance': 4, 'Class': 1, 'requiredType': 2, 'new': 1, 'setRequiredType': 1, 'return': 1}

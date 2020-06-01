@@ -1,0 +1,1 @@
+{'package': 1, 'org': 3, 'apache': 3, 'hc': 3, 'http': 1, 'config': 1, 'import': 2, 'annotation': 2, 'Contract': 2, 'ThreadingBehavior': 2, 'threading': 1, 'IMMUTABLE': 1, 'public': 7, 'final': 7, 'class': 1, 'AuthSchemes': 2, 'static': 6, 'String': 6, 'BASIC': 1, 'DIGEST': 1, 'NTLM': 1, 'SPNEGO': 1, 'KERBEROS': 1, 'CREDSSP': 1, 'private': 1}

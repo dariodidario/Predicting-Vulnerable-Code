@@ -1,0 +1,1 @@
+{'package': 1, 'org': 9, 'apache': 9, 'geode': 9, 'management': 1, 'internal': 1, 'security': 9, 'import': 8, 'static': 14, 'ResourcePermission': 26, 'Operation': 7, 'MANAGE': 3, 'READ': 3, 'WRITE': 3, 'Resource': 4, 'CLUSTER': 5, 'DATA': 5, 'public': 10, 'final': 10, 'class': 1, 'ResourcePermissions': 2, 'ALL': 5, 'new': 9, 'private': 1}

@@ -1,0 +1,1 @@
+{'package': 1, 'org': 1, 'apache': 1, 'tomcat': 1, 'util': 1, 'descriptor': 1, 'public': 2, 'class': 2, 'Constants': 2, 'static': 1, 'final': 1, 'String': 1, 'getPackage': 1, 'getName': 1}

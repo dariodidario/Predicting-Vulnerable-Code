@@ -1,0 +1,1 @@
+{'package': 1, 'org': 1, 'jboss': 1, 'weld': 1, 'tests': 1, 'contexts': 1, 'session': 1, 'import': 2, 'java': 1, 'io': 1, 'Serializable': 2, 'javax': 1, 'enterprise': 1, 'inject': 1, 'Veto': 2, 'public': 2, 'class': 1, 'Product': 1, 'implements': 1, 'private': 1, 'static': 1, 'final': 1, 'long': 1, 'serialVersionUID': 1, 'void': 1, 'ping': 1}

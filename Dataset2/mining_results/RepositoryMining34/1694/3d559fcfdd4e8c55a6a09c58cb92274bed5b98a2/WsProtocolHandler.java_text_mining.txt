@@ -1,0 +1,1 @@
+{'package': 1, 'org': 1, 'apache': 1, 'tomcat': 1, 'websocket': 2, 'import': 3, 'javax': 3, 'servlet': 2, 'http': 2, 'ProtocolHandler': 2, 'WebConnection': 2, 'Endpoint': 3, 'public': 3, 'class': 1, 'WsProtocolHandler': 2, 'implements': 1, 'private': 1, 'final': 1, 'ep': 5, 'this': 1, 'Override': 1, 'void': 1, 'init': 1, 'connection': 1, 'onOpen': 1, 'new': 1, 'WsSession': 1}

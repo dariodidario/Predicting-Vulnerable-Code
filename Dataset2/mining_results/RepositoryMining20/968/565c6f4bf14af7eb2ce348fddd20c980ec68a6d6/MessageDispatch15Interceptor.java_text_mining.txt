@@ -1,0 +1,1 @@
+{'package': 1, 'org': 1, 'apache': 1, 'catalina': 1, 'tribes': 1, 'group': 1, 'interceptors': 1, 'Deprecated': 1, 'public': 1, 'class': 1, 'extends': 1, 'MessageDispatchInterceptor': 1}

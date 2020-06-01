@@ -1,0 +1,1 @@
+{'package': 1, 'io': 3, 'vertx': 3, 'test': 1, 'core': 3, 'import': 2, 'MultiMap': 2, 'http': 1, 'impl': 1, 'headers': 1, 'VertxHttpHeaders': 2, 'public': 1, 'class': 1, 'VertxHttpHeadersTest': 1, 'extends': 1, 'CaseInsensitiveHeadersTest': 1, 'Override': 1, 'protected': 1, 'newMultiMap': 1, 'return': 1, 'new': 1}

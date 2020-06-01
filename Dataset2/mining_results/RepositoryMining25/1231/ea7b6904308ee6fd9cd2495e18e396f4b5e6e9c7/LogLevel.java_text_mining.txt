@@ -1,0 +1,1 @@
+{'package': 1, 'io': 2, 'netty': 2, 'handler': 1, 'logging': 2, 'import': 1, 'util': 1, 'internal': 1, 'InternalLogLevel': 9, 'public': 1, 'enum': 1, 'LogLevel': 2, 'TRACE': 2, 'DEBUG': 2, 'INFO': 2, 'WARN': 2, 'ERROR': 2, 'private': 1, 'final': 1, 'internalLevel': 5, 'this': 1, 'toInternalLevel': 1, 'return': 1}

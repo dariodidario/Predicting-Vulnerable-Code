@@ -1,0 +1,1 @@
+{'package': 1, 'retrofit': 1, 'http': 1, 'import': 5, 'java': 5, 'lang': 5, 'annotation': 5, 'Documented': 2, 'Retention': 2, 'Target': 2, 'static': 2, 'ElementType': 1, 'PARAMETER': 2, 'RetentionPolicy': 1, 'RUNTIME': 2, 'public': 1, 'interface': 1, 'Query': 1, 'String': 1, 'value': 1}

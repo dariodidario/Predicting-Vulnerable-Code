@@ -1,0 +1,1 @@
+{'package': 1, 'org': 1, 'springframework': 1, 'security': 1, 'web': 1, 'server': 1, 'util': 1, 'matcher': 6, 'public': 4, 'class': 1, 'ServerWebExchangeMatcherEntry': 2, 'T': 4, 'private': 2, 'final': 2, 'ServerWebExchangeMatcher': 3, 'entry': 5, 'this': 2, 'getMatcher': 1, 'return': 2, 'getEntry': 1}

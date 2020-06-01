@@ -1,0 +1,1 @@
+{'package': 1, 'org': 2, 'springframework': 2, 'jdbc': 2, 'core': 2, 'simple': 1, 'import': 1, 'RowMapper': 2, 'Deprecated': 1, 'public': 1, 'interface': 1, 'ParameterizedRowMapper': 1, 'T': 2, 'extends': 1}

@@ -1,0 +1,1 @@
+{'package': 1, 'org': 4, 'syncope': 2, 'core': 1, 'report': 2, 'import': 3, 'client': 1, 'ReportletConf': 2, 'xml': 2, 'sax': 2, 'ContentHandler': 2, 'SAXException': 2, 'public': 1, 'interface': 1, 'Reportlet': 1, 'void': 2, 'setConf': 1, 'conf': 1, 'extract': 1, 'handler': 1, 'throws': 1}

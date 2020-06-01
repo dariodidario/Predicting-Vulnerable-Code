@@ -1,0 +1,1 @@
+{'package': 1, 'org': 3, 'apache': 3, 'hc': 3, 'http': 1, 'config': 1, 'import': 2, 'annotation': 2, 'Contract': 2, 'ThreadingBehavior': 2, 'threading': 1, 'IMMUTABLE': 1, 'public': 5, 'final': 5, 'class': 1, 'CookieSpecs': 2, 'static': 4, 'String': 4, 'STANDARD': 1, 'standard': 1, 'strict': 1, 'DEFAULT': 1, 'private': 1}

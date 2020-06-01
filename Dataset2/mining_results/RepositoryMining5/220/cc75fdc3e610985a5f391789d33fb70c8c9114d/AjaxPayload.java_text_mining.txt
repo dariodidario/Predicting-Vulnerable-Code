@@ -1,0 +1,1 @@
+{'package': 1, 'com': 1, 'googlecode': 1, 'wicket': 3, 'jquery': 1, 'core': 1, 'ajax': 2, 'import': 2, 'org': 2, 'apache': 2, 'Component': 2, 'AjaxRequestTarget': 4, 'public': 4, 'class': 1, 'AjaxPayload': 2, 'private': 1, 'final': 1, 'target': 5, 'this': 3, 'void': 1, 'reload': 1, 'components': 2, 'getTarget': 2, 'add': 1, 'return': 1}

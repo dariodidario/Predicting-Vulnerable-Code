@@ -1,0 +1,1 @@
+{'package': 1, 'org': 2, 'apache': 2, 'ignite': 2, 'testsuites': 1, 'import': 2, 'junit': 1, 'framework': 1, 'TestSuite': 6, 'stream': 1, 'socket': 1, 'SocketStreamerSelfTest': 2, 'public': 2, 'class': 2, 'IgniteStreamSelfTestSuite': 1, 'extends': 1, 'static': 1, 'suite': 4, 'throws': 1, 'Exception': 1, 'new': 2, 'addTest': 1, 'return': 1}

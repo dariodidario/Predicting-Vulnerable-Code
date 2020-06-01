@@ -1,0 +1,1 @@
+{'package': 1, 'org': 5, 'apache': 5, 'http': 5, 'impl': 1, 'cookie': 3, 'import': 4, 'annotation': 1, 'Immutable': 2, 'CookieSpec': 2, 'CookieSpecFactory': 2, 'params': 2, 'HttpParams': 2, 'public': 2, 'class': 1, 'IgnoreSpecFactory': 1, 'implements': 1, 'newInstance': 1, 'final': 1, 'return': 1, 'new': 1, 'IgnoreSpec': 1}

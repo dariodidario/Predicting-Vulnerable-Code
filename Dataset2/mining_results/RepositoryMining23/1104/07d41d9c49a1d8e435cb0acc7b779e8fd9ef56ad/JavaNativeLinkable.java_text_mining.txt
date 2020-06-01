@@ -1,0 +1,1 @@
+{'package': 1, 'com': 5, 'facebook': 4, 'buck': 4, 'jvm': 1, 'core': 1, 'import': 4, 'cxx': 1, 'CxxPlatform': 2, 'rules': 2, 'SourcePath': 2, 'TargetGraph': 2, 'google': 1, 'common': 1, 'collect': 1, 'ImmutableMap': 2, 'public': 1, 'interface': 1, 'JavaNativeLinkable': 1, 'String': 1, 'getSharedLibraries': 1, 'targetGraph': 1, 'cxxPlatform': 1}

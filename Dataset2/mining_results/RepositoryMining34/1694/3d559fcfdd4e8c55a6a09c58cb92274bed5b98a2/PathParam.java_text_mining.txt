@@ -1,0 +1,1 @@
+{'package': 1, 'org': 1, 'apache': 1, 'tomcat': 1, 'websocket': 1, 'public': 4, 'class': 1, 'PathParam': 2, 'private': 2, 'final': 2, 'Class': 3, 'type': 5, 'String': 3, 'name': 5, 'this': 2, 'getType': 1, 'return': 2, 'getName': 1}
