@@ -31,6 +31,12 @@ def main():
 			os.chdir("..")
 	dict_file=open(dict_file_name,"w+")
 	dict_file.write(str(tm_dict))
+	dict_file.close()
+	print("BUILD SUCCESS !")
+	count = 0
+	for key in tm_dict:
+		count+=1
+	print("Ci sono :" + str(count) + " chiavi(che) !")
 
 if __name__ == '__main__':
 	main()
