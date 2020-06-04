@@ -1,0 +1,1843 @@
+Kind,Name,CountLineCode,CountDeclClass,CountDeclFunction,CountLineCodeDecl,SumEssential,SumCyclomaticStrict,MaxEssential,MaxCyclomaticStrict,MaxNesting
+File,"AbstractCasFilter.java",61,1,11,24,11,16,1,3,1
+File,"AbstractConstructorValidationTest.java",119,1,7,54,7,7,1,1,0
+File,"AbstractMessageInterpolator.java",265,1,14,90,16,37,4,15,3
+File,"AbstractMethodValidationTest.java",561,1,31,136,31,51,1,2,1
+File,"AbstractProxyServlet.java",537,3,38,145,52,120,5,11,4
+File,"Account.java",19,1,4,10,4,4,1,1,0
+File,"Actor.java",52,1,12,23,12,12,1,1,0
+File,"Address.java",41,1,4,14,10,11,7,7,2
+File,"Address.java",39,1,8,22,8,8,1,1,0
+File,"All.java",3,1,0,2,0,0,0,0,0
+File,"Animal.java",26,2,4,16,6,6,1,1,0
+File,"AnnotationMetaDataProvider.java",389,2,30,149,36,71,3,7,3
+File,"AnnotationProcessingOptions.java",92,1,8,29,8,19,1,4,2
+File,"AuthenticatorDelegate.java",102,1,12,42,15,20,4,7,3
+File,"Author.java",33,1,6,20,6,6,1,1,0
+File,"BeanDescriptorImplTest.java",97,1,5,43,5,9,1,3,1
+File,"BeanDescriptorTest.java",109,1,9,56,9,12,1,3,1
+File,"Book.java",40,2,6,26,6,6,1,1,0
+File,"BooleanPerceptronClassifier.java",165,1,8,83,8,24,1,9,3
+File,"BootstrappingTest.java",135,1,14,93,14,14,1,1,0
+File,"Boy.java",33,1,8,16,8,8,1,1,0
+File,"CCMProjectAction.java",88,3,12,47,14,18,3,4,2
+File,"ClassificationResult.java",15,1,3,7,3,3,1,1,0
+File,"Classifier.java",14,1,4,13,0,0,0,0,0
+File,"CommonUtils.java",236,1,24,74,31,75,5,16,3
+File,"CommonUtilsTests.java",145,1,16,57,16,22,1,3,2
+File,"ConfigSetsHandler.java",255,5,20,124,28,50,4,7,2
+File,"ConfigurationSource.java",13,1,2,8,4,4,1,1,0
+File,"ConstrainedExecutable.java",103,1,11,42,13,20,3,5,2
+File,"ConstraintCompositionTest.java",129,1,3,27,3,10,1,8,2
+File,"ConstraintHelperTest.java",95,4,13,40,13,13,1,1,0
+File,"ConstraintLocation.java",10,1,4,9,0,0,0,0,0
+File,"ConstraintTree.java",194,1,17,63,17,43,1,7,3
+File,"Customer.java",35,1,8,18,8,8,1,1,0
+File,"Customer.java",60,1,6,19,15,17,10,10,2
+File,"DefaultAlias.java",3,1,0,2,0,0,0,0,0
+File,"DefaultPolicyLoader.java",133,5,4,57,4,17,1,9,3
+File,"Dictonary.java",27,2,4,17,4,4,1,1,0
+File,"ElectionContext.java",501,5,26,150,49,89,9,21,7
+File,"ElementDescriptorTest.java",33,1,1,18,1,3,1,3,1
+File,"Engine.java",16,1,2,11,2,2,1,1,0
+File,"ExecutableConstraintLocation.java",106,1,13,35,22,30,10,10,2
+File,"ExecutableElement.java",232,4,45,109,43,48,5,6,2
+File,"ExecutionContext.java",239,1,32,85,35,48,4,5,2
+File,"First.java",3,1,0,2,0,0,0,0,0
+File,"FrenchAddress.java",8,1,1,5,1,1,1,1,0
+File,"GermanAddress.java",8,1,1,5,1,1,1,1,0
+File,"GroupChainGeneratorTest.java",88,1,9,44,9,10,1,2,1
+File,"GroupTest.java",314,1,10,82,10,14,1,4,2
+File,"HpackTest.java",158,1,6,59,8,9,3,3,2
+File,"HttpClient.java",518,3,83,167,82,103,1,8,3
+File,"HttpClientTest.java",206,6,20,74,22,25,3,4,2
+File,"HttpConnection.java",590,3,28,112,47,135,15,62,9
+File,"HttpDestination.java",577,2,39,117,42,108,4,11,4
+File,"HttpReceiverOverHTTP2.java",85,1,7,38,11,18,5,7,3
+File,"Huffman.java",432,1,8,312,10,26,3,11,4
+File,"HuffmanTest.java",58,1,6,29,6,6,1,1,0
+File,"JettyPolicy.java",97,1,4,30,4,20,1,8,4
+File,"KNearestNeighborClassifier.java",99,1,7,47,7,16,1,5,2
+File,"Last.java",3,1,0,2,0,0,0,0,0
+File,"Log.java",321,1,134,320,0,0,0,0,0
+File,"MetaConstraint.java",108,1,12,38,12,20,1,4,2
+File,"MetaDataProviderKeyedByClassName.java",54,1,5,29,5,7,1,3,2
+File,"MultipleMinMax.java",15,1,1,11,1,1,1,1,0
+File,"OSGiAppProvider.java",464,3,39,104,61,102,5,10,5
+File,"Order.java",12,1,2,7,2,2,1,1,0
+File,"PathImpl.java",147,1,15,47,23,39,4,6,4
+File,"Person.java",12,1,3,11,0,0,0,0,0
+File,"PluginManagerTest.java",112,1,7,68,7,9,1,3,1
+File,"ReflectionHelper.java",376,1,42,118,65,103,6,8,3
+File,"Runner.java",444,2,11,104,14,96,4,63,6
+File,"Second.java",3,1,0,2,0,0,0,0,0
+File,"ServletHandler.java",1051,3,64,221,88,242,7,40,5
+File,"ShutdownMonitor.java",350,3,29,74,39,58,9,12,5
+File,"SimpleNaiveBayesClassifier.java",143,1,12,71,12,23,1,4,3
+File,"SolrRequestParserTest.java",253,4,12,95,12,23,1,4,2
+File,"SolrRequestParsers.java",448,12,29,154,44,86,8,14,3
+File,"SslSelectChannelEndPoint.java",775,1,30,118,81,184,16,29,5
+File,"TestConfigSetsAPI.java",611,3,32,250,42,77,6,12,7
+File,"UnconstraintEntity.java",3,1,0,2,0,0,0,0,0
+File,"ValidationTest.java",213,8,19,98,19,21,1,2,1
+File,"ValidatorFactoryImpl.java",166,1,12,69,12,23,1,4,2
+File,"ValidatorImpl.java",477,1,22,154,44,95,5,16,5
+File,"ValidatorImpl.java",947,1,47,270,140,192,12,15,5
+File,"ValidatorImplTest.java",352,1,17,119,17,32,1,5,1
+File,"ValidatorResolutionTest.java",115,1,4,36,4,6,1,2,1
+File,"ValidatorUtil.java",90,1,14,41,14,15,1,2,0
+File,"XmlMappingParser.java",548,2,32,168,32,117,1,19,3
+File,"XmlMetaDataProvider.java",107,2,6,40,6,12,1,5,2
+File,"XmlParserHelper.java",90,1,6,44,8,15,3,3,2
+Public Implicit Method,"clone",,,,,0,0,,,
+Package,"hudson",0,0,,0,0,0,0,0,0
+Package,"hudson.plugins",0,0,,0,0,0,0,0,0
+Package,"hudson.plugins.ccm",88,3,,47,14,18,3,4,2
+Public Class,"hudson.plugins.ccm.CCMProjectAction",75,,,34,12,16,3,4,2
+Public Constructor,"hudson.plugins.ccm.CCMProjectAction.CCMProjectAction",4,,,1,1,1,,,0
+Public Method,"hudson.plugins.ccm.CCMProjectAction.doIndex",6,,,2,1,2,,,1
+Public Method,"hudson.plugins.ccm.CCMProjectAction.doTrend",11,,,5,1,1,,,0
+Anonymous Class,"hudson.plugins.ccm.CCMProjectAction.doTrend.(Anon_2)",4,,,0,1,1,1,1,0
+Protected Method,"hudson.plugins.ccm.CCMProjectAction.doTrend.(Anon_2).createGraph",3,,,0,1,1,,,0
+Public Method,"hudson.plugins.ccm.CCMProjectAction.doTrendMap",15,,,8,1,1,,,0
+Anonymous Class,"hudson.plugins.ccm.CCMProjectAction.doTrendMap.(Anon_1)",4,,,0,1,1,1,1,0
+Protected Method,"hudson.plugins.ccm.CCMProjectAction.doTrendMap.(Anon_1).createGraph",3,,,0,1,1,,,0
+Public Method,"hudson.plugins.ccm.CCMProjectAction.getDisplayName",3,,,1,1,1,,,0
+Public Method,"hudson.plugins.ccm.CCMProjectAction.getIconFileName",3,,,1,1,1,,,0
+Public Method,"hudson.plugins.ccm.CCMProjectAction.getLastFinishedBuild",7,,,2,1,4,,,1
+Public Method,"hudson.plugins.ccm.CCMProjectAction.getSearchUrl",3,,,1,1,1,,,0
+Public Method,"hudson.plugins.ccm.CCMProjectAction.getUrlName",3,,,1,1,1,,,0
+Public Method,"hudson.plugins.ccm.CCMProjectAction.hasValidResults",10,,,3,3,3,,,2
+Package,"org",0,0,,0,0,0,0,0,0
+Package,"org.apache",0,0,,0,0,0,0,0,0
+Package,"org.apache.lucene",0,0,,0,0,0,0,0,0
+Package,"org.apache.lucene.classification",436,5,,221,30,66,1,9,3
+Public Class,"org.apache.lucene.classification.BooleanPerceptronClassifier",135,,,54,8,24,1,9,3
+Public Constructor,"org.apache.lucene.classification.BooleanPerceptronClassifier.BooleanPerceptronClassifier",4,,,1,1,1,,,0
+Public Constructor,"org.apache.lucene.classification.BooleanPerceptronClassifier.BooleanPerceptronClassifier",3,,,1,1,1,,,0
+Public Method,"org.apache.lucene.classification.BooleanPerceptronClassifier.assignClass",21,,,7,1,4,,,3
+Public Method,"org.apache.lucene.classification.BooleanPerceptronClassifier.train",4,,,2,1,1,,,0
+Public Method,"org.apache.lucene.classification.BooleanPerceptronClassifier.train",51,,,16,1,9,,,2
+Public Method,"org.apache.lucene.classification.BooleanPerceptronClassifier.train",3,,,1,1,1,,,0
+Private Method,"org.apache.lucene.classification.BooleanPerceptronClassifier.updateFST",12,,,5,1,2,,,1
+Private Method,"org.apache.lucene.classification.BooleanPerceptronClassifier.updateWeights",26,,,10,1,5,,,2
+Public Generic Class,"org.apache.lucene.classification.ClassificationResult",14,,,6,3,3,1,1,0
+Public Constructor,"org.apache.lucene.classification.ClassificationResult.ClassificationResult",4,,,1,1,1,,,0
+TypeVariable,"org.apache.lucene.classification.ClassificationResult.T",0,,,0,0,0,0,0,0
+Public Method,"org.apache.lucene.classification.ClassificationResult.getAssignedClass",3,,,1,1,1,,,0
+Public Method,"org.apache.lucene.classification.ClassificationResult.getScore",3,,,1,1,1,,,0
+Public Generic Interface,"org.apache.lucene.classification.Classifier",9,,,8,0,0,0,0,0
+TypeVariable,"org.apache.lucene.classification.Classifier.T",0,,,0,0,0,0,0,0
+Public Abstract Method,"org.apache.lucene.classification.Classifier.assignClass",1,,,1,0,0,,,0
+Public Abstract Method,"org.apache.lucene.classification.Classifier.train",2,,,2,0,0,,,0
+Public Abstract Method,"org.apache.lucene.classification.Classifier.train",2,,,2,0,0,,,0
+Public Abstract Method,"org.apache.lucene.classification.Classifier.train",2,,,2,0,0,,,0
+Public Class,"org.apache.lucene.classification.KNearestNeighborClassifier",82,,,30,7,16,1,5,2
+Public Constructor,"org.apache.lucene.classification.KNearestNeighborClassifier.KNearestNeighborClassifier",3,,,1,1,1,,,0
+Public Constructor,"org.apache.lucene.classification.KNearestNeighborClassifier.KNearestNeighborClassifier",5,,,1,1,1,,,0
+Public Method,"org.apache.lucene.classification.KNearestNeighborClassifier.assignClass",16,,,4,1,4,,,1
+Private Method,"org.apache.lucene.classification.KNearestNeighborClassifier.selectClassFromNeighbors",23,,,8,1,5,,,2
+Public Method,"org.apache.lucene.classification.KNearestNeighborClassifier.train",3,,,1,1,1,,,0
+Public Method,"org.apache.lucene.classification.KNearestNeighborClassifier.train",3,,,1,1,1,,,0
+Public Method,"org.apache.lucene.classification.KNearestNeighborClassifier.train",15,,,1,1,3,,,1
+Public Class,"org.apache.lucene.classification.SimpleNaiveBayesClassifier",123,,,51,12,23,1,4,3
+Public Constructor,"org.apache.lucene.classification.SimpleNaiveBayesClassifier.SimpleNaiveBayesClassifier",2,,,1,1,1,,,0
+Public Method,"org.apache.lucene.classification.SimpleNaiveBayesClassifier.assignClass",20,,,9,1,4,,,2
+Private Method,"org.apache.lucene.classification.SimpleNaiveBayesClassifier.calculateLogLikelihood",11,,,6,1,2,,,1
+Private Method,"org.apache.lucene.classification.SimpleNaiveBayesClassifier.calculateLogPrior",3,,,1,1,1,,,0
+Private Method,"org.apache.lucene.classification.SimpleNaiveBayesClassifier.countDocsWithClass",15,,,4,1,3,,,2
+Private Method,"org.apache.lucene.classification.SimpleNaiveBayesClassifier.docCount",3,,,1,1,1,,,0
+Private Method,"org.apache.lucene.classification.SimpleNaiveBayesClassifier.getTextTermFreqForClass",10,,,5,1,2,,,1
+Private Method,"org.apache.lucene.classification.SimpleNaiveBayesClassifier.getWordFreqForClass",15,,,4,1,3,,,1
+Private Method,"org.apache.lucene.classification.SimpleNaiveBayesClassifier.tokenizeDoc",14,,,3,1,3,,,3
+Public Method,"org.apache.lucene.classification.SimpleNaiveBayesClassifier.train",3,,,1,1,1,,,0
+Public Method,"org.apache.lucene.classification.SimpleNaiveBayesClassifier.train",4,,,2,1,1,,,0
+Public Method,"org.apache.lucene.classification.SimpleNaiveBayesClassifier.train",10,,,2,1,1,,,0
+Package,"org.apache.solr",0,0,,0,0,0,0,0,0
+Package,"org.apache.solr.cloud",1112,8,,400,91,166,9,21,7
+Public Abstract Class,"org.apache.solr.cloud.ElectionContext",37,,,16,6,8,1,3,2
+Public Constructor,"org.apache.solr.cloud.ElectionContext.ElectionContext",8,,,2,1,1,,,0
+Public Method,"org.apache.solr.cloud.ElectionContext.cancelElection",12,,,1,1,3,,,2
+Public Method,"org.apache.solr.cloud.ElectionContext.checkIfIamLeaderFired",1,,,1,1,1,,,0
+Public Method,"org.apache.solr.cloud.ElectionContext.close",2,,,1,1,1,,,0
+Public Method,"org.apache.solr.cloud.ElectionContext.copy",3,,,1,1,1,,,0
+Public Method,"org.apache.solr.cloud.ElectionContext.joinedElectionFired",1,,,1,1,1,,,0
+Abstract Method,"org.apache.solr.cloud.ElectionContext.runLeaderProcess",1,,,1,0,0,,,0
+Class,"org.apache.solr.cloud.OverseerElectionContext",55,,,20,6,10,1,3,2
+Public Constructor,"org.apache.solr.cloud.OverseerElectionContext.OverseerElectionContext",13,,,1,1,3,,,1
+Public Method,"org.apache.solr.cloud.OverseerElectionContext.cancelElection",4,,,1,1,1,,,0
+Public Method,"org.apache.solr.cloud.OverseerElectionContext.checkIfIamLeaderFired",3,,,1,1,1,,,0
+Public Method,"org.apache.solr.cloud.OverseerElectionContext.copy",3,,,1,1,1,,,0
+Public Method,"org.apache.solr.cloud.OverseerElectionContext.joinedElectionFired",3,,,1,1,1,,,0
+Method,"org.apache.solr.cloud.OverseerElectionContext.runLeaderProcess",18,,,5,1,3,,,2
+Class,"org.apache.solr.cloud.ShardLeaderElectionContext",270,,,50,30,55,9,21,7
+Public Constructor,"org.apache.solr.cloud.ShardLeaderElectionContext.ShardLeaderElectionContext",9,,,3,1,1,,,0
+Public Method,"org.apache.solr.cloud.ShardLeaderElectionContext.close",5,,,1,1,1,,,0
+Public Method,"org.apache.solr.cloud.ShardLeaderElectionContext.copy",3,,,1,1,1,,,0
+Private Method,"org.apache.solr.cloud.ShardLeaderElectionContext.rejoinLeaderElection",11,,,2,1,2,,,1
+Method,"org.apache.solr.cloud.ShardLeaderElectionContext.runLeaderProcess",119,,,14,7,21,,,5
+Private Method,"org.apache.solr.cloud.ShardLeaderElectionContext.shouldIBeLeader",26,,,3,5,6,,,2
+Private Method,"org.apache.solr.cloud.ShardLeaderElectionContext.startLeaderInitiatedRecoveryOnReplicas",44,,,11,9,14,,,7
+Private Method,"org.apache.solr.cloud.ShardLeaderElectionContext.waitForReplicasToComeUp",43,,,6,5,9,,,4
+Class,"org.apache.solr.cloud.ShardLeaderElectionContextBase",101,,,26,4,13,1,6,2
+Public Constructor,"org.apache.solr.cloud.ShardLeaderElectionContextBase.ShardLeaderElectionContextBase",21,,,3,1,3,,,1
+Public Method,"org.apache.solr.cloud.ShardLeaderElectionContextBase.cancelElection",23,,,2,1,6,,,2
+Public Method,"org.apache.solr.cloud.ShardLeaderElectionContextBase.getLeaderElector",3,,,1,1,1,,,0
+Method,"org.apache.solr.cloud.ShardLeaderElectionContextBase.runLeaderProcess",43,,,10,1,3,,,2
+Anonymous Class,"org.apache.solr.cloud.ShardLeaderElectionContextBase.runLeaderProcess.(Anon_1)",20,,,4,3,3,3,3,2
+Public Method,"org.apache.solr.cloud.ShardLeaderElectionContextBase.runLeaderProcess.(Anon_1).execute",18,,,4,3,3,,,2
+Public Class,"org.apache.solr.cloud.TestConfigSetsAPI",530,,,169,38,68,6,12,7
+Public Static Class,"org.apache.solr.cloud.TestConfigSetsAPI.CreateNoErrorChecking",13,,,5,2,5,1,4,1
+Public Method,"org.apache.solr.cloud.TestConfigSetsAPI.CreateNoErrorChecking.getParams",7,,,2,1,4,,,1
+Public Method,"org.apache.solr.cloud.TestConfigSetsAPI.CreateNoErrorChecking.setAction",3,,,1,1,1,,,0
+Public Static Class,"org.apache.solr.cloud.TestConfigSetsAPI.DeleteNoErrorChecking",12,,,5,2,4,1,3,1
+Public Method,"org.apache.solr.cloud.TestConfigSetsAPI.DeleteNoErrorChecking.getParams",6,,,2,1,3,,,1
+Public Method,"org.apache.solr.cloud.TestConfigSetsAPI.DeleteNoErrorChecking.setAction",3,,,1,1,1,,,0
+Protected Method,"org.apache.solr.cloud.TestConfigSetsAPI.createCollection",14,,,5,1,1,,,0
+Private Method,"org.apache.solr.cloud.TestConfigSetsAPI.createTempZipFile",13,,,4,1,2,,,1
+Private Method,"org.apache.solr.cloud.TestConfigSetsAPI.getConfigSetPropertiesFromZk",17,,,4,1,3,,,2
+Private Method,"org.apache.solr.cloud.TestConfigSetsAPI.getConfigSetProps",3,,,1,1,1,,,0
+Private Static Method,"org.apache.solr.cloud.TestConfigSetsAPI.getObjectByPath",18,,,4,6,7,,,3
+Public Static Method,"org.apache.solr.cloud.TestConfigSetsAPI.postDataAndGetResponse",31,,,9,1,3,,,2
+Private Method,"org.apache.solr.cloud.TestConfigSetsAPI.protectConfigsHandler",26,,,8,1,2,,,1
+Private Method,"org.apache.solr.cloud.TestConfigSetsAPI.readFile",8,,,2,1,1,,,1
+Public Method,"org.apache.solr.cloud.TestConfigSetsAPI.scriptRequest",7,,,3,1,1,,,0
+Public Method,"org.apache.solr.cloud.TestConfigSetsAPI.setUp",4,,,1,1,1,,,0
+Private Method,"org.apache.solr.cloud.TestConfigSetsAPI.setupBaseConfigSet",11,,,3,1,2,,,1
+Public Method,"org.apache.solr.cloud.TestConfigSetsAPI.tearDown",4,,,1,1,1,,,0
+Public Method,"org.apache.solr.cloud.TestConfigSetsAPI.testCreate",10,,,1,1,1,,,0
+Public Method,"org.apache.solr.cloud.TestConfigSetsAPI.testCreateErrors",19,,,7,1,1,,,0
+Public Method,"org.apache.solr.cloud.TestConfigSetsAPI.testDelete",20,,,9,1,1,,,1
+Public Method,"org.apache.solr.cloud.TestConfigSetsAPI.testDeleteErrors",18,,,6,1,1,,,0
+Public Method,"org.apache.solr.cloud.TestConfigSetsAPI.testList",25,,,10,1,2,,,2
+Public Method,"org.apache.solr.cloud.TestConfigSetsAPI.testUpload",6,,,2,1,1,,,0
+Public Method,"org.apache.solr.cloud.TestConfigSetsAPI.testUploadErrors",32,,,10,1,1,,,0
+Public Method,"org.apache.solr.cloud.TestConfigSetsAPI.testUploadWithRunExecutableListener",9,,,3,1,2,,,0
+Public Method,"org.apache.solr.cloud.TestConfigSetsAPI.testUploadWithScriptUpdateProcessor",23,,,4,1,5,,,2
+Private Method,"org.apache.solr.cloud.TestConfigSetsAPI.uploadConfigSet",30,,,10,1,1,,,1
+Private Method,"org.apache.solr.cloud.TestConfigSetsAPI.verifyCreate",26,,,10,1,2,,,2
+Private Method,"org.apache.solr.cloud.TestConfigSetsAPI.verifyException",10,,,2,1,2,,,1
+Private Method,"org.apache.solr.cloud.TestConfigSetsAPI.verifyProperties",33,,,8,1,12,,,2
+Private Method,"org.apache.solr.cloud.TestConfigSetsAPI.xsltRequest",27,,,5,1,2,,,2
+Private Static Method,"org.apache.solr.cloud.TestConfigSetsAPI.zip",38,,,9,6,7,,,7
+Protected Method,"org.apache.solr.cloud.TestConfigSetsAPI.zkClient",6,,,2,1,2,,,1
+Package,"org.apache.solr.handler",0,0,,0,0,0,0,0,0
+Package,"org.apache.solr.handler.admin",255,5,,124,28,50,4,7,2
+Public Class,"org.apache.solr.handler.admin.ConfigSetsHandler",208,,,77,19,41,4,7,2
+Enum Type,"org.apache.solr.handler.admin.ConfigSetsHandler.ConfigSetOperation",39,,,23,6,6,3,3,2
+Anonymous Class,"org.apache.solr.handler.admin.ConfigSetsHandler.ConfigSetOperation.(Anon_1)",6,,,4,1,1,1,1,0
+Method,"org.apache.solr.handler.admin.ConfigSetsHandler.ConfigSetOperation.(Anon_1).call",4,,,2,1,1,,,0
+Anonymous Class,"org.apache.solr.handler.admin.ConfigSetsHandler.ConfigSetOperation.(Anon_2)",5,,,3,1,1,1,1,0
+Method,"org.apache.solr.handler.admin.ConfigSetsHandler.ConfigSetOperation.(Anon_2).call",3,,,1,1,1,,,0
+Anonymous Class,"org.apache.solr.handler.admin.ConfigSetsHandler.ConfigSetOperation.(Anon_3)",12,,,8,1,1,1,1,0
+Method,"org.apache.solr.handler.admin.ConfigSetsHandler.ConfigSetOperation.(Anon_3).call",10,,,6,1,1,,,0
+Constructor,"org.apache.solr.handler.admin.ConfigSetsHandler.ConfigSetOperation.ConfigSetOperation",3,,,1,1,1,,,0
+Abstract Method,"org.apache.solr.handler.admin.ConfigSetsHandler.ConfigSetOperation.call",1,,,1,0,0,,,0
+Public Static Method,"org.apache.solr.handler.admin.ConfigSetsHandler.ConfigSetOperation.get",6,,,1,3,3,,,2
+Public Method,"org.apache.solr.handler.admin.ConfigSetsHandler.ConfigSetOperation.valueOf",0,,,0,1,1,,,0
+Public Method,"org.apache.solr.handler.admin.ConfigSetsHandler.ConfigSetOperation.values",0,,,0,1,1,,,0
+Public Constructor,"org.apache.solr.handler.admin.ConfigSetsHandler.ConfigSetsHandler",3,,,1,1,1,,,0
+Private Static Method,"org.apache.solr.handler.admin.ConfigSetsHandler.copyPropertiesWithPrefix",10,,,3,1,3,,,2
+Private Method,"org.apache.solr.handler.admin.ConfigSetsHandler.createZkNodeIfNotExistsAndSetData",8,,,2,1,2,,,1
+Public Method,"org.apache.solr.handler.admin.ConfigSetsHandler.getApis",3,,,1,1,1,,,0
+Public Method,"org.apache.solr.handler.admin.ConfigSetsHandler.getCategory",3,,,1,1,1,,,0
+Public Method,"org.apache.solr.handler.admin.ConfigSetsHandler.getDescription",3,,,1,1,1,,,0
+Public Method,"org.apache.solr.handler.admin.ConfigSetsHandler.getPermissionName",12,,,3,4,6,,,2
+Method,"org.apache.solr.handler.admin.ConfigSetsHandler.getTrusted",9,,,2,1,3,,,1
+Private Method,"org.apache.solr.handler.admin.ConfigSetsHandler.handleConfigUploadRequest",34,,,10,1,6,,,2
+Public Method,"org.apache.solr.handler.admin.ConfigSetsHandler.handleRequestBody",25,,,4,3,6,,,2
+Private Method,"org.apache.solr.handler.admin.ConfigSetsHandler.handleResponse",30,,,8,1,7,,,2
+Method,"org.apache.solr.handler.admin.ConfigSetsHandler.invokeAction",6,,,3,1,1,,,0
+Public Method,"org.apache.solr.handler.admin.ConfigSetsHandler.registerV2",3,,,1,1,1,,,0
+Protected Method,"org.apache.solr.handler.admin.ConfigSetsHandler.sendToZk",8,,,3,1,2,,,1
+Package,"org.apache.solr.servlet",701,16,,249,56,109,8,14,3
+Class,"org.apache.solr.servlet.FileItemContentStream",16,,,5,2,2,1,1,0
+Public Constructor,"org.apache.solr.servlet.FileItemContentStream.FileItemContentStream",8,,,1,1,1,,,0
+Public Method,"org.apache.solr.servlet.FileItemContentStream.getStream",3,,,1,1,1,,,0
+Class,"org.apache.solr.servlet.FormDataRequestParser",66,,,18,6,15,3,9,2
+Public Constructor,"org.apache.solr.servlet.FormDataRequestParser.FormDataRequestParser",4,,,1,1,1,,,0
+Private Method,"org.apache.solr.servlet.FormDataRequestParser.getParameterIncompatibilityException",8,,,1,1,1,,,0
+Public Method,"org.apache.solr.servlet.FormDataRequestParser.isFormData",14,,,3,3,4,,,2
+Public Method,"org.apache.solr.servlet.FormDataRequestParser.parseParamsAndFillStreams",35,,,10,1,9,,,2
+Class,"org.apache.solr.servlet.HttpRequestContentStream",16,,,6,2,3,1,2,1
+Public Constructor,"org.apache.solr.servlet.HttpRequestContentStream.HttpRequestContentStream",8,,,2,1,2,,,1
+Public Method,"org.apache.solr.servlet.HttpRequestContentStream.getStream",3,,,1,1,1,,,0
+Class,"org.apache.solr.servlet.MultipartRequestParser",34,,,12,2,5,1,4,2
+Public Constructor,"org.apache.solr.servlet.MultipartRequestParser.MultipartRequestParser",4,,,1,1,1,,,0
+Public Method,"org.apache.solr.servlet.MultipartRequestParser.parseParamsAndFillStreams",25,,,8,1,4,,,2
+Class,"org.apache.solr.servlet.RawRequestParser",10,,,4,1,1,1,1,0
+Public Method,"org.apache.solr.servlet.RawRequestParser.parseParamsAndFillStreams",6,,,2,1,1,,,0
+Class,"org.apache.solr.servlet.SimpleRequestParser",9,,,4,1,1,1,1,0
+Public Method,"org.apache.solr.servlet.SimpleRequestParser.parseParamsAndFillStreams",5,,,2,1,1,,,0
+Interface,"org.apache.solr.servlet.SolrRequestParser",5,,,3,0,0,0,0,0
+Public Abstract Method,"org.apache.solr.servlet.SolrRequestParser.parseParamsAndFillStreams",2,,,2,0,0,,,0
+Public Class,"org.apache.solr.servlet.SolrRequestParserTest",226,,,68,9,20,1,4,2
+Public Static Method,"org.apache.solr.servlet.SolrRequestParserTest.afterClass",3,,,1,1,1,,,0
+Public Static Method,"org.apache.solr.servlet.SolrRequestParserTest.beforeClass",4,,,1,1,1,,,0
+Public Method,"org.apache.solr.servlet.SolrRequestParserTest.testParameterIncompatibilityException1",20,,,3,1,2,,,1
+Anonymous Class,"org.apache.solr.servlet.SolrRequestParserTest.testParameterIncompatibilityException1.(Anon_3)",2,,,0,1,1,1,1,0
+Public Method,"org.apache.solr.servlet.SolrRequestParserTest.testParameterIncompatibilityException1.(Anon_3).read",1,,,0,1,1,,,0
+Public Method,"org.apache.solr.servlet.SolrRequestParserTest.testParameterIncompatibilityException2",18,,,3,1,2,,,1
+Public Method,"org.apache.solr.servlet.SolrRequestParserTest.testStandardFormdataUploadLimit",26,,,5,1,3,,,1
+Anonymous Class,"org.apache.solr.servlet.SolrRequestParserTest.testStandardFormdataUploadLimit.(Anon_2)",3,,,0,1,1,1,1,0
+Public Method,"org.apache.solr.servlet.SolrRequestParserTest.testStandardFormdataUploadLimit.(Anon_2).read",1,,,0,1,1,,,0
+Public Method,"org.apache.solr.servlet.SolrRequestParserTest.testStandardParseParamsAndFillStreams",31,,,11,1,2,,,0
+Anonymous Class,"org.apache.solr.servlet.SolrRequestParserTest.testStandardParseParamsAndFillStreams.(for_loop_4).(Anon_1)",3,,,0,1,1,1,1,0
+Public Method,"org.apache.solr.servlet.SolrRequestParserTest.testStandardParseParamsAndFillStreams.(for_loop_4).(Anon_1).read",1,,,0,1,1,,,0
+Public Method,"org.apache.solr.servlet.SolrRequestParserTest.testStreamBody",38,,,11,1,2,,,1
+Public Method,"org.apache.solr.servlet.SolrRequestParserTest.testStreamURL",32,,,10,1,3,,,1
+Public Method,"org.apache.solr.servlet.SolrRequestParserTest.testUrlParamParsing",42,,,12,1,4,,,2
+Public Class,"org.apache.solr.servlet.SolrRequestParsers",225,,,57,22,48,8,14,3
+Static Class,"org.apache.solr.servlet.SolrRequestParsers.ByteArrayOutputStream2",5,,,2,1,1,1,1,0
+Method,"org.apache.solr.servlet.SolrRequestParsers.ByteArrayOutputStream2.buffer",3,,,1,1,1,,,0
+Public Constructor,"org.apache.solr.servlet.SolrRequestParsers.SolrRequestParsers",18,,,2,1,2,,,1
+Private Constructor,"org.apache.solr.servlet.SolrRequestParsers.SolrRequestParsers",5,,,1,1,1,,,0
+Public Method,"org.apache.solr.servlet.SolrRequestParsers.buildRequestFrom",45,,,7,1,14,,,3
+Anonymous Class,"org.apache.solr.servlet.SolrRequestParsers.buildRequestFrom.(Anon_1)",0,,,0,0,0,0,0,0
+Private Static Method,"org.apache.solr.servlet.SolrRequestParsers.decodeChars",10,,,1,1,2,,,1
+Private Static Method,"org.apache.solr.servlet.SolrRequestParsers.digit16",15,,,1,4,8,,,1
+Private Method,"org.apache.solr.servlet.SolrRequestParsers.init",12,,,4,1,1,,,0
+Public Method,"org.apache.solr.servlet.SolrRequestParsers.isHandleSelect",3,,,1,1,1,,,0
+Public Method,"org.apache.solr.servlet.SolrRequestParsers.parse",9,,,5,1,1,,,0
+Static Method,"org.apache.solr.servlet.SolrRequestParsers.parseFormDataContent",53,,,11,8,12,,,3
+Public Static Method,"org.apache.solr.servlet.SolrRequestParsers.parseQueryString",5,,,2,1,1,,,0
+Static Method,"org.apache.solr.servlet.SolrRequestParsers.parseQueryString",26,,,5,1,4,,,1
+Anonymous Class,"org.apache.solr.servlet.SolrRequestParsers.parseQueryString.(Anon_2)",15,,,2,1,3,1,3,2
+Public Method,"org.apache.solr.servlet.SolrRequestParsers.parseQueryString.(Anon_2).read",12,,,1,1,3,,,2
+Public Method,"org.apache.solr.servlet.SolrRequestParsers.setHandleSelect",3,,,1,1,1,,,0
+Class,"org.apache.solr.servlet.StandardRequestParser",31,,,9,6,7,5,6,2
+Constructor,"org.apache.solr.servlet.StandardRequestParser.StandardRequestParser",6,,,1,1,1,,,0
+Public Method,"org.apache.solr.servlet.StandardRequestParser.parseParamsAndFillStreams",18,,,3,5,6,,,2
+Package,"org.eclipse",0,0,,0,0,0,0,0,0
+Package,"org.eclipse.jetty",0,0,,0,0,0,0,0,0
+Package,"org.eclipse.jetty.client",1685,8,,396,171,346,15,62,9
+Public Class,"org.eclipse.jetty.client.HttpClient",493,,,142,81,100,1,8,3
+Interface,"org.eclipse.jetty.client.HttpClient.Connector",4,,,2,0,0,0,0,0
+Public Abstract Method,"org.eclipse.jetty.client.HttpClient.Connector.startConnection",1,,,1,0,0,,,0
+Public Constructor,"org.eclipse.jetty.client.HttpClient.HttpClient",5,,,1,1,1,,,0
+Public Constructor,"org.eclipse.jetty.client.HttpClient.HttpClient",5,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.cancel",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.clearAttributes",4,,,1,1,1,,,0
+Protected Method,"org.eclipse.jetty.client.HttpClient.doStart",49,,,2,1,4,,,0
+Anonymous Class,"org.eclipse.jetty.client.HttpClient.doStart.(Anon_1)",16,,,0,1,3,1,3,2
+Public Method,"org.eclipse.jetty.client.HttpClient.doStart.(Anon_1).run",15,,,0,1,3,,,2
+Protected Method,"org.eclipse.jetty.client.HttpClient.doStop",17,,,1,1,3,,,1
+Public Method,"org.eclipse.jetty.client.HttpClient.dump",15,,,1,1,3,,,2
+Public Method,"org.eclipse.jetty.client.HttpClient.getAttribute",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.getAttributeNames",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.getConnectTimeout",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.getConnectorType",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.getDestination",20,,,3,1,8,,,3
+Public Method,"org.eclipse.jetty.client.HttpClient.getIdleTimeout",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.getKeyManagerAlgorithm",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.getKeyStoreInputStream",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.getKeyStoreLocation",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.getKeyStoreType",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.getMaxConnectionsPerAddress",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.getMaxQueueSizePerAddress",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.getNoProxy",4,,,1,1,1,,,0
+Method,"org.eclipse.jetty.client.HttpClient.getNow",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.getProtocol",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.getProvider",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.getProxy",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.getProxyAuthentication",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.getRealmResolver",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.getRegisteredListeners",4,,,1,1,1,,,0
+Protected Method,"org.eclipse.jetty.client.HttpClient.getSSLContext",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.getSecureRandomAlgorithm",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.getSoTimeout",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.getSslContextFactory",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.getThreadPool",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.getTimeout",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.getTrustManagerAlgorithm",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.getTrustStoreInputStream",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.getTrustStoreLocation",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.getTrustStoreType",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.getUseDirectBuffers",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.hasRealms",4,,,1,1,2,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.isConnectBlocking",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.isProxied",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.maxRedirects",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.maxRetries",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.registerListener",8,,,1,1,2,,,1
+Public Method,"org.eclipse.jetty.client.HttpClient.removeAttribute",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.schedule",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.schedule",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.scheduleIdle",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.send",7,,,3,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setAttribute",4,,,1,1,1,,,0
+Private Method,"org.eclipse.jetty.client.HttpClient.setBufferTypes",17,,,1,1,4,,,1
+Public Method,"org.eclipse.jetty.client.HttpClient.setConnectBlocking",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setConnectTimeout",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setConnectorType",5,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setIdleTimeout",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setKeyManagerAlgorithm",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setKeyManagerPassword",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setKeyStoreInputStream",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setKeyStoreLocation",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setKeyStorePassword",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setKeyStoreType",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setMaxConnectionsPerAddress",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setMaxQueueSizePerAddress",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setMaxRedirects",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setMaxRetries",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setNoProxy",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setProtocol",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setProvider",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setProxy",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setProxyAuthentication",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setRealmResolver",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setSecureRandomAlgorithm",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setSoTimeout",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setThreadPool",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setTimeout",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setTrustManagerAlgorithm",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setTrustStoreInputStream",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setTrustStoreLocation",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setTrustStorePassword",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setTrustStoreType",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpClient.setUseDirectBuffers",5,,,1,1,1,,,0
+Public Class,"org.eclipse.jetty.client.HttpConnection",563,,,85,40,119,15,62,9
+Private Class,"org.eclipse.jetty.client.HttpConnection.ConnectionIdleTask",11,,,3,1,2,1,2,1
+Public Method,"org.eclipse.jetty.client.HttpConnection.ConnectionIdleTask.expired",7,,,1,1,2,,,1
+Private Class,"org.eclipse.jetty.client.HttpConnection.Handler",57,,,18,6,14,1,3,2
+Public Method,"org.eclipse.jetty.client.HttpConnection.Handler.content",8,,,2,1,3,,,1
+Public Method,"org.eclipse.jetty.client.HttpConnection.Handler.headerComplete",8,,,2,1,3,,,1
+Public Method,"org.eclipse.jetty.client.HttpConnection.Handler.messageComplete",6,,,2,1,2,,,1
+Public Method,"org.eclipse.jetty.client.HttpConnection.Handler.parsedHeader",12,,,2,1,3,,,2
+Public Method,"org.eclipse.jetty.client.HttpConnection.Handler.startRequest",3,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpConnection.Handler.startResponse",11,,,2,1,2,,,1
+Constructor,"org.eclipse.jetty.client.HttpConnection.HttpConnection",6,,,1,1,1,,,0
+Private Method,"org.eclipse.jetty.client.HttpConnection.adjustIdleTimeout",11,,,3,1,4,,,1
+Public Method,"org.eclipse.jetty.client.HttpConnection.cancelIdleTimeout",12,,,1,1,2,,,1
+Public Method,"org.eclipse.jetty.client.HttpConnection.close",19,,,1,1,8,,,2
+Public Method,"org.eclipse.jetty.client.HttpConnection.closed",3,,,1,1,1,,,0
+Private Method,"org.eclipse.jetty.client.HttpConnection.commitRequest",66,,,14,1,16,,,3
+Public Method,"org.eclipse.jetty.client.HttpConnection.dump",9,,,1,1,2,,,1
+Protected Method,"org.eclipse.jetty.client.HttpConnection.exchangeExpired",17,,,1,1,3,,,2
+Public Method,"org.eclipse.jetty.client.HttpConnection.getDestination",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpConnection.handle",238,,,13,15,62,,,9
+Public Method,"org.eclipse.jetty.client.HttpConnection.isIdle",7,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpConnection.isReserved",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpConnection.isSuspended",4,,,1,1,1,,,0
+Protected Method,"org.eclipse.jetty.client.HttpConnection.reset",8,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpConnection.send",33,,,2,3,5,,,2
+Public Method,"org.eclipse.jetty.client.HttpConnection.setDestination",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpConnection.setIdleTimeout",10,,,1,1,2,,,1
+Public Method,"org.eclipse.jetty.client.HttpConnection.setReserved",4,,,1,1,1,,,0
+Private Method,"org.eclipse.jetty.client.HttpConnection.shouldClose",11,,,1,4,4,,,2
+Public Method,"org.eclipse.jetty.client.HttpConnection.toDetailString",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpConnection.toString",4,,,1,1,1,,,0
+Public Class,"org.eclipse.jetty.client.HttpDestination",554,,,94,39,104,4,11,4
+Private Class,"org.eclipse.jetty.client.HttpDestination.ConnectExchange",33,,,9,3,4,1,2,1
+Public Constructor,"org.eclipse.jetty.client.HttpDestination.ConnectExchange.ConnectExchange",11,,,2,1,1,,,0
+Protected Method,"org.eclipse.jetty.client.HttpDestination.ConnectExchange.onConnectionFailed",4,,,1,1,1,,,0
+Protected Method,"org.eclipse.jetty.client.HttpDestination.ConnectExchange.onResponseComplete",11,,,1,1,2,,,1
+Constructor,"org.eclipse.jetty.client.HttpDestination.HttpDestination",12,,,2,1,3,,,1
+Public Method,"org.eclipse.jetty.client.HttpDestination.addAuthorization",9,,,1,1,2,,,1
+Public Method,"org.eclipse.jetty.client.HttpDestination.addCookie",9,,,1,1,2,,,1
+Public Method,"org.eclipse.jetty.client.HttpDestination.close",10,,,1,1,2,,,1
+Protected Method,"org.eclipse.jetty.client.HttpDestination.doSend",45,,,5,1,11,,,3
+Public Method,"org.eclipse.jetty.client.HttpDestination.dump",15,,,1,1,3,,,2
+Protected Method,"org.eclipse.jetty.client.HttpDestination.exchangeExpired",7,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpDestination.getAddress",4,,,1,1,1,,,0
+Private Method,"org.eclipse.jetty.client.HttpDestination.getConnection",49,,,5,1,9,,,4
+Public Method,"org.eclipse.jetty.client.HttpDestination.getConnections",7,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpDestination.getHostHeader",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpDestination.getHttpClient",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpDestination.getIdleConnection",22,,,2,4,6,,,2
+Public Method,"org.eclipse.jetty.client.HttpDestination.getIdleConnections",7,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpDestination.getMaxConnections",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpDestination.getMaxQueueSize",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpDestination.getProxy",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpDestination.getProxyAuthentication",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpDestination.isProxied",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpDestination.isSecure",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpDestination.onConnectionFailed",35,,,4,1,8,,,2
+Public Method,"org.eclipse.jetty.client.HttpDestination.onException",13,,,2,1,2,,,1
+Public Method,"org.eclipse.jetty.client.HttpDestination.onNewConnection",47,,,7,1,7,,,2
+Public Method,"org.eclipse.jetty.client.HttpDestination.resend",6,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpDestination.reserveConnection",7,,,2,1,2,,,1
+Public Method,"org.eclipse.jetty.client.HttpDestination.returnConnection",47,,,3,1,10,,,2
+Public Method,"org.eclipse.jetty.client.HttpDestination.returnIdleConnection",21,,,2,1,5,,,1
+Public Method,"org.eclipse.jetty.client.HttpDestination.send",28,,,6,1,5,,,3
+Protected Method,"org.eclipse.jetty.client.HttpDestination.send",12,,,1,1,3,,,2
+Public Method,"org.eclipse.jetty.client.HttpDestination.setMaxConnections",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpDestination.setMaxQueueSize",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpDestination.setProxy",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.client.HttpDestination.setProxyAuthentication",4,,,1,1,1,,,0
+Protected Method,"org.eclipse.jetty.client.HttpDestination.startNewConnection",18,,,2,1,3,,,2
+Public Method,"org.eclipse.jetty.client.HttpDestination.toDetailString",19,,,2,1,3,,,2
+Public Method,"org.eclipse.jetty.client.HttpDestination.toString",4,,,1,1,1,,,0
+Package,"org.eclipse.jetty.http",0,0,,0,0,0,0,0,0
+Package,"org.eclipse.jetty.http.client",206,6,,74,22,25,3,4,2
+Public Class,"org.eclipse.jetty.http.client.HttpClientTest",186,,,54,15,16,1,2,1
+Public Constructor,"org.eclipse.jetty.http.client.HttpClientTest.HttpClientTest",4,,,1,1,1,,,0
+Private Method,"org.eclipse.jetty.http.client.HttpClientTest.sleep",11,,,1,1,2,,,1
+Public Method,"org.eclipse.jetty.http.client.HttpClientTest.testClientManyWritesSlowServer",39,,,12,2,2,,,0
+Anonymous Class,"org.eclipse.jetty.http.client.HttpClientTest.testClientManyWritesSlowServer.(Anon_5)",23,,,5,3,4,3,4,2
+Public Method,"org.eclipse.jetty.http.client.HttpClientTest.testClientManyWritesSlowServer.(Anon_5).handle",21,,,5,3,4,,,2
+Lambda Method,"org.eclipse.jetty.http.client.HttpClientTest.testClientManyWritesSlowServer.(lambda_expr_1)",1,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.http.client.HttpClientTest.testRequestWithLargeResponseContent",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.http.client.HttpClientTest.testRequestWithLargeResponseContentChunked",4,,,1,1,1,,,0
+Private Method,"org.eclipse.jetty.http.client.HttpClientTest.testRequestWithResponseContent",21,,,5,1,1,,,0
+Anonymous Class,"org.eclipse.jetty.http.client.HttpClientTest.testRequestWithResponseContent.(Anon_2)",8,,,0,1,1,1,1,0
+Public Method,"org.eclipse.jetty.http.client.HttpClientTest.testRequestWithResponseContent.(Anon_2).handle",6,,,0,1,1,,,0
+Private Method,"org.eclipse.jetty.http.client.HttpClientTest.testRequestWithResponseContentChunked",29,,,9,1,1,,,0
+Anonymous Class,"org.eclipse.jetty.http.client.HttpClientTest.testRequestWithResponseContentChunked.(Anon_3)",10,,,1,1,1,1,1,0
+Public Method,"org.eclipse.jetty.http.client.HttpClientTest.testRequestWithResponseContentChunked.(Anon_3).handle",8,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.http.client.HttpClientTest.testRequestWithSmallResponseContent",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.http.client.HttpClientTest.testRequestWithSmallResponseContentChunked",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.http.client.HttpClientTest.testRequestWithoutResponseContent",18,,,4,1,1,,,0
+Anonymous Class,"org.eclipse.jetty.http.client.HttpClientTest.testRequestWithoutResponseContent.(Anon_1)",7,,,0,1,1,1,1,0
+Public Method,"org.eclipse.jetty.http.client.HttpClientTest.testRequestWithoutResponseContent.(Anon_1).handle",5,,,0,1,1,,,0
+Public Method,"org.eclipse.jetty.http.client.HttpClientTest.testUploadLargeWithoutResponseContent",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.http.client.HttpClientTest.testUploadSmallWithoutResponseContent",4,,,1,1,1,,,0
+Private Method,"org.eclipse.jetty.http.client.HttpClientTest.testUploadWithoutResponseContent",24,,,5,1,1,,,0
+Anonymous Class,"org.eclipse.jetty.http.client.HttpClientTest.testUploadWithoutResponseContent.(Anon_4)",10,,,1,1,2,1,2,1
+Public Method,"org.eclipse.jetty.http.client.HttpClientTest.testUploadWithoutResponseContent.(Anon_4).handle",8,,,1,1,2,,,1
+Public Method,"org.eclipse.jetty.http.client.HttpClientTest.testUploadZeroLengthWithoutResponseContent",4,,,1,1,1,,,0
+Package,"org.eclipse.jetty.http2",0,0,,0,0,0,0,0,0
+Package,"org.eclipse.jetty.http2.client",0,0,,0,0,0,0,0,0
+Package,"org.eclipse.jetty.http2.client.http",85,1,,38,11,18,5,7,3
+Public Class,"org.eclipse.jetty.http2.client.http.HttpReceiverOverHTTP2",69,,,22,11,18,5,7,3
+Public Constructor,"org.eclipse.jetty.http2.client.http.HttpReceiverOverHTTP2.HttpReceiverOverHTTP2",4,,,1,1,1,,,0
+Protected Method,"org.eclipse.jetty.http2.client.http.HttpReceiverOverHTTP2.getHttpChannel",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.http2.client.http.HttpReceiverOverHTTP2.onData",11,,,2,1,4,,,2
+Public Method,"org.eclipse.jetty.http2.client.http.HttpReceiverOverHTTP2.onHeaders",23,,,5,5,7,,,3
+Public Method,"org.eclipse.jetty.http2.client.http.HttpReceiverOverHTTP2.onPush",5,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.http2.client.http.HttpReceiverOverHTTP2.onReset",9,,,4,1,3,,,1
+Public Method,"org.eclipse.jetty.http2.client.http.HttpReceiverOverHTTP2.onTimeout",4,,,1,1,1,,,0
+Package,"org.eclipse.jetty.http2.hpack",648,3,,400,24,41,3,11,4
+Public Class,"org.eclipse.jetty.http2.hpack.HpackTest",139,,,40,8,9,3,3,2
+Private Method,"org.eclipse.jetty.http2.hpack.HpackTest.assertHttpFieldsSame",12,,,1,3,3,,,2
+Private Method,"org.eclipse.jetty.http2.hpack.HpackTest.assertMetadataSame",6,,,1,1,1,,,0
+Private Method,"org.eclipse.jetty.http2.hpack.HpackTest.assertMetadataSame",6,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.http2.hpack.HpackTest.encodeDecodeResponseTest",42,,,11,1,1,,,0
+Public Method,"org.eclipse.jetty.http2.hpack.HpackTest.encodeDecodeTooLargeTest",32,,,9,1,2,,,1
+Public Method,"org.eclipse.jetty.http2.hpack.HpackTest.evictReferencedFieldTest",32,,,10,1,1,,,0
+Public Class,"org.eclipse.jetty.http2.hpack.Huffman",430,,,310,10,26,3,11,4
+Public Static Method,"org.eclipse.jetty.http2.hpack.Huffman.decode",4,,,1,1,1,,,0
+Public Static Method,"org.eclipse.jetty.http2.hpack.Huffman.decode",57,,,14,3,11,,,4
+Public Static Method,"org.eclipse.jetty.http2.hpack.Huffman.encode",4,,,1,1,1,,,0
+Private Static Method,"org.eclipse.jetty.http2.hpack.Huffman.encode",31,,,9,1,6,,,2
+Public Static Method,"org.eclipse.jetty.http2.hpack.Huffman.encodeLC",4,,,1,1,1,,,0
+Public Static Method,"org.eclipse.jetty.http2.hpack.Huffman.octetsNeeded",4,,,1,1,1,,,0
+Private Static Method,"org.eclipse.jetty.http2.hpack.Huffman.octetsNeeded",13,,,4,1,4,,,2
+Public Static Method,"org.eclipse.jetty.http2.hpack.Huffman.octetsNeededLC",4,,,1,1,1,,,0
+Public Class,"org.eclipse.jetty.http2.hpack.HuffmanTest",46,,,17,6,6,1,1,0
+Public Static Method,"org.eclipse.jetty.http2.hpack.HuffmanTest.data",13,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.http2.hpack.HuffmanTest.testDecode",6,,,3,1,1,,,0
+Public Method,"org.eclipse.jetty.http2.hpack.HuffmanTest.testEncode",10,,,4,1,1,,,0
+Public Method,"org.eclipse.jetty.http2.hpack.HuffmanTest.testEncode8859Only",8,,,2,3,3,,,0
+Lambda Method,"org.eclipse.jetty.http2.hpack.HuffmanTest.testEncode8859Only.(lambda_expr_1)",1,,,0,1,1,,,0
+Lambda Method,"org.eclipse.jetty.http2.hpack.HuffmanTest.testEncode8859Only.(lambda_expr_2)",1,,,0,1,1,,,0
+Package,"org.eclipse.jetty.io",0,0,,0,0,0,0,0,0
+Package,"org.eclipse.jetty.io.nio",775,1,,118,81,184,16,29,5
+Public Class,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint",760,,,103,81,184,16,29,5
+Public Constructor,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.SslSelectChannelEndPoint",9,,,2,1,2,,,1
+Public Constructor,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.SslSelectChannelEndPoint",9,,,2,1,2,,,1
+Private Method,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.checkRenegotiate",8,,,1,1,5,,,1
+Public Method,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.close",5,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.dump",4,,,1,1,1,,,0
+Private Method,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.extractInputBuffer",8,,,3,1,1,,,0
+Private Method,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.extractOutputBuffer",6,,,1,1,2,,,1
+Public Method,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.fill",102,,,9,14,23,,,5
+Public Method,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.flush",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.flush",117,,,9,16,29,,,4
+Public Method,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.flush",21,,,3,1,8,,,3
+Private Method,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.freeInBuffer",12,,,1,1,4,,,1
+Private Method,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.freeOutBuffer",12,,,1,1,4,,,1
+Public Method,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.getSSLEngine",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.isAllowRenegotiate",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.isBufferingInput",5,,,2,1,2,,,0
+Public Method,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.isBufferingOutput",5,,,2,1,2,,,0
+Public Method,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.isBufferred",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.isInputShutdown",4,,,1,1,2,,,0
+Public Method,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.isOutputShutdown",4,,,1,1,2,,,0
+Private Method,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.needInBuffer",9,,,1,1,2,,,1
+Private Method,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.needOutBuffer",9,,,1,1,2,,,1
+Public Method,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.scheduleWrite",5,,,1,1,3,,,1
+Public Method,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.setAllowRenegotiate",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.shutdownOutput",5,,,1,1,1,,,0
+Protected Method,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.sslClose",99,,,7,10,28,,,5
+Public Method,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.toString",9,,,3,1,3,,,0
+Private Method,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.unwrap",105,,,5,9,28,,,4
+Private Method,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.wrap",75,,,5,4,12,,,2
+Private Method,"org.eclipse.jetty.io.nio.SslSelectChannelEndPoint.wrap",62,,,5,4,10,,,2
+Package,"org.eclipse.jetty.osgi",0,0,,0,0,0,0,0,0
+Package,"org.eclipse.jetty.osgi.boot",464,3,,104,61,102,5,10,5
+Class,"org.eclipse.jetty.osgi.boot.AutoStartWhenFrameworkHasCompleted",35,,,7,6,8,4,6,3
+Constructor,"org.eclipse.jetty.osgi.boot.AutoStartWhenFrameworkHasCompleted.AutoStartWhenFrameworkHasCompleted",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.osgi.boot.AutoStartWhenFrameworkHasCompleted.scanEnded",24,,,3,4,6,,,3
+Public Method,"org.eclipse.jetty.osgi.boot.AutoStartWhenFrameworkHasCompleted.scanStarted",3,,,1,1,1,,,0
+Public Class,"org.eclipse.jetty.osgi.boot.OSGiAppProvider",406,,,74,51,90,5,10,5
+Private Static Class,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.Filter",22,,,6,4,4,4,4,2
+Public Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.Filter.accept",18,,,4,4,4,,,2
+Public Constructor,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.OSGiAppProvider",5,,,1,1,1,,,0
+Public Constructor,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.OSGiAppProvider",5,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.addContext",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.addContext",11,,,3,1,2,,,1
+Protected Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.createApp",9,,,2,1,2,,,1
+Public Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.createContextHandler",13,,,2,1,4,,,1
+Protected Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.doStart",47,,,3,1,10,,,5
+Protected Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.fileAdded",12,,,2,1,4,,,1
+Protected Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.fileChanged",12,,,2,1,3,,,1
+Private Static Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.fileMightBeAnOSGiBundle",15,,,1,4,4,,,2
+Protected Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.fileRemoved",12,,,2,1,3,,,1
+Protected Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.getBundle",11,,,1,3,3,,,2
+Public Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.getConfigurationClasses",4,,,1,1,1,,,0
+Private Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.getContextHandlerAppName",15,,,2,1,6,,,3
+Public Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.getContextXmlDir",15,,,2,3,3,,,2
+Public Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.getContextXmlDirAsFile",15,,,2,3,3,,,2
+Public Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.getDefaultsDescriptor",4,,,1,1,1,,,0
+Private Static Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.getDeployedAppName",10,,,3,1,2,,,1
+Private Static Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.getOriginId",5,,,1,1,2,,,0
+Public Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.getTldBundles",4,,,1,1,1,,,0
+Protected Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.installBundle",40,,,4,5,9,,,4
+Public Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.isAutoInstallOSGiBundles",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.isExtract",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.isParentLoaderPriority",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.removeContext",22,,,3,4,6,,,3
+Public Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.setAutoInstallOSGiBundles",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.setConfigurationClasses",4,,,1,1,2,,,0
+Public Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.setContextXmlDir",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.setDefaultsDescriptor",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.setDeploymentManager",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.setExtract",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.setParentLoaderPriority",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.setTldBundles",4,,,1,1,1,,,0
+Protected Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.uninstallBundle",13,,,2,1,2,,,1
+Protected Method,"org.eclipse.jetty.osgi.boot.OSGiAppProvider.updateBundle",23,,,2,1,4,,,2
+Package,"org.eclipse.jetty.plugins",0,0,,0,0,0,0,0,0
+Package,"org.eclipse.jetty.plugins.impl",112,1,,68,7,9,1,3,1
+Public Class,"org.eclipse.jetty.plugins.impl.PluginManagerTest",91,,,47,7,9,1,3,1
+Public Method,"org.eclipse.jetty.plugins.impl.PluginManagerTest.copyToTempFile",19,,,5,1,3,,,1
+Private Method,"org.eclipse.jetty.plugins.impl.PluginManagerTest.createAvailablePluginsTestData",6,,,2,1,1,,,0
+Private Method,"org.eclipse.jetty.plugins.impl.PluginManagerTest.createTestPlugin",4,,,2,1,1,,,0
+Public Method,"org.eclipse.jetty.plugins.impl.PluginManagerTest.setUp",5,,,2,1,1,,,0
+Public Method,"org.eclipse.jetty.plugins.impl.PluginManagerTest.testInstallPluginJar",16,,,10,1,1,,,0
+Public Method,"org.eclipse.jetty.plugins.impl.PluginManagerTest.testInstallPlugins",20,,,12,1,1,,,0
+Public Method,"org.eclipse.jetty.plugins.impl.PluginManagerTest.testListAvailablePlugins",8,,,2,1,1,,,0
+Package,"org.eclipse.jetty.policy",97,1,,30,4,20,1,8,4
+Public Class,"org.eclipse.jetty.policy.JettyPolicy",81,,,14,4,20,1,8,4
+Public Constructor,"org.eclipse.jetty.policy.JettyPolicy.JettyPolicy",6,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.policy.JettyPolicy.getPermissions",26,,,3,1,8,,,4
+Public Method,"org.eclipse.jetty.policy.JettyPolicy.getPermissions",26,,,3,1,8,,,4
+Public Method,"org.eclipse.jetty.policy.JettyPolicy.refresh",16,,,2,1,3,,,2
+Package,"org.eclipse.jetty.policy.loader",133,5,,57,4,17,1,9,3
+Public Class,"org.eclipse.jetty.policy.loader.DefaultPolicyLoader",113,,,37,3,15,1,9,3
+Public Static Class,"org.eclipse.jetty.policy.loader.DefaultPolicyLoader.GrantEntry",15,,,6,1,2,1,2,1
+Public Method,"org.eclipse.jetty.policy.loader.DefaultPolicyLoader.GrantEntry.addPrincipal",8,,,1,1,2,,,1
+Public Static Class,"org.eclipse.jetty.policy.loader.DefaultPolicyLoader.KeystoreEntry",5,,,3,0,0,0,0,0
+Public Static Class,"org.eclipse.jetty.policy.loader.DefaultPolicyLoader.PermissionEntry",7,,,5,0,0,0,0,0
+Public Static Class,"org.eclipse.jetty.policy.loader.DefaultPolicyLoader.PrincipalEntry",6,,,4,0,0,0,0,0
+Public Static Method,"org.eclipse.jetty.policy.loader.DefaultPolicyLoader.load",32,,,9,1,4,,,3
+Private Static Method,"org.eclipse.jetty.policy.loader.DefaultPolicyLoader.processPermissions",32,,,6,1,9,,,3
+Private Static Method,"org.eclipse.jetty.policy.loader.DefaultPolicyLoader.resolveToCodeSource",13,,,3,1,2,,,1
+Package,"org.eclipse.jetty.proxy",537,3,,145,52,120,5,11,4
+Public Abstract Class,"org.eclipse.jetty.proxy.AbstractProxyServlet",503,,,111,46,104,5,11,4
+Class,"org.eclipse.jetty.proxy.AbstractProxyServlet.ProxyContinueProtocolHandler",9,,,4,1,1,1,1,0
+Protected Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.ProxyContinueProtocolHandler.onContinue",5,,,2,1,1,,,0
+Protected Static Class,"org.eclipse.jetty.proxy.AbstractProxyServlet.TransparentDelegate",55,,,15,5,15,3,8,2
+Protected Constructor,"org.eclipse.jetty.proxy.AbstractProxyServlet.TransparentDelegate.TransparentDelegate",4,,,1,1,1,,,0
+Protected Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.TransparentDelegate.init",17,,,3,1,6,,,2
+Protected Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.TransparentDelegate.rewriteTarget",28,,,7,3,8,,,2
+Protected Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.addProxyHeaders",5,,,1,1,1,,,0
+Protected Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.addViaHeader",4,,,1,1,1,,,0
+Protected Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.addXForwardedHeaders",7,,,1,1,1,,,0
+Protected Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.copyRequestHeaders",24,,,5,5,10,,,3
+Protected Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.createHttpClient",57,,,9,1,11,,,2
+Protected Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.createLogger",10,,,2,1,3,,,1
+Public Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.destroy",12,,,1,1,3,,,2
+Protected Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.expects100Continue",4,,,1,1,1,,,0
+Protected Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.filterServerResponseHeader",4,,,1,1,1,,,0
+Protected Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.findConnectionHeaders",18,,,5,1,4,,,3
+Public Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.getBlackListHosts",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.getHostHeader",4,,,1,1,1,,,0
+Protected Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.getHttpClient",4,,,1,1,1,,,0
+Protected Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.getRequestId",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.getTimeout",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.getViaHost",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.getWhiteListHosts",4,,,1,1,1,,,0
+Protected Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.hasContent",6,,,1,1,3,,,0
+Public Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.init",25,,,4,1,5,,,2
+Protected Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.newHttpClient",8,,,3,1,2,,,1
+Protected Abstract Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.newProxyResponseListener",1,,,1,0,0,,,0
+Protected Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.onClientRequestFailure",11,,,4,1,3,,,1
+Protected Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.onContinue",5,,,1,1,2,,,1
+Protected Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.onProxyResponseFailure",12,,,4,1,6,,,1
+Protected Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.onProxyResponseSuccess",7,,,2,1,2,,,1
+Protected Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.onProxyRewriteFailed",4,,,1,1,1,,,0
+Protected Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.onServerResponseHeaders",41,,,6,4,10,,,4
+Private Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.parseList",13,,,3,3,3,,,2
+Protected Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.rewriteTarget",10,,,3,1,3,,,1
+Protected Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.sendProxyRequest",35,,,5,1,7,,,4
+Protected Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.sendProxyResponseError",21,,,1,1,4,,,2
+Public Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.setTimeout",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.validateDestination",23,,,2,5,7,,,3
+Private Static Method,"org.eclipse.jetty.proxy.AbstractProxyServlet.viaHost",11,,,1,1,2,,,1
+Package,"org.eclipse.jetty.runner",444,2,,104,14,96,4,63,6
+Public Class,"org.eclipse.jetty.runner.Runner",404,,,64,8,82,1,63,6
+Public Class,"org.eclipse.jetty.runner.Runner.Classpath",42,,,8,6,14,4,10,4
+Public Method,"org.eclipse.jetty.runner.Runner.Classpath.addJars",28,,,4,4,10,,,4
+Public Method,"org.eclipse.jetty.runner.Runner.Classpath.addPath",6,,,1,1,3,,,1
+Public Method,"org.eclipse.jetty.runner.Runner.Classpath.asArray",4,,,1,1,1,,,0
+Public Constructor,"org.eclipse.jetty.runner.Runner.Runner",3,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.runner.Runner.configure",253,,,28,1,63,,,6
+Protected Method,"org.eclipse.jetty.runner.Runner.initClassLoader",13,,,3,1,5,,,2
+Public Static Method,"org.eclipse.jetty.runner.Runner.main",25,,,2,1,6,,,2
+Protected Method,"org.eclipse.jetty.runner.Runner.prependHandler",10,,,3,1,3,,,1
+Public Method,"org.eclipse.jetty.runner.Runner.run",5,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.runner.Runner.usage",22,,,1,1,2,,,1
+Public Method,"org.eclipse.jetty.runner.Runner.version",5,,,1,1,1,,,0
+Package,"org.eclipse.jetty.server",350,3,,74,39,58,9,12,5
+Public Class,"org.eclipse.jetty.server.ShutdownMonitor",330,,,54,26,36,3,5,2
+Private Static Class,"org.eclipse.jetty.server.ShutdownMonitor.Holder",4,,,2,0,0,0,0,0
+Private Constructor,"org.eclipse.jetty.server.ShutdownMonitor.ShutdownMonitor",8,,,1,1,1,,,0
+Private Class,"org.eclipse.jetty.server.ShutdownMonitor.ShutdownMonitorRunnable",115,,,14,13,22,9,12,5
+Private Constructor,"org.eclipse.jetty.server.ShutdownMonitor.ShutdownMonitorRunnable.ShutdownMonitorRunnable",4,,,1,1,1,,,0
+Private Method,"org.eclipse.jetty.server.ShutdownMonitor.ShutdownMonitorRunnable.informClient",5,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.server.ShutdownMonitor.ShutdownMonitorRunnable.run",79,,,7,10,13,,,5
+Lambda Method,"org.eclipse.jetty.server.ShutdownMonitor.ShutdownMonitorRunnable.run.(lambda_expr_1)",1,,,0,1,1,,,0
+Private Method,"org.eclipse.jetty.server.ShutdownMonitor.ShutdownMonitorRunnable.stopLifeCycles",22,,,2,1,7,,,3
+Private Method,"org.eclipse.jetty.server.ShutdownMonitor.addLifeCycles",7,,,1,1,1,,,0
+Method,"org.eclipse.jetty.server.ShutdownMonitor.await",10,,,1,1,2,,,1
+Private Method,"org.eclipse.jetty.server.ShutdownMonitor.containsLifeCycle",7,,,1,1,1,,,0
+Private Method,"org.eclipse.jetty.server.ShutdownMonitor.debug",5,,,1,1,2,,,1
+Private Method,"org.eclipse.jetty.server.ShutdownMonitor.debug",5,,,1,1,2,,,1
+Public Static Method,"org.eclipse.jetty.server.ShutdownMonitor.deregister",4,,,1,1,1,,,0
+Public Static Method,"org.eclipse.jetty.server.ShutdownMonitor.getInstance",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.server.ShutdownMonitor.getKey",7,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.server.ShutdownMonitor.getPort",7,,,1,1,1,,,0
+Protected Method,"org.eclipse.jetty.server.ShutdownMonitor.isAlive",7,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.server.ShutdownMonitor.isExitVm",7,,,1,1,1,,,0
+Public Static Method,"org.eclipse.jetty.server.ShutdownMonitor.isRegistered",4,,,1,1,1,,,0
+Private Method,"org.eclipse.jetty.server.ShutdownMonitor.listen",40,,,4,3,5,,,2
+Public Static Method,"org.eclipse.jetty.server.ShutdownMonitor.register",4,,,1,1,1,,,0
+Private Method,"org.eclipse.jetty.server.ShutdownMonitor.removeLifeCycle",7,,,1,1,1,,,0
+Protected Static Method,"org.eclipse.jetty.server.ShutdownMonitor.reset",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.server.ShutdownMonitor.setDebug",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.server.ShutdownMonitor.setExitVm",9,,,1,1,2,,,1
+Public Method,"org.eclipse.jetty.server.ShutdownMonitor.setKey",9,,,1,1,2,,,1
+Public Method,"org.eclipse.jetty.server.ShutdownMonitor.setPort",9,,,1,1,2,,,1
+Protected Method,"org.eclipse.jetty.server.ShutdownMonitor.start",20,,,3,1,3,,,1
+Private Method,"org.eclipse.jetty.server.ShutdownMonitor.stop",8,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.server.ShutdownMonitor.toString",4,,,1,1,1,,,0
+Package,"org.eclipse.jetty.servlet",1051,3,,221,88,242,7,40,5
+Public Class,"org.eclipse.jetty.servlet.ServletHandler",1004,,,174,80,217,7,40,5
+Private Class,"org.eclipse.jetty.servlet.ServletHandler.CachedChain",66,,,12,5,14,3,9,4
+Constructor,"org.eclipse.jetty.servlet.ServletHandler.CachedChain.CachedChain",11,,,1,1,2,,,1
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.CachedChain.doFilter",41,,,6,1,9,,,4
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.CachedChain.toString",8,,,1,3,3,,,1
+Private Class,"org.eclipse.jetty.servlet.ServletHandler.Chain",60,,,13,3,11,1,8,3
+Constructor,"org.eclipse.jetty.servlet.ServletHandler.Chain.Chain",6,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.Chain.doFilter",35,,,4,1,8,,,3
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.Chain.toString",12,,,3,1,2,,,1
+Public Constructor,"org.eclipse.jetty.servlet.ServletHandler.ServletHandler",3,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.addFilter",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.addFilter",7,,,1,1,3,,,1
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.addFilter",5,,,1,1,2,,,1
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.addFilterMapping",5,,,1,1,2,,,1
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.addFilterWithMapping",7,,,2,1,1,,,0
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.addFilterWithMapping",8,,,2,1,1,,,0
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.addFilterWithMapping",25,,,3,1,4,,,1
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.addFilterWithMapping",6,,,2,1,1,,,0
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.addFilterWithMapping",8,,,2,1,1,,,0
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.addFilterWithMapping",25,,,3,1,4,,,1
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.addServlet",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.addServletMapping",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.addServletWithMapping",8,,,2,1,1,,,0
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.addServletWithMapping",8,,,2,1,1,,,0
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.addServletWithMapping",21,,,3,1,4,,,2
+Method,"org.eclipse.jetty.servlet.ServletHandler.destroyFilter",4,,,1,1,1,,,0
+Method,"org.eclipse.jetty.servlet.ServletHandler.destroyServlet",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.doHandle",138,,,11,1,40,,,4
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.doScope",61,,,10,1,12,,,3
+Protected Method,"org.eclipse.jetty.servlet.ServletHandler.doStart",30,,,3,1,7,,,2
+Protected Method,"org.eclipse.jetty.servlet.ServletHandler.doStop",22,,,2,1,7,,,3
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.dump",11,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.getContextLog",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.getFilter",4,,,1,1,1,,,0
+Private Method,"org.eclipse.jetty.servlet.ServletHandler.getFilterChain",66,,,13,7,24,,,4
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.getFilterMappings",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.getFilters",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.getHolderEntry",6,,,1,1,2,,,1
+Method,"org.eclipse.jetty.servlet.ServletHandler.getIdentityService",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.getMaxFilterChainsCacheSize",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.getRequestDispatcher",27,,,5,4,6,,,2
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.getServlet",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.getServletContext",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.getServletMapping",19,,,2,6,6,,,5
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.getServletMappings",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.getServlets",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.initialize",38,,,5,6,10,,,5
+Private Method,"org.eclipse.jetty.servlet.ServletHandler.invalidateChainsCache",16,,,1,1,2,,,1
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.isAvailable",13,,,3,4,5,,,2
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.isFilterChainsCached",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.isStartWithUnavailable",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.newFilterHolder",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.newFilterHolder",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.newServletHolder",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.newServletHolder",4,,,1,1,1,,,0
+Protected Method,"org.eclipse.jetty.servlet.ServletHandler.notFound",7,,,3,1,2,,,1
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.prependFilterMapping",16,,,3,1,4,,,2
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.setFilterChainsCached",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.setFilterMappings",8,,,1,1,2,,,1
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.setFilters",8,,,1,1,2,,,1
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.setMaxFilterChainsCacheSize",4,,,1,1,1,,,0
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.setServer",19,,,2,1,5,,,1
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.setServletMappings",8,,,1,1,2,,,1
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.setServlets",8,,,1,1,2,,,1
+Public Method,"org.eclipse.jetty.servlet.ServletHandler.setStartWithUnavailable",4,,,1,1,1,,,0
+Protected Method,"org.eclipse.jetty.servlet.ServletHandler.updateMappings",78,,,6,1,21,,,5
+Protected Method,"org.eclipse.jetty.servlet.ServletHandler.updateNameMappings",21,,,1,1,5,,,2
+Package,"org.hibernate",0,0,,0,0,0,0,0,0
+Package,"org.hibernate.validation",0,0,,0,0,0,0,0,0
+Package,"org.hibernate.validation.bootstrap",213,8,,98,19,21,1,2,1
+Public Class,"org.hibernate.validation.bootstrap.ValidationTest",180,,,65,11,12,1,2,1
+Class,"org.hibernate.validation.bootstrap.ValidationTest.BadlyBehavedNotNullConstraintValidator",6,,,3,1,1,1,1,0
+Public Method,"org.hibernate.validation.bootstrap.ValidationTest.BadlyBehavedNotNullConstraintValidator.isValid",3,,,1,1,1,,,0
+Private Method,"org.hibernate.validation.bootstrap.ValidationTest.assertDefaultBuilderAndFactory",6,,,2,1,1,,,0
+Private Method,"org.hibernate.validation.bootstrap.ValidationTest.assertDefaultFactory",4,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.bootstrap.ValidationTest.testBootstrapAsServiceDefault",4,,,2,1,1,,,0
+Public Method,"org.hibernate.validation.bootstrap.ValidationTest.testBootstrapAsServiceWithBuilder",6,,,3,1,1,,,0
+Public Method,"org.hibernate.validation.bootstrap.ValidationTest.testCustomConstraintValidatorFactory",27,,,7,1,1,,,0
+Anonymous Class,"org.hibernate.validation.bootstrap.ValidationTest.testCustomConstraintValidatorFactory.(Anon_2)",8,,,0,1,2,1,2,1
+Public Generic Method,"org.hibernate.validation.bootstrap.ValidationTest.testCustomConstraintValidatorFactory.(Anon_2).getInstance",6,,,0,1,2,,,1
+TypeVariable,"org.hibernate.validation.bootstrap.ValidationTest.testCustomConstraintValidatorFactory.(Anon_2).getInstance.T",0,,,0,0,0,0,0,0
+Public Method,"org.hibernate.validation.bootstrap.ValidationTest.testCustomMessageInterpolator",29,,,7,1,1,,,0
+Anonymous Class,"org.hibernate.validation.bootstrap.ValidationTest.testCustomMessageInterpolator.(Anon_1)",8,,,0,2,2,1,1,0
+Public Method,"org.hibernate.validation.bootstrap.ValidationTest.testCustomMessageInterpolator.(Anon_1).interpolate",3,,,0,1,1,,,0
+Public Method,"org.hibernate.validation.bootstrap.ValidationTest.testCustomMessageInterpolator.(Anon_1).interpolate",3,,,0,1,1,,,0
+Public Method,"org.hibernate.validation.bootstrap.ValidationTest.testCustomResolver",14,,,6,1,1,,,0
+Anonymous Class,"org.hibernate.validation.bootstrap.ValidationTest.testCustomResolver.(Anon_4)",6,,,2,1,1,1,1,0
+Public Method,"org.hibernate.validation.bootstrap.ValidationTest.testCustomResolver.(Anon_4).getValidationProviders",5,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.bootstrap.ValidationTest.testCustomResolverAndType",14,,,6,1,1,,,0
+Anonymous Class,"org.hibernate.validation.bootstrap.ValidationTest.testCustomResolverAndType.(Anon_3)",6,,,2,1,1,1,1,0
+Public Method,"org.hibernate.validation.bootstrap.ValidationTest.testCustomResolverAndType.(Anon_3).getValidationProviders",5,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.bootstrap.ValidationTest.testCustomTraversableResolver",24,,,7,1,1,,,0
+Anonymous Class,"org.hibernate.validation.bootstrap.ValidationTest.testCustomTraversableResolver.(Anon_6)",5,,,0,1,1,1,1,0
+Public Method,"org.hibernate.validation.bootstrap.ValidationTest.testCustomTraversableResolver.(Anon_6).isTraversable",3,,,0,1,1,,,0
+Public Method,"org.hibernate.validation.bootstrap.ValidationTest.testFailingCustomResolver",22,,,5,1,2,,,1
+Anonymous Class,"org.hibernate.validation.bootstrap.ValidationTest.testFailingCustomResolver.(Anon_5)",4,,,1,1,1,1,1,0
+Public Method,"org.hibernate.validation.bootstrap.ValidationTest.testFailingCustomResolver.(Anon_5).getValidationProviders",3,,,0,1,1,,,0
+Public Method,"org.hibernate.validation.bootstrap.ValidationTest.testGetCustomerValidator",13,,,6,1,1,,,0
+Package,"org.hibernate.validation.eg",381,20,,222,69,69,1,1,0
+Public Class,"org.hibernate.validation.eg.Account",17,,,8,4,4,1,1,0
+Public Method,"org.hibernate.validation.eg.Account.getAccountLogin",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Account.getCustomer",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Account.setAccountLogin",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Account.setCustomer",3,,,1,1,1,,,0
+Public Class,"org.hibernate.validation.eg.Actor",47,,,19,12,12,1,1,0
+Public Constructor,"org.hibernate.validation.eg.Actor.Actor",4,,,1,1,1,,,0
+Public Constructor,"org.hibernate.validation.eg.Actor.Actor",2,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Actor.addPlayedWith",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Actor.getFirstName",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Actor.getLastName",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Actor.getMiddleName",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Actor.getPlayedWith",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Actor.setFirstName",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Actor.setLastName",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Actor.setMiddleName",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Actor.setPlayedWith",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Actor.toString",7,,,1,1,1,,,0
+Public Class,"org.hibernate.validation.eg.Address",36,,,19,8,8,1,1,0
+Public Method,"org.hibernate.validation.eg.Address.getAddressline1",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Address.getAddressline2",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Address.getCity",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Address.getZipCode",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Address.setAddressline1",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Address.setAddressline2",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Address.setCity",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Address.setZipCode",3,,,1,1,1,,,0
+Public Class,"org.hibernate.validation.eg.Animal",20,,,11,4,4,1,1,0
+Public Enum Type,"org.hibernate.validation.eg.Animal.Domain",3,,,2,2,2,1,1,0
+Public Method,"org.hibernate.validation.eg.Animal.Domain.valueOf",0,,,0,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Animal.Domain.values",0,,,0,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Animal.getDomain",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Animal.getName",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Animal.setDomain",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Animal.setName",3,,,1,1,1,,,0
+Public Class,"org.hibernate.validation.eg.Author",27,,,14,6,6,1,1,0
+Public Method,"org.hibernate.validation.eg.Author.getCompany",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Author.getFirstName",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Author.getLastName",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Author.setCompany",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Author.setFirstName",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Author.setLastName",3,,,1,1,1,,,0
+Public Class,"org.hibernate.validation.eg.Book",31,,,17,6,6,1,1,0
+Public Interface,"org.hibernate.validation.eg.Book.All",2,,,1,0,0,0,0,0
+Public Method,"org.hibernate.validation.eg.Book.getAuthor",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Book.getSubtitle",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Book.getTitle",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Book.setAuthor",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Book.setSubtitle",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Book.setTitle",3,,,1,1,1,,,0
+Public Class,"org.hibernate.validation.eg.Boy",30,,,14,8,8,1,1,0
+Public Method,"org.hibernate.validation.eg.Boy.age",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Boy.getFirstName",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Boy.getLastName",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Boy.getMiddleName",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Boy.setAge",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Boy.setFirstName",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Boy.setLastName",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Boy.setMiddleName",3,,,1,1,1,,,0
+Public Class,"org.hibernate.validation.eg.Customer",31,,,14,8,8,1,1,0
+Public Method,"org.hibernate.validation.eg.Customer.addOrder",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Customer.getFirstName",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Customer.getLastName",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Customer.getMiddleName",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Customer.getOrderList",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Customer.setFirstName",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Customer.setLastName",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Customer.setMiddleName",3,,,1,1,1,,,0
+Public Interface,"org.hibernate.validation.eg.DefaultAlias",2,,,1,0,0,0,0,0
+Public Class,"org.hibernate.validation.eg.Dictonary",22,,,12,4,4,1,1,0
+Public Interface,"org.hibernate.validation.eg.Dictonary.Translate",2,,,1,0,0,0,0,0
+Public Method,"org.hibernate.validation.eg.Dictonary.getTranslatesFrom",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Dictonary.getTranslatesTo",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Dictonary.setTranslatesFrom",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Dictonary.setTranslatesTo",3,,,1,1,1,,,0
+Public Class,"org.hibernate.validation.eg.Engine",14,,,9,2,2,1,1,0
+Public Method,"org.hibernate.validation.eg.Engine.getSerialNumber",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Engine.setSerialNumber",3,,,1,1,1,,,0
+Public Class,"org.hibernate.validation.eg.FrenchAddress",5,,,3,1,1,1,1,0
+Public Method,"org.hibernate.validation.eg.FrenchAddress.getZipCode",3,,,1,1,1,,,0
+Public Class,"org.hibernate.validation.eg.GermanAddress",5,,,3,1,1,1,1,0
+Public Method,"org.hibernate.validation.eg.GermanAddress.getZipCode",3,,,1,1,1,,,0
+Public Class,"org.hibernate.validation.eg.MultipleMinMax",12,,,8,1,1,1,1,0
+Public Constructor,"org.hibernate.validation.eg.MultipleMinMax.MultipleMinMax",4,,,1,1,1,,,0
+Public Class,"org.hibernate.validation.eg.Order",10,,,5,2,2,1,1,0
+Public Method,"org.hibernate.validation.eg.Order.getOrderNumber",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.eg.Order.setOrderNumber",3,,,1,1,1,,,0
+Public Interface,"org.hibernate.validation.eg.Person",9,,,8,0,0,0,0,0
+Abstract Method,"org.hibernate.validation.eg.Person.getFirstName",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validation.eg.Person.getLastName",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validation.eg.Person.getMiddleName",1,,,1,0,0,,,0
+Public Class,"org.hibernate.validation.eg.UnconstraintEntity",2,,,1,0,0,0,0,0
+Package,"org.hibernate.validation.eg.groups",12,4,,8,0,0,0,0,0
+Public Interface,"org.hibernate.validation.eg.groups.All",2,,,1,0,0,0,0,0
+Public Interface,"org.hibernate.validation.eg.groups.First",2,,,1,0,0,0,0,0
+Public Interface,"org.hibernate.validation.eg.groups.Last",2,,,1,0,0,0,0,0
+Public Interface,"org.hibernate.validation.eg.groups.Second",2,,,1,0,0,0,0,0
+Package,"org.hibernate.validation.engine",1730,11,,578,157,289,5,16,5
+Public Class,"org.hibernate.validation.engine.BeanDescriptorImplTest",79,,,25,5,9,1,3,1
+Public Method,"org.hibernate.validation.engine.BeanDescriptorImplTest.testElementDescriptorImmutable",20,,,6,1,3,,,1
+Public Method,"org.hibernate.validation.engine.BeanDescriptorImplTest.testGetConstrainedProperties",19,,,4,1,3,,,1
+Public Method,"org.hibernate.validation.engine.BeanDescriptorImplTest.testGetConstraintsForProperty",16,,,4,1,1,,,0
+Public Method,"org.hibernate.validation.engine.BeanDescriptorImplTest.testHasConstraintsAndIsBeanConstrained",10,,,3,1,1,,,0
+Public Method,"org.hibernate.validation.engine.BeanDescriptorImplTest.testUnconstraintClass",7,,,2,1,1,,,0
+Public Class,"org.hibernate.validation.engine.ConstraintCompositionTest",117,,,16,3,10,1,8,2
+Public Method,"org.hibernate.validation.engine.ConstraintCompositionTest.testComposition",80,,,4,1,8,,,2
+Public Method,"org.hibernate.validation.engine.ConstraintCompositionTest.testNestedComposition",16,,,4,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ConstraintCompositionTest.testOnlySingleConstraintViolation",17,,,4,1,1,,,0
+Public Class,"org.hibernate.validation.engine.ConstraintHelperTest",78,,,23,5,5,1,1,0
+Public Static Method,"org.hibernate.validation.engine.ConstraintHelperTest.init",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ConstraintHelperTest.testConstraintWithNoGroups",13,,,3,1,1,,,0
+Anonymous Class,"org.hibernate.validation.engine.ConstraintHelperTest.testConstraintWithNoGroups.(Anon_2)",7,,,1,2,2,1,1,0
+Public Method,"org.hibernate.validation.engine.ConstraintHelperTest.testConstraintWithNoGroups.(Anon_2).annotationType",3,,,0,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ConstraintHelperTest.testConstraintWithNoGroups.(Anon_2).groups",3,,,0,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ConstraintHelperTest.testConstraintWithNoMessage",13,,,3,1,1,,,0
+Anonymous Class,"org.hibernate.validation.engine.ConstraintHelperTest.testConstraintWithNoMessage.(Anon_1)",7,,,1,2,2,1,1,0
+Public Method,"org.hibernate.validation.engine.ConstraintHelperTest.testConstraintWithNoMessage.(Anon_1).annotationType",3,,,0,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ConstraintHelperTest.testConstraintWithNoMessage.(Anon_1).message",3,,,0,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ConstraintHelperTest.testConstraintWithValidInPropertyName",19,,,3,1,1,,,0
+Anonymous Class,"org.hibernate.validation.engine.ConstraintHelperTest.testConstraintWithValidInPropertyName.(Anon_3)",13,,,1,4,4,1,1,0
+Public Method,"org.hibernate.validation.engine.ConstraintHelperTest.testConstraintWithValidInPropertyName.(Anon_3).annotationType",3,,,0,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ConstraintHelperTest.testConstraintWithValidInPropertyName.(Anon_3).groups",3,,,0,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ConstraintHelperTest.testConstraintWithValidInPropertyName.(Anon_3).message",3,,,0,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ConstraintHelperTest.testConstraintWithValidInPropertyName.(Anon_3).validLength",3,,,0,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ConstraintHelperTest.testGetMultiValueConstraints",22,,,6,1,1,,,0
+Public Generic Class,"org.hibernate.validation.engine.ConstraintTree",176,,,45,17,43,1,7,3
+TypeVariable,"org.hibernate.validation.engine.ConstraintTree.A",0,,,0,0,0,0,0,0
+Public Constructor,"org.hibernate.validation.engine.ConstraintTree.ConstraintTree",3,,,1,1,1,,,0
+Private Constructor,"org.hibernate.validation.engine.ConstraintTree.ConstraintTree",11,,,3,1,2,,,1
+Private Generic Method,"org.hibernate.validation.engine.ConstraintTree.createConstraintTree",3,,,1,1,1,,,0
+TypeVariable,"org.hibernate.validation.engine.ConstraintTree.createConstraintTree.U",0,,,0,0,0,0,0,0
+Private Method,"org.hibernate.validation.engine.ConstraintTree.findMatchingValidatorClass",12,,,4,1,2,,,1
+Private Method,"org.hibernate.validation.engine.ConstraintTree.findSuitableValidatorTypes",7,,,1,1,4,,,2
+Public Method,"org.hibernate.validation.engine.ConstraintTree.getChildren",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ConstraintTree.getDescriptor",3,,,1,1,1,,,0
+Private Generic Method,"org.hibernate.validation.engine.ConstraintTree.getInitalizedValidator",23,,,3,1,4,,,2
+TypeVariable,"org.hibernate.validation.engine.ConstraintTree.getInitalizedValidator.V",0,,,0,0,0,0,0,0
+Public Method,"org.hibernate.validation.engine.ConstraintTree.getParent",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ConstraintTree.hasChildren",3,,,1,1,1,,,0
+Private Generic Method,"org.hibernate.validation.engine.ConstraintTree.initializeConstraint",11,,,4,1,2,,,1
+TypeVariable,"org.hibernate.validation.engine.ConstraintTree.initializeConstraint.V",0,,,0,0,0,0,0,0
+Public Method,"org.hibernate.validation.engine.ConstraintTree.isRoot",3,,,1,1,1,,,0
+Private Method,"org.hibernate.validation.engine.ConstraintTree.reportAsSingleViolation",4,,,1,1,2,,,0
+Private Method,"org.hibernate.validation.engine.ConstraintTree.resolveAssignableTypes",19,,,3,1,7,,,3
+Public Generic Method,"org.hibernate.validation.engine.ConstraintTree.validateConstraints",27,,,8,1,6,,,2
+TypeVariable,"org.hibernate.validation.engine.ConstraintTree.validateConstraints.T",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validation.engine.ConstraintTree.validateConstraints.V",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validation.engine.ConstraintTree.validateSingleConstraint",16,,,2,1,3,,,1
+TypeVariable,"org.hibernate.validation.engine.ConstraintTree.validateSingleConstraint.T",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validation.engine.ConstraintTree.validateSingleConstraint.V",0,,,0,0,0,0,0,0
+Private Method,"org.hibernate.validation.engine.ConstraintTree.verifyResolveWasUnique",17,,,2,1,4,,,2
+Public Generic Class,"org.hibernate.validation.engine.ExecutionContext",218,,,65,35,48,4,5,2
+Private Constructor,"org.hibernate.validation.engine.ExecutionContext.ExecutionContext",12,,,1,1,1,,,0
+TypeVariable,"org.hibernate.validation.engine.ExecutionContext.T",0,,,0,0,0,0,0,0
+Private Method,"org.hibernate.validation.engine.ExecutionContext.addConstraintFailure",6,,,2,1,2,,,1
+Public Method,"org.hibernate.validation.engine.ExecutionContext.addConstraintFailures",5,,,1,1,2,,,1
+Public Method,"org.hibernate.validation.engine.ExecutionContext.createConstraintViolation",17,,,4,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ExecutionContext.createConstraintViolations",10,,,4,1,2,,,1
+Public Method,"org.hibernate.validation.engine.ExecutionContext.getConstraintValidatorFactory",3,,,1,1,1,,,0
+Public Static Generic Method,"org.hibernate.validation.engine.ExecutionContext.getContextForValidate",7,,,3,1,1,,,0
+TypeVariable,"org.hibernate.validation.engine.ExecutionContext.getContextForValidate.T",0,,,0,0,0,0,0,0
+Public Static Generic Method,"org.hibernate.validation.engine.ExecutionContext.getContextForValidateProperty",7,,,3,1,1,,,0
+TypeVariable,"org.hibernate.validation.engine.ExecutionContext.getContextForValidateProperty.T",0,,,0,0,0,0,0,0
+Public Static Generic Method,"org.hibernate.validation.engine.ExecutionContext.getContextForValidateValue",10,,,1,1,1,,,0
+TypeVariable,"org.hibernate.validation.engine.ExecutionContext.getContextForValidateValue.T",0,,,0,0,0,0,0,0
+Public Method,"org.hibernate.validation.engine.ExecutionContext.getCurrentGroup",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ExecutionContext.getFailingConstraints",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ExecutionContext.getRootBean",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ExecutionContext.getRootBeanClass",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ExecutionContext.isAlreadyValidated",8,,,2,1,3,,,1
+Private Method,"org.hibernate.validation.engine.ExecutionContext.isAlreadyValidatedForCurrentGroup",4,,,2,1,2,,,0
+Private Method,"org.hibernate.validation.engine.ExecutionContext.isAlreadyValidatedForPath",12,,,2,4,5,,,2
+Public Method,"org.hibernate.validation.engine.ExecutionContext.isCascadeRequired",19,,,4,1,3,,,0
+Public Method,"org.hibernate.validation.engine.ExecutionContext.isValidationRequired",12,,,1,1,2,,,1
+Public Method,"org.hibernate.validation.engine.ExecutionContext.markCurrentPropertyAsIterable",3,,,1,1,1,,,0
+Private Method,"org.hibernate.validation.engine.ExecutionContext.markProcessForCurrentGroup",10,,,2,1,2,,,1
+Private Method,"org.hibernate.validation.engine.ExecutionContext.markProcessed",6,,,1,1,2,,,1
+Private Method,"org.hibernate.validation.engine.ExecutionContext.markProcessedForCurrentPath",10,,,2,1,2,,,1
+Public Method,"org.hibernate.validation.engine.ExecutionContext.peekCurrentBean",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ExecutionContext.peekCurrentBeanType",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ExecutionContext.peekPropertyPath",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ExecutionContext.popCurrentBean",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ExecutionContext.popProperty",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ExecutionContext.pushCurrentBean",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ExecutionContext.pushProperty",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ExecutionContext.setCurrentGroup",4,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ExecutionContext.setProperty",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ExecutionContext.setPropertyIndex",3,,,1,1,1,,,0
+Public Class,"org.hibernate.validation.engine.PathImpl",140,,,40,23,39,4,6,4
+Public Constructor,"org.hibernate.validation.engine.PathImpl.PathImpl",7,,,2,1,2,,,1
+Private Constructor,"org.hibernate.validation.engine.PathImpl.PathImpl",4,,,1,1,1,,,0
+Private Constructor,"org.hibernate.validation.engine.PathImpl.PathImpl",6,,,1,1,2,,,1
+Public Method,"org.hibernate.validation.engine.PathImpl.addNode",3,,,1,1,1,,,0
+Public Static Method,"org.hibernate.validation.engine.PathImpl.createNewRootPath",3,,,1,1,1,,,0
+Public Static Method,"org.hibernate.validation.engine.PathImpl.createPathFromString",9,,,1,1,3,,,1
+Public Method,"org.hibernate.validation.engine.PathImpl.equals",13,,,2,4,6,,,1
+Public Method,"org.hibernate.validation.engine.PathImpl.getLeafNode",6,,,1,1,2,,,1
+Public Method,"org.hibernate.validation.engine.PathImpl.getPathWithoutLeafNode",7,,,2,1,2,,,1
+Public Method,"org.hibernate.validation.engine.PathImpl.hashCode",3,,,1,1,2,,,0
+Public Method,"org.hibernate.validation.engine.PathImpl.isSubPathOf",15,,,5,4,4,,,2
+Public Method,"org.hibernate.validation.engine.PathImpl.iterator",3,,,1,1,1,,,0
+Private Static Method,"org.hibernate.validation.engine.PathImpl.parseProperty",28,,,8,1,5,,,4
+Public Method,"org.hibernate.validation.engine.PathImpl.removeLeafNode",9,,,1,1,3,,,1
+Public Method,"org.hibernate.validation.engine.PathImpl.toString",15,,,4,3,4,,,2
+Public Class,"org.hibernate.validation.engine.ValidatorImpl",443,,,120,44,95,5,16,5
+Public Constructor,"org.hibernate.validation.engine.ValidatorImpl.ValidatorImpl",8,,,1,1,1,,,0
+Private Generic Method,"org.hibernate.validation.engine.ValidatorImpl.collectMetaConstraintsForPath",43,,,6,4,16,,,5
+TypeVariable,"org.hibernate.validation.engine.ValidatorImpl.collectMetaConstraintsForPath.T",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validation.engine.ValidatorImpl.createIteratorForCascadedValue",23,,,5,1,4,,,1
+TypeVariable,"org.hibernate.validation.engine.ValidatorImpl.createIteratorForCascadedValue.T",0,,,0,0,0,0,0,0
+Private Method,"org.hibernate.validation.engine.ValidatorImpl.determineGroupExecutionOrder",9,,,1,1,3,,,1
+Private Generic Method,"org.hibernate.validation.engine.ValidatorImpl.getBeanMetaData",8,,,2,1,2,,,1
+TypeVariable,"org.hibernate.validation.engine.ValidatorImpl.getBeanMetaData.T",0,,,0,0,0,0,0,0
+Private Method,"org.hibernate.validation.engine.ValidatorImpl.getCachingTraversableResolver",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ValidatorImpl.getConstraintsForClass",3,,,1,1,1,,,0
+Private Method,"org.hibernate.validation.engine.ValidatorImpl.isIndexable",13,,,2,1,4,,,1
+Private Method,"org.hibernate.validation.engine.ValidatorImpl.sanityCheckPropertyPath",5,,,1,1,3,,,1
+Public Generic Method,"org.hibernate.validation.engine.ValidatorImpl.unwrap",3,,,1,1,1,,,0
+TypeVariable,"org.hibernate.validation.engine.ValidatorImpl.unwrap.T",0,,,0,0,0,0,0,0
+Public Generic Method,"org.hibernate.validation.engine.ValidatorImpl.validate",11,,,5,1,2,,,1
+TypeVariable,"org.hibernate.validation.engine.ValidatorImpl.validate.T",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validation.engine.ValidatorImpl.validateCascadedConstraint",26,,,6,1,6,,,3
+TypeVariable,"org.hibernate.validation.engine.ValidatorImpl.validateCascadedConstraint.T",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validation.engine.ValidatorImpl.validateCascadedConstraints",17,,,7,1,4,,,3
+TypeVariable,"org.hibernate.validation.engine.ValidatorImpl.validateCascadedConstraints.T",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validation.engine.ValidatorImpl.validateConstraints",24,,,5,4,7,,,3
+TypeVariable,"org.hibernate.validation.engine.ValidatorImpl.validateConstraints.T",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validation.engine.ValidatorImpl.validateConstraintsForCurrentGroup",12,,,3,1,4,,,2
+TypeVariable,"org.hibernate.validation.engine.ValidatorImpl.validateConstraintsForCurrentGroup.T",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validation.engine.ValidatorImpl.validateInContext",31,,,7,5,7,,,3
+TypeVariable,"org.hibernate.validation.engine.ValidatorImpl.validateInContext.T",0,,,0,0,0,0,0,0
+Public Generic Method,"org.hibernate.validation.engine.ValidatorImpl.validateProperty",12,,,3,1,2,,,1
+Private Generic Method,"org.hibernate.validation.engine.ValidatorImpl.validateProperty",47,,,12,5,7,,,3
+TypeVariable,"org.hibernate.validation.engine.ValidatorImpl.validateProperty.T",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validation.engine.ValidatorImpl.validateProperty.T",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validation.engine.ValidatorImpl.validatePropertyForGroup",39,,,13,3,6,,,3
+TypeVariable,"org.hibernate.validation.engine.ValidatorImpl.validatePropertyForGroup.T",0,,,0,0,0,0,0,0
+Public Generic Method,"org.hibernate.validation.engine.ValidatorImpl.validateValue",12,,,3,1,2,,,1
+Private Generic Method,"org.hibernate.validation.engine.ValidatorImpl.validateValue",40,,,8,5,6,,,3
+TypeVariable,"org.hibernate.validation.engine.ValidatorImpl.validateValue.T",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validation.engine.ValidatorImpl.validateValue.T",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validation.engine.ValidatorImpl.validateValueForGroup",35,,,13,3,6,,,3
+TypeVariable,"org.hibernate.validation.engine.ValidatorImpl.validateValueForGroup.T",0,,,0,0,0,0,0,0
+Public Class,"org.hibernate.validation.engine.ValidatorImplTest",325,,,92,17,32,1,5,1
+Public Method,"org.hibernate.validation.engine.ValidatorImplTest.testBasicValidation",10,,,4,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ValidatorImplTest.testConstraintDescriptorWithoutExplicitGroup",15,,,7,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ValidatorImplTest.testGraphValidation",21,,,7,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ValidatorImplTest.testMultiValueConstraint",13,,,4,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ValidatorImplTest.testMultipleValidationMethods",31,,,4,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ValidatorImplTest.testNullParamterToValidatorImplConstructor",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ValidatorImplTest.testObjectTraversion",14,,,6,1,2,,,1
+Public Method,"org.hibernate.validation.engine.ValidatorImplTest.testPassingNullAsGroup",25,,,3,1,4,,,1
+Public Method,"org.hibernate.validation.engine.ValidatorImplTest.testValidateList",17,,,6,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ValidatorImplTest.testValidateProperty",19,,,7,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ValidatorImplTest.testValidatePropertyWithInvalidPropertyPath",34,,,4,1,5,,,1
+Public Method,"org.hibernate.validation.engine.ValidatorImplTest.testValidateValue",15,,,5,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ValidatorImplTest.testValidateValueWithInvalidPropertyPath",24,,,2,1,4,,,1
+Public Method,"org.hibernate.validation.engine.ValidatorImplTest.testValidateWithNull",4,,,2,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ValidatorImplTest.testValidateWithNullProperty",24,,,2,1,4,,,1
+Public Method,"org.hibernate.validation.engine.ValidatorImplTest.testValidationIsPolymorphic",21,,,6,1,1,,,0
+Public Method,"org.hibernate.validation.engine.ValidatorImplTest.testWrongMethodName",14,,,2,1,2,,,1
+Package,"org.hibernate.validation.engine.groups",402,2,,126,19,24,1,4,2
+Public Class,"org.hibernate.validation.engine.groups.GroupChainGeneratorTest",75,,,31,9,10,1,2,1
+Private Method,"org.hibernate.validation.engine.groups.GroupChainGeneratorTest.countGroups",9,,,3,1,2,,,1
+Public Method,"org.hibernate.validation.engine.groups.GroupChainGeneratorTest.init",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.engine.groups.GroupChainGeneratorTest.testCyclicGroupSequence",5,,,2,1,1,,,0
+Public Method,"org.hibernate.validation.engine.groups.GroupChainGeneratorTest.testCyclicGroupSequences",5,,,2,1,1,,,0
+Public Method,"org.hibernate.validation.engine.groups.GroupChainGeneratorTest.testGroupChainForEmptySet",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.engine.groups.GroupChainGeneratorTest.testGroupChainForNonInterface",5,,,2,1,1,,,0
+Public Method,"org.hibernate.validation.engine.groups.GroupChainGeneratorTest.testGroupChainForNull",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.engine.groups.GroupChainGeneratorTest.testGroupDuplicates",22,,,4,1,1,,,0
+Public Method,"org.hibernate.validation.engine.groups.GroupChainGeneratorTest.testSequenceResolution",9,,,5,1,1,,,0
+Public Class,"org.hibernate.validation.engine.groups.GroupTest",292,,,61,10,14,1,4,2
+Public Method,"org.hibernate.validation.engine.groups.GroupTest.testGroupSequence",30,,,6,1,1,,,0
+Public Method,"org.hibernate.validation.engine.groups.GroupTest.testGroupSequenceFollowedByGroup",38,,,5,1,4,,,2
+Public Method,"org.hibernate.validation.engine.groups.GroupTest.testGroupSequences",12,,,5,1,1,,,0
+Public Method,"org.hibernate.validation.engine.groups.GroupTest.testGroups",43,,,7,1,1,,,0
+Public Method,"org.hibernate.validation.engine.groups.GroupTest.testImplicitGroup",12,,,6,1,1,,,0
+Public Method,"org.hibernate.validation.engine.groups.GroupTest.testInvalidRedefinitionOfDefaultGroup",13,,,3,1,2,,,1
+Public Method,"org.hibernate.validation.engine.groups.GroupTest.testRedefiningDefaultGroup",23,,,5,1,1,,,0
+Public Method,"org.hibernate.validation.engine.groups.GroupTest.testRedefiningDefaultGroup2",38,,,4,1,1,,,0
+Public Method,"org.hibernate.validation.engine.groups.GroupTest.testValidateAgainstDifferentGroups",58,,,4,1,1,,,0
+Public Method,"org.hibernate.validation.engine.groups.GroupTest.testValidationFailureInMultipleGroups",14,,,5,1,1,,,0
+Package,"org.hibernate.validation.engine.metadata",142,2,,74,10,15,1,3,1
+Public Class,"org.hibernate.validation.engine.metadata.BeanDescriptorImplTest",96,,,43,9,12,1,3,1
+Public Method,"org.hibernate.validation.engine.metadata.BeanDescriptorImplTest.testGetConstrainedProperties",11,,,5,1,2,,,1
+Public Method,"org.hibernate.validation.engine.metadata.BeanDescriptorImplTest.testGetConstrainedPropertiesForUnconstraintEntity",6,,,4,1,1,,,0
+Public Method,"org.hibernate.validation.engine.metadata.BeanDescriptorImplTest.testGetConstrainedPropertiesImmutable",17,,,4,1,3,,,1
+Public Method,"org.hibernate.validation.engine.metadata.BeanDescriptorImplTest.testGetConstraintForExistingConstrainedProperty",14,,,4,1,1,,,0
+Public Method,"org.hibernate.validation.engine.metadata.BeanDescriptorImplTest.testGetConstraintForUnConstrainedProperty",9,,,4,1,1,,,0
+Public Method,"org.hibernate.validation.engine.metadata.BeanDescriptorImplTest.testGetConstraintsForNonExistingProperty",5,,,3,1,1,,,0
+Public Method,"org.hibernate.validation.engine.metadata.BeanDescriptorImplTest.testGetConstraintsForNullProperty",5,,,3,1,1,,,0
+Public Method,"org.hibernate.validation.engine.metadata.BeanDescriptorImplTest.testIsBeanConstrained",12,,,3,1,1,,,0
+Public Method,"org.hibernate.validation.engine.metadata.BeanDescriptorImplTest.testUnconstraintClass",6,,,3,1,1,,,0
+Public Class,"org.hibernate.validation.engine.metadata.ElementDescriptorImplTest",22,,,8,1,3,1,3,1
+Public Method,"org.hibernate.validation.engine.metadata.ElementDescriptorImplTest.testElementDescriptorImmutable",20,,,6,1,3,,,1
+Package,"org.hibernate.validation.engine.validatorresolution",115,1,,36,4,6,1,2,1
+Public Class,"org.hibernate.validation.engine.validatorresolution.ValidatorResolutionTest",99,,,21,4,6,1,2,1
+Public Method,"org.hibernate.validation.engine.validatorresolution.ValidatorResolutionTest.testAmbigiousValidatorResolution",11,,,3,1,2,,,1
+Public Method,"org.hibernate.validation.engine.validatorresolution.ValidatorResolutionTest.testMultipleSizeValidators",66,,,6,1,1,,,0
+Public Method,"org.hibernate.validation.engine.validatorresolution.ValidatorResolutionTest.testUnexpectedType",11,,,3,1,2,,,1
+Public Method,"org.hibernate.validation.engine.validatorresolution.ValidatorResolutionTest.testValidatorResolutionForMinMax",6,,,4,1,1,,,0
+Package,"org.hibernate.validation.metadata",108,1,,38,12,20,1,4,2
+Public Generic Class,"org.hibernate.validation.metadata.MetaConstraint",93,,,23,12,20,1,4,2
+TypeVariable,"org.hibernate.validation.metadata.MetaConstraint.A",0,,,0,0,0,0,0,0
+Public Constructor,"org.hibernate.validation.metadata.MetaConstraint.MetaConstraint",7,,,1,1,1,,,0
+Public Constructor,"org.hibernate.validation.metadata.MetaConstraint.MetaConstraint",15,,,1,1,3,,,1
+TypeVariable,"org.hibernate.validation.metadata.MetaConstraint.T",0,,,0,0,0,0,0,0
+Public Method,"org.hibernate.validation.metadata.MetaConstraint.getBeanClass",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.metadata.MetaConstraint.getConstraintTree",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.metadata.MetaConstraint.getDescriptor",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.metadata.MetaConstraint.getElementType",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.metadata.MetaConstraint.getGroupList",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validation.metadata.MetaConstraint.getPropertyName",3,,,1,1,1,,,0
+Private Method,"org.hibernate.validation.metadata.MetaConstraint.getValue",10,,,1,1,2,,,1
+Private Method,"org.hibernate.validation.metadata.MetaConstraint.typeOfAnnoatedElement",16,,,2,1,4,,,2
+Public Generic Method,"org.hibernate.validation.metadata.MetaConstraint.validateConstraint",11,,,4,1,2,,,1
+Public Generic Method,"org.hibernate.validation.metadata.MetaConstraint.validateConstraint",9,,,2,1,2,,,1
+TypeVariable,"org.hibernate.validation.metadata.MetaConstraint.validateConstraint.T",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validation.metadata.MetaConstraint.validateConstraint.T",0,,,0,0,0,0,0,0
+Package,"org.hibernate.validator",0,0,,0,0,0,0,0,0
+Package,"org.hibernate.validator.internal",0,0,,0,0,0,0,0,0
+Package,"org.hibernate.validator.internal.engine",1113,2,,339,152,215,12,15,5
+Public Class,"org.hibernate.validator.internal.engine.ValidatorFactoryImpl",140,,,43,12,23,1,4,2
+Public Constructor,"org.hibernate.validator.internal.engine.ValidatorFactoryImpl.ValidatorFactoryImpl",30,,,4,1,4,,,2
+Private Method,"org.hibernate.validator.internal.engine.ValidatorFactoryImpl.buildDataProviders",16,,,2,1,3,,,1
+Private Method,"org.hibernate.validator.internal.engine.ValidatorFactoryImpl.checkPropertiesForFailFast",12,,,4,1,4,,,2
+Public Method,"org.hibernate.validator.internal.engine.ValidatorFactoryImpl.close",6,,,1,1,2,,,1
+Method,"org.hibernate.validator.internal.engine.ValidatorFactoryImpl.createValidator",26,,,6,1,2,,,1
+Public Method,"org.hibernate.validator.internal.engine.ValidatorFactoryImpl.getConstraintValidatorFactory",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.engine.ValidatorFactoryImpl.getMessageInterpolator",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.engine.ValidatorFactoryImpl.getParameterNameProvider",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.engine.ValidatorFactoryImpl.getTraversableResolver",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.engine.ValidatorFactoryImpl.getValidator",9,,,1,1,1,,,0
+Public Generic Method,"org.hibernate.validator.internal.engine.ValidatorFactoryImpl.unwrap",6,,,1,1,2,,,1
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorFactoryImpl.unwrap.T",0,,,0,0,0,0,0,0
+Public Method,"org.hibernate.validator.internal.engine.ValidatorFactoryImpl.usingContext",3,,,1,1,1,,,0
+Public Class,"org.hibernate.validator.internal.engine.ValidatorImpl",902,,,225,140,192,12,15,5
+Public Constructor,"org.hibernate.validator.internal.engine.ValidatorImpl.ValidatorImpl",14,,,6,1,1,,,0
+Private Generic Method,"org.hibernate.validator.internal.engine.ValidatorImpl.collectMetaConstraintsForPath",44,,,7,5,13,,,4
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.collectMetaConstraintsForPath.T",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.collectMetaConstraintsForPath.U",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.collectMetaConstraintsForPath.V",0,,,0,0,0,0,0,0
+Private Method,"org.hibernate.validator.internal.engine.ValidatorImpl.createIteratorForCascadedValue",23,,,5,1,4,,,1
+Private Method,"org.hibernate.validator.internal.engine.ValidatorImpl.determineGroupValidationOrder",13,,,2,1,4,,,2
+Public Method,"org.hibernate.validator.internal.engine.ValidatorImpl.forExecutables",3,,,1,1,1,,,0
+Private Method,"org.hibernate.validator.internal.engine.ValidatorImpl.getCachingTraversableResolver",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.engine.ValidatorImpl.getConstraintsForClass",3,,,1,1,1,,,0
+Private Generic Method,"org.hibernate.validator.internal.engine.ValidatorImpl.getExecutableValueContext",19,,,2,1,2,,,1
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.getExecutableValueContext.T",0,,,0,0,0,0,0,0
+Private Method,"org.hibernate.validator.internal.engine.ValidatorImpl.getValidationContext",10,,,1,1,1,,,0
+Private Method,"org.hibernate.validator.internal.engine.ValidatorImpl.isCascadeRequired",22,,,3,4,4,,,1
+Private Method,"org.hibernate.validator.internal.engine.ValidatorImpl.isClassLevelConstraint",3,,,1,1,1,,,0
+Private Method,"org.hibernate.validator.internal.engine.ValidatorImpl.isCrossParameterValidation",4,,,1,1,2,,,0
+Private Method,"org.hibernate.validator.internal.engine.ValidatorImpl.isIndexable",13,,,2,1,4,,,1
+Private Method,"org.hibernate.validator.internal.engine.ValidatorImpl.isParameterValidation",3,,,1,1,1,,,0
+Private Method,"org.hibernate.validator.internal.engine.ValidatorImpl.isReachable",18,,,2,3,3,,,1
+Private Method,"org.hibernate.validator.internal.engine.ValidatorImpl.isReturnValueValidation",3,,,1,1,1,,,0
+Private Method,"org.hibernate.validator.internal.engine.ValidatorImpl.isValidationRequired",11,,,1,1,2,,,1
+Private Method,"org.hibernate.validator.internal.engine.ValidatorImpl.needToCallTraversableResolver",6,,,1,1,4,,,0
+Private Method,"org.hibernate.validator.internal.engine.ValidatorImpl.sanityCheckPropertyPath",5,,,1,1,3,,,1
+Private Method,"org.hibernate.validator.internal.engine.ValidatorImpl.shouldFailFast",3,,,1,1,2,,,0
+Public Generic Method,"org.hibernate.validator.internal.engine.ValidatorImpl.unwrap",6,,,1,1,2,,,1
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.unwrap.T",0,,,0,0,0,0,0,0
+Public Generic Method,"org.hibernate.validator.internal.engine.ValidatorImpl.validate",11,,,5,1,1,,,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validate.T",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validator.internal.engine.ValidatorImpl.validateCascadedConstraint",43,,,7,4,7,,,3
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateCascadedConstraint.T",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validator.internal.engine.ValidatorImpl.validateCascadedConstraints",36,,,10,5,5,,,4
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateCascadedConstraints.T",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateCascadedConstraints.U",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateCascadedConstraints.V",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraint",22,,,6,1,3,,,1
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraint.T",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraint.U",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraint.V",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraintsForCurrentGroup",8,,,1,1,2,,,1
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraintsForCurrentGroup.T",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraintsForCurrentGroup.U",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraintsForCurrentGroup.V",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraintsForDefaultGroup",42,,,13,9,12,,,5
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraintsForDefaultGroup.T",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraintsForDefaultGroup.U",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraintsForDefaultGroup.V",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraintsForGroup",15,,,4,4,4,,,2
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraintsForGroup.T",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraintsForNonDefaultGroup",12,,,3,3,3,,,2
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraintsForNonDefaultGroup.T",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraintsForNonDefaultGroup.U",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraintsForNonDefaultGroup.V",0,,,0,0,0,0,0,0
+Public Generic Method,"org.hibernate.validator.internal.engine.ValidatorImpl.validateConstructorParameters",5,,,1,1,1,,,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateConstructorParameters.T",0,,,0,0,0,0,0,0
+Public Generic Method,"org.hibernate.validator.internal.engine.ValidatorImpl.validateConstructorReturnValue",5,,,1,1,1,,,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateConstructorReturnValue.T",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validator.internal.engine.ValidatorImpl.validateInContext",47,,,8,11,12,,,3
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateInContext.T",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateInContext.U",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateInContext.V",0,,,0,0,0,0,0,0
+Public Generic Method,"org.hibernate.validator.internal.engine.ValidatorImpl.validateParameters",6,,,1,1,1,,,0
+Private Generic Method,"org.hibernate.validator.internal.engine.ValidatorImpl.validateParameters",13,,,4,1,2,,,1
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateParameters.T",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateParameters.T",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validator.internal.engine.ValidatorImpl.validateParametersForGroup",48,,,11,6,7,,,3
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateParametersForGroup.T",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validator.internal.engine.ValidatorImpl.validateParametersInContext",51,,,14,10,11,,,3
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateParametersInContext.T",0,,,0,0,0,0,0,0
+Public Generic Method,"org.hibernate.validator.internal.engine.ValidatorImpl.validateProperty",11,,,3,1,1,,,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateProperty.T",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validator.internal.engine.ValidatorImpl.validatePropertyForCurrentGroup",6,,,1,1,2,,,1
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validatePropertyForCurrentGroup.T",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validatePropertyForCurrentGroup.U",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validatePropertyForCurrentGroup.V",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validator.internal.engine.ValidatorImpl.validatePropertyForDefaultGroup",52,,,17,10,15,,,5
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validatePropertyForDefaultGroup.T",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validatePropertyForDefaultGroup.U",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validatePropertyForDefaultGroup.V",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validator.internal.engine.ValidatorImpl.validatePropertyForNonDefaultGroup",18,,,4,4,5,,,3
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validatePropertyForNonDefaultGroup.T",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validatePropertyForNonDefaultGroup.U",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validatePropertyForNonDefaultGroup.V",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validator.internal.engine.ValidatorImpl.validatePropertyInContext",47,,,12,8,10,,,3
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validatePropertyInContext.T",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validatePropertyInContext.U",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validatePropertyInContext.V",0,,,0,0,0,0,0,0
+Public Generic Method,"org.hibernate.validator.internal.engine.ValidatorImpl.validateReturnValue",5,,,1,1,1,,,0
+Private Generic Method,"org.hibernate.validator.internal.engine.ValidatorImpl.validateReturnValue",10,,,4,1,1,,,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateReturnValue.T",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateReturnValue.T",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validator.internal.engine.ValidatorImpl.validateReturnValueForGroup",34,,,8,4,5,,,2
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateReturnValueForGroup.T",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateReturnValueForGroup.V",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validator.internal.engine.ValidatorImpl.validateReturnValueInContext",53,,,10,12,13,,,4
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateReturnValueInContext.T",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateReturnValueInContext.V",0,,,0,0,0,0,0,0
+Public Generic Method,"org.hibernate.validator.internal.engine.ValidatorImpl.validateValue",12,,,3,1,1,,,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateValue.T",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validator.internal.engine.ValidatorImpl.validateValueInContext",40,,,11,8,9,,,3
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateValueInContext.T",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateValueInContext.U",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.engine.ValidatorImpl.validateValueInContext.V",0,,,0,0,0,0,0,0
+Package,"org.hibernate.validator.internal.metadata",0,0,,0,0,0,0,0,0
+Package,"org.hibernate.validator.internal.metadata.core",92,1,,29,8,19,1,4,2
+Public Class,"org.hibernate.validator.internal.metadata.core.AnnotationProcessingOptions",83,,,20,8,19,1,4,2
+Public Method,"org.hibernate.validator.internal.metadata.core.AnnotationProcessingOptions.areClassLevelConstraintAnnotationsIgnored",13,,,2,1,4,,,1
+Public Method,"org.hibernate.validator.internal.metadata.core.AnnotationProcessingOptions.areConstraintAnnotationsIgnored",3,,,1,1,2,,,0
+Public Method,"org.hibernate.validator.internal.metadata.core.AnnotationProcessingOptions.arePropertyLevelConstraintAnnotationsIgnored",15,,,4,1,4,,,1
+Public Method,"org.hibernate.validator.internal.metadata.core.AnnotationProcessingOptions.ignoreAnnotationConstraintForClass",8,,,1,1,2,,,1
+Public Method,"org.hibernate.validator.internal.metadata.core.AnnotationProcessingOptions.ignoreClassLevelConstraintAnnotations",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.core.AnnotationProcessingOptions.ignorePropertyLevelConstraintAnnotationsOnMember",11,,,3,1,2,,,1
+Private Method,"org.hibernate.validator.internal.metadata.core.AnnotationProcessingOptions.logMessage",17,,,2,1,3,,,2
+Public Method,"org.hibernate.validator.internal.metadata.core.AnnotationProcessingOptions.merge",7,,,1,1,1,,,0
+Package,"org.hibernate.validator.internal.metadata.location",116,2,,44,22,30,10,10,2
+Public Interface,"org.hibernate.validator.internal.metadata.location.ConstraintLocation",6,,,5,0,0,0,0,0
+Abstract Method,"org.hibernate.validator.internal.metadata.location.ConstraintLocation.getBeanClass",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.metadata.location.ConstraintLocation.getElementType",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.metadata.location.ConstraintLocation.getMember",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.metadata.location.ConstraintLocation.typeOfAnnotatedElement",1,,,1,0,0,,,0
+Public Class,"org.hibernate.validator.internal.metadata.location.ExecutableConstraintLocation",98,,,27,22,30,10,10,2
+Public Constructor,"org.hibernate.validator.internal.metadata.location.ExecutableConstraintLocation.ExecutableConstraintLocation",3,,,1,1,1,,,0
+Public Constructor,"org.hibernate.validator.internal.metadata.location.ExecutableConstraintLocation.ExecutableConstraintLocation",3,,,1,1,1,,,0
+Public Constructor,"org.hibernate.validator.internal.metadata.location.ExecutableConstraintLocation.ExecutableConstraintLocation",5,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.location.ExecutableConstraintLocation.equals",29,,,2,10,10,,,2
+Public Method,"org.hibernate.validator.internal.metadata.location.ExecutableConstraintLocation.getBeanClass",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.location.ExecutableConstraintLocation.getElementType",3,,,1,1,2,,,0
+Public Method,"org.hibernate.validator.internal.metadata.location.ExecutableConstraintLocation.getExecutableElement",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.location.ExecutableConstraintLocation.getMember",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.location.ExecutableConstraintLocation.getParameterIndex",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.location.ExecutableConstraintLocation.getParameterType",3,,,1,1,2,,,0
+Public Method,"org.hibernate.validator.internal.metadata.location.ExecutableConstraintLocation.hashCode",8,,,3,1,3,,,0
+Public Method,"org.hibernate.validator.internal.metadata.location.ExecutableConstraintLocation.toString",8,,,1,1,2,,,0
+Public Method,"org.hibernate.validator.internal.metadata.location.ExecutableConstraintLocation.typeOfAnnotatedElement",13,,,2,1,4,,,1
+Package,"org.hibernate.validator.internal.metadata.provider",550,5,,218,47,90,3,7,3
+Public Class,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider",338,,,99,35,70,3,7,3
+Public Constructor,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.AnnotationMetaDataProvider",12,,,3,1,1,,,0
+Private Generic Method,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.buildConstraintDescriptor",3,,,1,1,1,,,0
+TypeVariable,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.buildConstraintDescriptor.A",0,,,0,0,0,0,0,0
+Private Method,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.byType",8,,,1,1,1,,,0
+Anonymous Class,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.byType.(Anon_1)",5,,,0,1,1,1,1,0
+Public Method,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.byType.(Anon_1).getPartition",3,,,0,1,1,,,0
+Private Method,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.convertToMetaConstraints",7,,,2,1,2,,,1
+Private Method,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.convertToMetaConstraints",14,,,2,1,4,,,1
+Private Generic Method,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.createCrossParameterMetaConstraint",3,,,1,1,1,,,0
+TypeVariable,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.createCrossParameterMetaConstraint.A",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.createMetaConstraint",3,,,1,1,1,,,0
+Private Generic Method,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.createMetaConstraint",3,,,1,1,1,,,0
+TypeVariable,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.createMetaConstraint.A",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.createMetaConstraint.A",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.createParameterMetaConstraint",3,,,1,1,1,,,0
+TypeVariable,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.createParameterMetaConstraint.A",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.createReturnValueMetaConstraint",3,,,1,1,1,,,0
+TypeVariable,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.createReturnValueMetaConstraint.A",0,,,0,0,0,0,0,0
+Private Method,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.findClassLevelConstraints",7,,,2,1,2,,,1
+Private Generic Method,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.findConstraintAnnotations",19,,,6,1,5,,,1
+TypeVariable,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.findConstraintAnnotations.A",0,,,0,0,0,0,0,0
+Private Method,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.findConstraints",7,,,2,1,2,,,1
+Private Method,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.findExecutableMetaData",32,,,12,1,1,,,0
+Private Method,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.findPropertyMetaData",18,,,6,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.getAnnotationProcessingOptions",3,,,1,1,1,,,0
+Private Method,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.getBeanConfiguration",9,,,2,1,2,,,1
+Public Generic Method,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.getBeanConfigurationForHierarchy",13,,,5,1,3,,,2
+TypeVariable,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.getBeanConfigurationForHierarchy.T",0,,,0,0,0,0,0,0
+Private Method,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.getClassLevelConstraints",11,,,3,1,3,,,1
+Private Method,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.getConstructorMetaData",6,,,3,1,1,,,0
+Private Method,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.getDefaultGroupSequence",4,,,2,1,2,,,0
+Private Generic Method,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.getDefaultGroupSequenceProvider",7,,,2,1,2,,,1
+TypeVariable,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.getDefaultGroupSequenceProvider.T",0,,,0,0,0,0,0,0
+Private Method,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.getGroupConversions",21,,,2,1,5,,,3
+Private Method,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.getMetaData",13,,,3,3,5,,,2
+Private Method,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.getMethodMetaData",6,,,3,1,1,,,0
+Private Method,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.getParameterMetaData",45,,,11,1,7,,,3
+Private Method,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.getPropertyMetaData",12,,,2,3,5,,,2
+Private Generic Method,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.newGroupSequenceProviderClassInstance",13,,,3,3,6,,,2
+TypeVariable,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.newGroupSequenceProviderClassInstance.T",0,,,0,0,0,0,0,0
+Private Generic Method,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.retrieveBeanConfiguration",22,,,5,1,2,,,1
+TypeVariable,"org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider.retrieveBeanConfiguration.T",0,,,0,0,0,0,0,0
+Public Abstract Class,"org.hibernate.validator.internal.metadata.provider.MetaDataProviderKeyedByClassName",40,,,16,5,7,1,3,2
+Public Constructor,"org.hibernate.validator.internal.metadata.provider.MetaDataProviderKeyedByClassName.MetaDataProviderKeyedByClassName",4,,,1,1,1,,,0
+Protected Method,"org.hibernate.validator.internal.metadata.provider.MetaDataProviderKeyedByClassName.addBeanConfiguration",3,,,1,1,1,,,0
+Protected Generic Method,"org.hibernate.validator.internal.metadata.provider.MetaDataProviderKeyedByClassName.createBeanConfiguration",13,,,5,1,1,,,0
+TypeVariable,"org.hibernate.validator.internal.metadata.provider.MetaDataProviderKeyedByClassName.createBeanConfiguration.T",0,,,0,0,0,0,0,0
+Protected Method,"org.hibernate.validator.internal.metadata.provider.MetaDataProviderKeyedByClassName.getBeanConfiguration",4,,,1,1,1,,,0
+Public Generic Method,"org.hibernate.validator.internal.metadata.provider.MetaDataProviderKeyedByClassName.getBeanConfigurationForHierarchy",13,,,5,1,3,,,2
+TypeVariable,"org.hibernate.validator.internal.metadata.provider.MetaDataProviderKeyedByClassName.getBeanConfigurationForHierarchy.T",0,,,0,0,0,0,0,0
+Public Class,"org.hibernate.validator.internal.metadata.provider.XmlMetaDataProvider",83,,,16,5,11,1,5,2
+Public Constructor,"org.hibernate.validator.internal.metadata.provider.XmlMetaDataProvider.XmlMetaDataProvider",23,,,6,1,2,,,1
+Protected Method,"org.hibernate.validator.internal.metadata.provider.XmlMetaDataProvider.byLocation",8,,,1,1,1,,,0
+Anonymous Class,"org.hibernate.validator.internal.metadata.provider.XmlMetaDataProvider.byLocation.(Anon_1)",5,,,0,1,1,1,1,0
+Public Method,"org.hibernate.validator.internal.metadata.provider.XmlMetaDataProvider.byLocation.(Anon_1).getPartition",3,,,0,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.provider.XmlMetaDataProvider.getAnnotationProcessingOptions",3,,,1,1,1,,,0
+Private Method,"org.hibernate.validator.internal.metadata.provider.XmlMetaDataProvider.getCascades",7,,,2,1,2,,,1
+Private Method,"org.hibernate.validator.internal.metadata.provider.XmlMetaDataProvider.getConstrainedElements",38,,,3,1,5,,,2
+Package,"org.hibernate.validator.internal.metadata.raw",348,6,,159,60,72,5,6,2
+Public Enum Type,"org.hibernate.validator.internal.metadata.raw.ConfigurationSource",11,,,7,4,4,1,1,0
+Private Constructor,"org.hibernate.validator.internal.metadata.raw.ConfigurationSource.ConfigurationSource",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ConfigurationSource.getPriority",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ConfigurationSource.valueOf",0,,,0,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ConfigurationSource.values",0,,,0,1,1,,,0
+Public Class,"org.hibernate.validator.internal.metadata.raw.ConstrainedExecutable",92,,,31,13,20,3,5,2
+Public Constructor,"org.hibernate.validator.internal.metadata.raw.ConstrainedExecutable.ConstrainedExecutable",31,,,9,1,5,,,1
+Public Constructor,"org.hibernate.validator.internal.metadata.raw.ConstrainedExecutable.ConstrainedExecutable",15,,,5,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ConstrainedExecutable.getAllParameterMetaData",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ConstrainedExecutable.getCrossParameterConstraints",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ConstrainedExecutable.getLocation",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ConstrainedExecutable.getParameterMetaData",6,,,1,1,3,,,1
+Private Method,"org.hibernate.validator.internal.metadata.raw.ConstrainedExecutable.hasParameterConstraints",8,,,1,3,3,,,2
+Public Method,"org.hibernate.validator.internal.metadata.raw.ConstrainedExecutable.hasParameterConstraints",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ConstrainedExecutable.isConstrained",3,,,1,1,2,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ConstrainedExecutable.isGetterMethod",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ConstrainedExecutable.toString",5,,,1,1,1,,,0
+Public Abstract Class,"org.hibernate.validator.internal.metadata.raw.ExecutableElement",211,,,88,16,19,5,6,2
+Private Static Class,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.ConstructorElement",68,,,30,13,14,1,2,1
+Private Constructor,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.ConstructorElement.ConstructorElement",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.ConstructorElement.getAccessibleObject",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.ConstructorElement.getElementType",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.ConstructorElement.getGenericParameterTypes",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.ConstructorElement.getMember",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.ConstructorElement.getParameterAnnotations",14,,,3,1,2,,,1
+Public Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.ConstructorElement.getParameterNames",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.ConstructorElement.getParameterTypes",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.ConstructorElement.getReturnType",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.ConstructorElement.getSimpleName",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.ConstructorElement.isGetterMethod",3,,,1,1,1,,,0
+Private Generic Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.ConstructorElement.paddedLeft",7,,,3,1,1,,,0
+TypeVariable,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.ConstructorElement.paddedLeft.T",0,,,0,0,0,0,0,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.ConstructorElement.toString",3,,,1,1,1,,,0
+Private Constructor,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.ExecutableElement",2,,,1,1,1,,,0
+Private Static Class,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.MethodElement",50,,,25,12,12,1,1,0
+Public Constructor,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.MethodElement.MethodElement",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.MethodElement.getAccessibleObject",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.MethodElement.getElementType",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.MethodElement.getGenericParameterTypes",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.MethodElement.getMember",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.MethodElement.getParameterAnnotations",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.MethodElement.getParameterNames",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.MethodElement.getParameterTypes",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.MethodElement.getReturnType",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.MethodElement.getSimpleName",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.MethodElement.isGetterMethod",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.MethodElement.toString",3,,,1,1,1,,,0
+Private Static Class,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.SimpleMethodFilter",13,,,6,2,3,1,2,0
+Private Constructor,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.SimpleMethodFilter.SimpleMethodFilter",4,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.SimpleMethodFilter.include",4,,,1,1,2,,,0
+Public Static Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.forConstructor",3,,,1,1,1,,,0
+Public Static Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.forConstructors",7,,,2,1,2,,,1
+Public Static Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.forMethod",3,,,1,1,1,,,0
+Public Static Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.forMethods",7,,,2,1,2,,,1
+Public Abstract Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.getAccessibleObject",1,,,1,0,0,,,0
+Public Abstract Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.getElementType",1,,,1,0,0,,,0
+Public Abstract Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.getGenericParameterTypes",1,,,1,0,0,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.getIdentifier",3,,,1,1,1,,,0
+Public Abstract Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.getMember",1,,,1,0,0,,,0
+Public Abstract Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.getParameterAnnotations",1,,,1,0,0,,,0
+Public Abstract Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.getParameterNames",1,,,1,0,0,,,0
+Public Abstract Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.getParameterTypes",1,,,1,0,0,,,0
+Public Abstract Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.getReturnType",1,,,1,0,0,,,0
+Public Abstract Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.getSimpleName",1,,,1,0,0,,,0
+Public Abstract Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.isGetterMethod",1,,,1,0,0,,,0
+Public Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.overrides",18,,,1,5,6,,,1
+Private Method,"org.hibernate.validator.internal.metadata.raw.ExecutableElement.parametersResolveToSameTypes",24,,,6,5,5,,,2
+Package,"org.hibernate.validator.internal.util",376,1,,118,65,103,6,8,3
+Public Class,"org.hibernate.validator.internal.util.ReflectionHelper",332,,,74,65,103,6,8,3
+Private Constructor,"org.hibernate.validator.internal.util.ReflectionHelper.ReflectionHelper",2,,,1,1,1,,,0
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.boxedType",7,,,2,1,2,,,1
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.computeAllImplementedInterfaces",5,,,2,1,1,,,0
+Private Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.computeAllImplementedInterfaces",9,,,1,1,3,,,1
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.computeClassHierarchy",5,,,2,1,1,,,0
+Private Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.computeClassHierarchy",13,,,1,3,5,,,3
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.containsDeclaredField",3,,,1,1,1,,,0
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.containsMethodWithPropertyName",3,,,1,1,1,,,0
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.createIteratorForCascadedValue",20,,,5,1,4,,,1
+Public Static Generic Method,"org.hibernate.validator.internal.util.ReflectionHelper.getAnnotationParameter",3,,,1,1,1,,,0
+TypeVariable,"org.hibernate.validator.internal.util.ReflectionHelper.getAnnotationParameter.T",0,,,0,0,0,0,0,0
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.getClassLoaderFromClass",3,,,1,1,1,,,0
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.getClassLoaderFromContext",3,,,1,1,1,,,0
+Public Static Generic Method,"org.hibernate.validator.internal.util.ReflectionHelper.getConstructor",3,,,1,1,1,,,0
+TypeVariable,"org.hibernate.validator.internal.util.ReflectionHelper.getConstructor.T",0,,,0,0,0,0,0,0
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.getDeclaredConstructors",3,,,1,1,1,,,0
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.getDeclaredField",3,,,1,1,1,,,0
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.getDeclaredFields",3,,,1,1,1,,,0
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.getDeclaredMethod",3,,,1,1,1,,,0
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.getDeclaredMethods",3,,,1,1,1,,,0
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.getIndexedType",15,,,4,1,6,,,1
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.getIndexedValue",27,,,6,6,6,,,2
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.getMappedValue",7,,,2,1,2,,,1
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.getMember",23,,,3,4,8,,,3
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.getMethod",3,,,1,1,1,,,0
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.getMethodFromPropertyName",3,,,1,1,1,,,0
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.getMethods",3,,,1,1,1,,,0
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.getPropertyName",15,,,3,1,5,,,3
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.getType",10,,,2,1,3,,,1
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.getValue",9,,,1,3,3,,,1
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.getValue",8,,,1,1,2,,,1
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.getValue",11,,,1,3,3,,,1
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.isGetterMethod",3,,,1,1,2,,,0
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.isIterable",13,,,2,4,6,,,1
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.isList",13,,,2,4,6,,,1
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.isMap",13,,,2,4,6,,,1
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.loadClass",3,,,1,1,1,,,0
+Public Static Generic Method,"org.hibernate.validator.internal.util.ReflectionHelper.newConstructorInstance",3,,,1,1,1,,,0
+TypeVariable,"org.hibernate.validator.internal.util.ReflectionHelper.newConstructorInstance.T",0,,,0,0,0,0,0,0
+Public Static Generic Method,"org.hibernate.validator.internal.util.ReflectionHelper.newInstance",3,,,1,1,1,,,0
+TypeVariable,"org.hibernate.validator.internal.util.ReflectionHelper.newInstance.T",0,,,0,0,0,0,0,0
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.propertyExists",3,,,1,1,1,,,0
+Private Static Generic Method,"org.hibernate.validator.internal.util.ReflectionHelper.run",3,,,1,1,2,,,0
+TypeVariable,"org.hibernate.validator.internal.util.ReflectionHelper.run.T",0,,,0,0,0,0,0,0
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.setAccessibility",3,,,1,1,1,,,0
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.typeOf",19,,,2,1,5,,,1
+Public Static Method,"org.hibernate.validator.internal.util.ReflectionHelper.typeOf",7,,,2,1,2,,,1
+Package,"org.hibernate.validator.internal.util.logging",321,1,,320,0,0,0,0,0
+Public Interface,"org.hibernate.validator.internal.util.logging.Log",293,,,292,0,0,0,0,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.beanManagerIsNotAvailable",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.errorInExpressionLanguage",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getAnnotationDoesNotContainAParameterException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getAnnotationIsNoConstraintTypeException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getAtLeastOneCustomMessageMustBeCreatedException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getAtLeastOneGroupHasToBeSpecifiedException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getAttemptToSpecifyAnArrayWhereSingleValueIsExpectedException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getBeanClassHasAlreadyBeConfiguredInXmlException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getBeanClassMustBePartOfRedefinedDefaultGroupSequenceException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getBeanDoesNotContainTheFieldException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getBeanDoesNotContainThePropertyException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getCharacterIsNotADigitException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getConstraintFactoryMustNotReturnNullException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getConstraintParametersCannotStartWithValidException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getConstraintWithoutMandatoryParameterException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getCyclicDependencyInGroupsDefinitionException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getElementTypeHasToBeFieldOrMethodException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getEndIndexCannotBeNegativeException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getErrorDuringCallOfTraversableResolverIsCascadableException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getErrorDuringCallOfTraversableResolverIsReachableException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getErrorDuringScriptExecutionException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getErrorParsingMappingFileException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getExceptionDuringIsValidCall",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getGroupConversionForSequenceException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getGroupConversionOnNonCascadingElementException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getGroupHasToBeAnInterfaceException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getHasToBeAPrimitiveTypeException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getIllegalArgumentException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getInconsistentConfigurationException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getInconsistentFailFastConfigurationException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getInvalidBigDecimalFormatException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getInvalidCharValueException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getInvalidCheckDigitException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getInvalidDefaultGroupSequenceDefinitionException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getInvalidIndexException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getInvalidJavaIdentifierException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getInvalidLengthForFractionPartException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getInvalidLengthForIntegerPartException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getInvalidLengthOfParameterMetaDataListException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getInvalidMethodParameterIndexException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getInvalidMethodParameterIndexException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getInvalidNumberFormatException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getInvalidPropertyPathException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getInvalidPropertyPathException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getInvalidPropertyValue",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getInvalidRangeException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getInvalidRegularExpressionException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getInvalidReturnTypeException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getIsDefinedTwiceInMappingXmlForBeanException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getIsNotAConstraintValidatorClassException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getIsNotAnAnnotationException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getLengthCannotBeNegativeException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getMaxCannotBeNegativeException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getMemberIsNeitherAFieldNorAMethodException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getMinCannotBeNegativeException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getMissingActualTypeArgumentForTypeParameterException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getMissingFormatStringInTemplateException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getMoreThanOneValidatorFoundForTypeException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getMultipleDefinitionOfDefaultGroupSequenceException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getMultipleDefinitionOfDefaultGroupSequenceProviderException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getMultipleGroupConversionsForSameSourceException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getNoDefaultGroupInGroupSequenceException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getNoValidatorFoundForTypeException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getNoValueProvidedForAnnotationParameterException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getNullIsAnInvalidTypeForAConstraintValidatorException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getOverriddenConstraintAttributeNotFoundException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getPropertyNameCannotBeNullOrEmptyException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getPropertyPathMustProvideIndexOrMapKeyException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getReservedParameterNamesException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getScriptMustReturnTrueOrFalseException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getScriptMustReturnTrueOrFalseException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getSequenceDefinitionsNotAllowedException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getStartIndexCannotBeNegativeException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getTryingToInstantiateAnnotationWithUnknownParametersException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getTypeNotSupportedForUnwrappingException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToAccessMemberException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToCreateAnnotationForConfiguredConstraintException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToDetermineSchemaVersionException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToExpandDefaultGroupListException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToExpandGroupSequenceException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToFindAnnotationConstraintsException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToFindAnnotationParameterException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToFindMethodException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToFindPropertyWithAccessException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToFindProviderException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToGetAnnotationParameterException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToInitializeConstraintValidatorException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToInstantiateBeanValidationProviderException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToInstantiateConstraintFactoryClassException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToInstantiateException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToInstantiateException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToInstantiateException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToInstantiateMessageInterpolatorClassException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToInstantiateParameterNameProviderClassException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToInstantiateTraversableResolverClassException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToInstantiateValidationProviderClassException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToLoadClassException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToLoadClassException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToOpenInputStreamForMappingFileException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToParsePropertyPathException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToParseValidationXmlFileException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToReadAnnotationAttributesException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToReadServicesFileException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToResetXmlInputStreamException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnableToRetrieveAnnotationParameterValueException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnexpectedParameterValueException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnexpectedParameterValueException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getUnsupportedSchemaVersionException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getWrongAttributeTypeForOverriddenConstraintException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getWrongDefaultGroupSequenceProviderTypeException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getWrongDefaultValueForGroupsParameterException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getWrongDefaultValueForPayloadParameterException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getWrongParameterTypeException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getWrongPayloadClassException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getWrongTypeForGroupsParameterException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getWrongTypeForMessageParameterException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.getWrongTypeForPayloadParameterException",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.ignoringXmlConfiguration",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.methodReturnValueMustNotBeMarkedMoreThanOnceForCascadedValidation",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.parsingXMLFile",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.throwInvalidFormat",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.unableToCloseInputStream",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.unableToCloseXMLFileInputStream",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.unableToCreateSchema",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.unableToLoadProviderClass",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.unableToNarrowNodeType",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.unknownPropertyInExpressionLanguage",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.usingConstraintFactory",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.usingMessageInterpolator",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.usingParameterNameProvider",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.usingTraversableResolver",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.usingValidationProvider",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.version",1,,,1,0,0,,,0
+Abstract Method,"org.hibernate.validator.internal.util.logging.Log.voidMethodsMustNotBeConstrained",1,,,1,0,0,,,0
+Package,"org.hibernate.validator.internal.xml",638,3,,212,40,132,3,19,3
+Public Class,"org.hibernate.validator.internal.xml.XmlMappingParser",507,,,128,30,115,1,19,3
+Private Static Class,"org.hibernate.validator.internal.xml.XmlMappingParser.CloseIgnoringInputStream",8,,,4,2,2,1,1,0
+Public Constructor,"org.hibernate.validator.internal.xml.XmlMappingParser.CloseIgnoringInputStream.CloseIgnoringInputStream",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.xml.XmlMappingParser.CloseIgnoringInputStream.close",2,,,1,1,1,,,0
+Public Constructor,"org.hibernate.validator.internal.xml.XmlMappingParser.XmlMappingParser",7,,,1,1,1,,,0
+Private Method,"org.hibernate.validator.internal.xml.XmlMappingParser.addCascadedMember",10,,,2,1,2,,,1
+Private Method,"org.hibernate.validator.internal.xml.XmlMappingParser.addMetaConstraint",10,,,2,1,2,,,1
+Private Method,"org.hibernate.validator.internal.xml.XmlMappingParser.checkClassHasNotBeenProcessed",5,,,1,1,2,,,1
+Private Method,"org.hibernate.validator.internal.xml.XmlMappingParser.checkNameIsValid",5,,,1,1,3,,,1
+Private Method,"org.hibernate.validator.internal.xml.XmlMappingParser.convertStringToReturnType",77,,,4,1,19,,,2
+Private Generic Method,"org.hibernate.validator.internal.xml.XmlMappingParser.createAnnotation",10,,,5,1,2,,,1
+TypeVariable,"org.hibernate.validator.internal.xml.XmlMappingParser.createAnnotation.A",0,,,0,0,0,0,0,0
+Private Method,"org.hibernate.validator.internal.xml.XmlMappingParser.createGroupSequence",10,,,3,1,3,,,2
+Private Generic Method,"org.hibernate.validator.internal.xml.XmlMappingParser.createMetaConstraint",35,,,11,1,6,,,1
+TypeVariable,"org.hibernate.validator.internal.xml.XmlMappingParser.createMetaConstraint.A",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.internal.xml.XmlMappingParser.createMetaConstraint.T",0,,,0,0,0,0,0,0
+Private Method,"org.hibernate.validator.internal.xml.XmlMappingParser.findConstraintValidatorClasses",13,,,4,1,2,,,1
+Private Generic Method,"org.hibernate.validator.internal.xml.XmlMappingParser.getAnnotationParameterType",7,,,2,1,2,,,1
+TypeVariable,"org.hibernate.validator.internal.xml.XmlMappingParser.getAnnotationParameterType.A",0,,,0,0,0,0,0,0
+Public Method,"org.hibernate.validator.internal.xml.XmlMappingParser.getAnnotationProcessingOptions",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.xml.XmlMappingParser.getCascadedMembersForClass",8,,,1,1,2,,,1
+Private Method,"org.hibernate.validator.internal.xml.XmlMappingParser.getClass",10,,,2,1,2,,,1
+Public Generic Method,"org.hibernate.validator.internal.xml.XmlMappingParser.getConstraintsForClass",4,,,2,1,2,,,0
+TypeVariable,"org.hibernate.validator.internal.xml.XmlMappingParser.getConstraintsForClass.T",0,,,0,0,0,0,0,0
+Public Method,"org.hibernate.validator.internal.xml.XmlMappingParser.getDefaultSequenceForClass",3,,,1,1,1,,,0
+Private Method,"org.hibernate.validator.internal.xml.XmlMappingParser.getElementValue",17,,,3,1,4,,,2
+Private Method,"org.hibernate.validator.internal.xml.XmlMappingParser.getGroups",10,,,2,1,3,,,1
+Private Method,"org.hibernate.validator.internal.xml.XmlMappingParser.getPayload",16,,,3,1,4,,,2
+Private Method,"org.hibernate.validator.internal.xml.XmlMappingParser.getSchemaResourceName",7,,,2,1,2,,,1
+Private Method,"org.hibernate.validator.internal.xml.XmlMappingParser.getSingleValue",30,,,9,1,7,,,2
+Private Method,"org.hibernate.validator.internal.xml.XmlMappingParser.getValidationConfig",24,,,5,1,5,,,3
+Public Method,"org.hibernate.validator.internal.xml.XmlMappingParser.getXmlConfiguredClasses",3,,,1,1,1,,,0
+Private Method,"org.hibernate.validator.internal.xml.XmlMappingParser.isQualifiedClass",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.internal.xml.XmlMappingParser.parse",30,,,9,1,4,,,3
+Private Method,"org.hibernate.validator.internal.xml.XmlMappingParser.parseClassLevelOverrides",19,,,3,1,5,,,1
+Private Method,"org.hibernate.validator.internal.xml.XmlMappingParser.parseConstraintDefinitions",29,,,7,1,7,,,3
+Private Method,"org.hibernate.validator.internal.xml.XmlMappingParser.parseFieldLevelOverrides",30,,,8,1,8,,,2
+Private Method,"org.hibernate.validator.internal.xml.XmlMappingParser.parsePropertyLevelOverrides",30,,,8,1,8,,,2
+Private Method,"org.hibernate.validator.internal.xml.XmlMappingParser.removeEmptyContentElements",9,,,2,1,4,,,2
+Public Class,"org.hibernate.validator.internal.xml.XmlParserHelper",69,,,23,8,15,3,3,2
+Private Method,"org.hibernate.validator.internal.xml.XmlParserHelper.createXmlEventReader",3,,,1,1,1,,,0
+Private Method,"org.hibernate.validator.internal.xml.XmlParserHelper.getRootElement",9,,,2,3,3,,,2
+Public Method,"org.hibernate.validator.internal.xml.XmlParserHelper.getSchema",9,,,3,1,3,,,1
+Public Method,"org.hibernate.validator.internal.xml.XmlParserHelper.getSchemaVersion",20,,,3,1,3,,,1
+Private Method,"org.hibernate.validator.internal.xml.XmlParserHelper.getVersionValue",7,,,2,1,3,,,1
+Private Method,"org.hibernate.validator.internal.xml.XmlParserHelper.loadSchema",13,,,5,1,2,,,1
+Package,"org.hibernate.validator.messageinterpolation",265,1,,90,16,37,4,15,3
+Public Abstract Class,"org.hibernate.validator.messageinterpolation.AbstractMessageInterpolator",242,,,67,16,37,4,15,3
+Public Constructor,"org.hibernate.validator.messageinterpolation.AbstractMessageInterpolator.AbstractMessageInterpolator",3,,,1,1,1,,,0
+Public Constructor,"org.hibernate.validator.messageinterpolation.AbstractMessageInterpolator.AbstractMessageInterpolator",3,,,1,1,1,,,0
+Public Constructor,"org.hibernate.validator.messageinterpolation.AbstractMessageInterpolator.AbstractMessageInterpolator",4,,,2,1,1,,,0
+Public Constructor,"org.hibernate.validator.messageinterpolation.AbstractMessageInterpolator.AbstractMessageInterpolator",54,,,3,1,4,,,1
+Private Method,"org.hibernate.validator.messageinterpolation.AbstractMessageInterpolator.hasReplacementTakenPlace",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.messageinterpolation.AbstractMessageInterpolator.interpolate",10,,,2,1,2,,,1
+Public Method,"org.hibernate.validator.messageinterpolation.AbstractMessageInterpolator.interpolate",10,,,2,1,2,,,1
+Public Abstract Method,"org.hibernate.validator.messageinterpolation.AbstractMessageInterpolator.interpolate",1,,,1,0,0,,,0
+Private Method,"org.hibernate.validator.messageinterpolation.AbstractMessageInterpolator.interpolateBundleMessage",13,,,7,1,2,,,1
+Private Method,"org.hibernate.validator.messageinterpolation.AbstractMessageInterpolator.interpolateExpression",9,,,4,1,2,,,1
+Private Method,"org.hibernate.validator.messageinterpolation.AbstractMessageInterpolator.interpolateMessage",80,,,16,4,15,,,3
+Private Method,"org.hibernate.validator.messageinterpolation.AbstractMessageInterpolator.removeCurlyBraces",3,,,1,1,1,,,0
+Private Method,"org.hibernate.validator.messageinterpolation.AbstractMessageInterpolator.replaceEscapedLiterals",7,,,1,1,1,,,0
+Private Method,"org.hibernate.validator.messageinterpolation.AbstractMessageInterpolator.resolveParameter",19,,,3,1,4,,,3
+Package,"org.hibernate.validator.referenceguide",0,0,,0,0,0,0,0,0
+Package,"org.hibernate.validator.referenceguide.chapter09",135,1,,93,14,14,1,1,0
+Public Class,"org.hibernate.validator.referenceguide.chapter09.BootstrappingTest",125,,,83,14,14,1,1,0
+Public Method,"org.hibernate.validator.referenceguide.chapter09.BootstrappingTest.addMapping",10,,,6,1,1,,,0
+Public Method,"org.hibernate.validator.referenceguide.chapter09.BootstrappingTest.buildDefaultValidatorFactory",4,,,3,1,1,,,0
+Public Method,"org.hibernate.validator.referenceguide.chapter09.BootstrappingTest.byDefaultProvider",6,,,4,1,1,,,0
+Public Method,"org.hibernate.validator.referenceguide.chapter09.BootstrappingTest.byProvider",6,,,4,1,1,,,0
+Public Method,"org.hibernate.validator.referenceguide.chapter09.BootstrappingTest.clockProvider",7,,,4,1,1,,,0
+Public Method,"org.hibernate.validator.referenceguide.chapter09.BootstrappingTest.constraintValidatorFactory",7,,,4,1,1,,,0
+Public Method,"org.hibernate.validator.referenceguide.chapter09.BootstrappingTest.messageInterpolator",7,,,4,1,1,,,0
+Public Method,"org.hibernate.validator.referenceguide.chapter09.BootstrappingTest.parameterNameProvider",7,,,4,1,1,,,0
+Public Method,"org.hibernate.validator.referenceguide.chapter09.BootstrappingTest.providerResolver",7,,,4,1,1,,,0
+Public Method,"org.hibernate.validator.referenceguide.chapter09.BootstrappingTest.providerSpecificOptionViaAddProperty",7,,,4,1,1,,,0
+Public Method,"org.hibernate.validator.referenceguide.chapter09.BootstrappingTest.providerSpecificOptions",8,,,4,1,1,,,0
+Public Method,"org.hibernate.validator.referenceguide.chapter09.BootstrappingTest.traversableResolver",7,,,4,1,1,,,0
+Public Method,"org.hibernate.validator.referenceguide.chapter09.BootstrappingTest.usingContext",7,,,4,1,1,,,0
+Public Method,"org.hibernate.validator.referenceguide.chapter09.BootstrappingTest.valueExtractor",8,,,4,1,1,,,0
+Package,"org.hibernate.validator.test",0,0,,0,0,0,0,0,0
+Package,"org.hibernate.validator.test.internal",0,0,,0,0,0,0,0,0
+Package,"org.hibernate.validator.test.internal.engine",0,0,,0,0,0,0,0,0
+Package,"org.hibernate.validator.test.internal.engine.methodvalidation",680,2,,190,38,58,1,2,1
+Public Class,"org.hibernate.validator.test.internal.engine.methodvalidation.ConstructorValidationTest",105,,,40,7,7,1,1,0
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.ConstructorValidationTest.cascadedConstructorParameterValidationYieldsConstraintViolation",16,,,7,1,1,,,0
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.ConstructorValidationTest.cascadedConstructorReturnValueValidationYieldsConstraintViolation",18,,,9,1,1,,,0
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.ConstructorValidationTest.constructorParameterValidationYieldsConstraintViolation",19,,,6,1,1,,,0
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.ConstructorValidationTest.constructorReturnValueValidationYieldsConstraintViolation",24,,,7,1,1,,,0
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.ConstructorValidationTest.testNullGroupsVarargThrowsException",7,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.ConstructorValidationTest.testNullParameterArrayThrowsException",6,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.ConstructorValidationTest.testPassingNullAsConstructorReturnValueThrowsException",6,,,1,1,1,,,0
+Public Class,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest",524,,,99,31,51,1,2,1
+Private Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.assertMethod",8,,,3,1,1,,,0
+Private Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.assertMethodValidationType",6,,,3,1,1,,,0
+Private Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.assertParameterIndex",7,,,4,1,1,,,0
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.cascadingArrayParameter",28,,,3,1,2,,,1
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.cascadingArrayReturnValue",23,,,2,1,2,,,1
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.cascadingIterableParameter",26,,,4,1,2,,,1
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.cascadingIterableReturnValue",23,,,2,1,2,,,1
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.cascadingMapParameter",27,,,4,1,2,,,1
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.cascadingMapReturnValue",26,,,4,1,2,,,1
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.cascadingReturnValue",23,,,2,1,2,,,1
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.cascadingReturnValueFromSuperType",23,,,2,1,2,,,1
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.constraintViolationsAtMultipleParameters",12,,,1,1,2,,,1
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.constraintsAtMethodFromBaseClassAreEvaluated",15,,,2,1,2,,,1
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.constraintsAtOverriddenMethodAreEvaluated",15,,,2,1,2,,,1
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.methodValidationFailsAsConstraintOfValidatedGroupIsViolated",4,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.methodValidationSucceeds",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.methodValidationSucceedsAsNoConstraintOfValidatedGroupAreViolated",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.methodValidationWithCascadingParameter",24,,,3,1,2,,,1
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.methodValidationWithCascadingParameterAndCascadingConstraint",26,,,4,1,2,,,1
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.methodValidationYieldsConstraintViolation",33,,,3,1,2,,,1
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.overridingMethodStrengthensReturnValueConstraint",13,,,1,1,2,,,1
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.parameterValidationOfParameterlessMethod",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.returnValueValidationYieldsConstraintViolation",20,,,2,1,2,,,1
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.runtimeTypeDefinesConstraintsToApply",13,,,1,1,2,,,1
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.setUpDefaultExecutableValidator",3,,,1,1,1,,,0
+Private Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.setUpValidator",5,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.shouldValidateGetterLikeNamedMethodWithParameter",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.validFromOverriddenMethodIsEvaluated",16,,,2,1,2,,,1
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.validationOfCrossParameterConstraint",37,,,4,1,2,,,1
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.validationOfMethodWithMultipleParameters",21,,,2,1,2,,,1
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.MethodLevelValidationTest.voidMethodWithReturnValueConstraintCausesUnexpectedTypeException",3,,,1,1,1,,,0
+Package,"org.hibernate.validator.test.internal.engine.methodvalidation.model",101,2,,33,25,28,10,10,2
+Public Class,"org.hibernate.validator.test.internal.engine.methodvalidation.model.Address",39,,,12,10,11,7,7,2
+Public Constructor,"org.hibernate.validator.test.internal.engine.methodvalidation.model.Address.Address",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.model.Address.equals",21,,,2,7,7,,,2
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.model.Address.getCity",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.model.Address.hashCode",6,,,3,1,2,,,0
+Public Class,"org.hibernate.validator.test.internal.engine.methodvalidation.model.Customer",57,,,16,15,17,10,10,2
+Public Constructor,"org.hibernate.validator.test.internal.engine.methodvalidation.model.Customer.Customer",3,,,1,1,1,,,0
+Public Constructor,"org.hibernate.validator.test.internal.engine.methodvalidation.model.Customer.Customer",4,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.model.Customer.equals",29,,,2,10,10,,,2
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.model.Customer.getAddress",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.model.Customer.getName",3,,,1,1,1,,,0
+Public Method,"org.hibernate.validator.test.internal.engine.methodvalidation.model.Customer.hashCode",7,,,3,1,3,,,0
+Package,"org.hibernate.validator.testutil",90,1,,41,14,15,1,2,0
+Public Class,"org.hibernate.validator.testutil.ValidatorUtil",73,,,24,14,15,1,2,0
+Private Constructor,"org.hibernate.validator.testutil.ValidatorUtil.ValidatorUtil",2,,,1,1,1,,,0
+Public Static Method,"org.hibernate.validator.testutil.ValidatorUtil.getBeanDescriptor",3,,,1,1,1,,,0
+Public Static Method,"org.hibernate.validator.testutil.ValidatorUtil.getConfiguration",3,,,1,1,1,,,0
+Public Static Method,"org.hibernate.validator.testutil.ValidatorUtil.getConfiguration",3,,,1,1,1,,,0
+Public Static Generic Method,"org.hibernate.validator.testutil.ValidatorUtil.getConfiguration",3,,,1,1,1,,,0
+Public Static Generic Method,"org.hibernate.validator.testutil.ValidatorUtil.getConfiguration",4,,,1,1,1,,,0
+TypeVariable,"org.hibernate.validator.testutil.ValidatorUtil.getConfiguration.T",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.testutil.ValidatorUtil.getConfiguration.T",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.testutil.ValidatorUtil.getConfiguration.U",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.testutil.ValidatorUtil.getConfiguration.U",0,,,0,0,0,0,0,0
+Public Static Method,"org.hibernate.validator.testutil.ValidatorUtil.getConstructorDescriptor",3,,,1,1,1,,,0
+Public Static Method,"org.hibernate.validator.testutil.ValidatorUtil.getMethodDescriptor",3,,,1,1,1,,,0
+Public Static Method,"org.hibernate.validator.testutil.ValidatorUtil.getMethodReturnValueDescriptor",7,,,3,1,2,,,0
+Public Static Method,"org.hibernate.validator.testutil.ValidatorUtil.getParameterDescriptor",12,,,3,1,1,,,0
+Public Static Method,"org.hibernate.validator.testutil.ValidatorUtil.getPropertyDescriptor",3,,,1,1,1,,,0
+Public Static Generic Method,"org.hibernate.validator.testutil.ValidatorUtil.getValidatingProxy",10,,,3,1,1,,,0
+Public Static Generic Method,"org.hibernate.validator.testutil.ValidatorUtil.getValidatingProxy",8,,,1,1,1,,,0
+TypeVariable,"org.hibernate.validator.testutil.ValidatorUtil.getValidatingProxy.I",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.testutil.ValidatorUtil.getValidatingProxy.I",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.testutil.ValidatorUtil.getValidatingProxy.T",0,,,0,0,0,0,0,0
+TypeVariable,"org.hibernate.validator.testutil.ValidatorUtil.getValidatingProxy.T",0,,,0,0,0,0,0,0
+Public Static Method,"org.hibernate.validator.testutil.ValidatorUtil.getValidator",5,,,2,1,1,,,0
+Package,"org.jasig",0,0,,0,0,0,0,0,0
+Package,"org.jasig.cas",0,0,,0,0,0,0,0,0
+Package,"org.jasig.cas.client",0,0,,0,0,0,0,0,0
+Package,"org.jasig.cas.client.tomcat",102,1,,42,15,20,4,7,3
+Public Class,"org.jasig.cas.client.tomcat.AuthenticatorDelegate",89,,,29,15,20,4,7,3
+Public Method,"org.jasig.cas.client.tomcat.AuthenticatorDelegate.authenticate",38,,,9,4,7,,,3
+Public Method,"org.jasig.cas.client.tomcat.AuthenticatorDelegate.getCasServerLoginUrl",3,,,1,1,1,,,0
+Public Method,"org.jasig.cas.client.tomcat.AuthenticatorDelegate.getServerName",3,,,1,1,1,,,0
+Public Method,"org.jasig.cas.client.tomcat.AuthenticatorDelegate.getServiceUrl",3,,,1,1,1,,,0
+Public Method,"org.jasig.cas.client.tomcat.AuthenticatorDelegate.setArtifactParameterName",3,,,1,1,1,,,0
+Public Method,"org.jasig.cas.client.tomcat.AuthenticatorDelegate.setCasServerLoginUrl",3,,,1,1,1,,,0
+Public Method,"org.jasig.cas.client.tomcat.AuthenticatorDelegate.setRealm",3,,,1,1,1,,,0
+Public Method,"org.jasig.cas.client.tomcat.AuthenticatorDelegate.setServerName",3,,,1,1,1,,,0
+Public Method,"org.jasig.cas.client.tomcat.AuthenticatorDelegate.setServiceParameterName",3,,,1,1,1,,,0
+Public Method,"org.jasig.cas.client.tomcat.AuthenticatorDelegate.setServiceUrl",3,,,1,1,1,,,0
+Public Method,"org.jasig.cas.client.tomcat.AuthenticatorDelegate.setTicketValidator",3,,,1,1,1,,,0
+Private Method,"org.jasig.cas.client.tomcat.AuthenticatorDelegate.setUnauthorized",11,,,1,1,3,,,2
+Package,"org.jasig.cas.client.util",442,3,,155,58,113,5,16,3
+Public Abstract Class,"org.jasig.cas.client.util.AbstractCasFilter",54,,,17,11,16,1,3,1
+Protected Constructor,"org.jasig.cas.client.util.AbstractCasFilter.AbstractCasFilter",3,,,1,1,1,,,0
+Protected Method,"org.jasig.cas.client.util.AbstractCasFilter.constructServiceUrl",4,,,1,1,1,,,0
+Public Method,"org.jasig.cas.client.util.AbstractCasFilter.destroy",2,,,1,1,1,,,0
+Protected Method,"org.jasig.cas.client.util.AbstractCasFilter.getProtocol",3,,,1,1,1,,,0
+Public Method,"org.jasig.cas.client.util.AbstractCasFilter.init",10,,,1,1,2,,,1
+Public Method,"org.jasig.cas.client.util.AbstractCasFilter.init",6,,,1,1,3,,,0
+Protected Method,"org.jasig.cas.client.util.AbstractCasFilter.initInternal",2,,,1,1,1,,,0
+Protected Method,"org.jasig.cas.client.util.AbstractCasFilter.retrieveTicketFromRequest",3,,,1,1,1,,,0
+Public Method,"org.jasig.cas.client.util.AbstractCasFilter.setEncodeServiceUrl",3,,,1,1,1,,,0
+Public Method,"org.jasig.cas.client.util.AbstractCasFilter.setServerName",8,,,1,1,3,,,1
+Public Method,"org.jasig.cas.client.util.AbstractCasFilter.setService",3,,,1,1,1,,,0
+Public Class,"org.jasig.cas.client.util.CommonUtils",221,,,59,31,75,5,16,3
+Private Constructor,"org.jasig.cas.client.util.CommonUtils.CommonUtils",2,,,1,1,1,,,0
+Public Static Method,"org.jasig.cas.client.util.CommonUtils.assertFalse",5,,,1,1,2,,,1
+Public Static Method,"org.jasig.cas.client.util.CommonUtils.assertNotEmpty",6,,,1,1,2,,,1
+Public Static Method,"org.jasig.cas.client.util.CommonUtils.assertNotNull",5,,,1,1,2,,,1
+Public Static Method,"org.jasig.cas.client.util.CommonUtils.assertTrue",5,,,1,1,2,,,1
+Public Static Method,"org.jasig.cas.client.util.CommonUtils.closeQuietly",8,,,1,1,3,,,2
+Public Static Method,"org.jasig.cas.client.util.CommonUtils.constructRedirectUrl",5,,,2,1,4,,,0
+Public Static Method,"org.jasig.cas.client.util.CommonUtils.constructServiceUrl",41,,,9,4,16,,,3
+Public Static Method,"org.jasig.cas.client.util.CommonUtils.createProxyList",8,,,2,1,2,,,1
+Protected Static Method,"org.jasig.cas.client.util.CommonUtils.findMatchingServerName",24,,,6,5,9,,,2
+Public Static Method,"org.jasig.cas.client.util.CommonUtils.getResponseFromServer",27,,,6,1,5,,,2
+Public Static Method,"org.jasig.cas.client.util.CommonUtils.getResponseFromServer",7,,,1,1,2,,,1
+Public Static Method,"org.jasig.cas.client.util.CommonUtils.getResponseFromServer",3,,,1,1,1,,,0
+Public Static Method,"org.jasig.cas.client.util.CommonUtils.isBlank",3,,,1,1,2,,,0
+Public Static Method,"org.jasig.cas.client.util.CommonUtils.isEmpty",3,,,1,1,2,,,0
+Public Static Method,"org.jasig.cas.client.util.CommonUtils.isNotBlank",3,,,1,1,1,,,0
+Public Static Method,"org.jasig.cas.client.util.CommonUtils.isNotEmpty",3,,,1,1,1,,,0
+Public Static Method,"org.jasig.cas.client.util.CommonUtils.readAndRespondToProxyReceptorRequest",17,,,5,1,3,,,1
+Private Static Method,"org.jasig.cas.client.util.CommonUtils.requestIsOnStandardPort",4,,,2,1,2,,,0
+Public Static Method,"org.jasig.cas.client.util.CommonUtils.safeGetParameter",3,,,1,1,1,,,0
+Public Static Method,"org.jasig.cas.client.util.CommonUtils.safeGetParameter",9,,,2,1,5,,,1
+Public Static Method,"org.jasig.cas.client.util.CommonUtils.sendRedirect",7,,,1,1,2,,,1
+Private Static Method,"org.jasig.cas.client.util.CommonUtils.serverNameContainsPort",8,,,3,1,3,,,1
+Public Static Method,"org.jasig.cas.client.util.CommonUtils.urlEncode",7,,,1,1,2,,,1
+Public Class,"org.jasig.cas.client.util.CommonUtilsTests",136,,,48,16,22,1,3,2
+Private Method,"org.jasig.cas.client.util.CommonUtilsTests.constructUrlNonStandardPortAndNoPortInConfigTest",12,,,6,1,1,,,0
+Public Method,"org.jasig.cas.client.util.CommonUtilsTests.testAssertNotEmpty",16,,,3,1,3,,,1
+Public Method,"org.jasig.cas.client.util.CommonUtilsTests.testAssertNotNull",9,,,2,1,2,,,1
+Public Method,"org.jasig.cas.client.util.CommonUtilsTests.testAssertTrue",9,,,2,1,2,,,1
+Public Method,"org.jasig.cas.client.util.CommonUtilsTests.testConstructServiceUrlWithTrailingSlash",10,,,6,1,1,,,0
+Public Method,"org.jasig.cas.client.util.CommonUtilsTests.testConstructURlWithMultipleHostsAndPorts",11,,,6,1,1,,,0
+Public Method,"org.jasig.cas.client.util.CommonUtilsTests.testConstructUrlNonStandardPortAndNoScheme",3,,,1,1,1,,,0
+Public Method,"org.jasig.cas.client.util.CommonUtilsTests.testConstructUrlNonStandardPortAndScheme",3,,,1,1,1,,,0
+Public Method,"org.jasig.cas.client.util.CommonUtilsTests.testConstructUrlWithMultipleHostsNoPortsOrProtocol",11,,,6,1,1,,,0
+Public Method,"org.jasig.cas.client.util.CommonUtilsTests.testGetResponseFromServer",6,,,3,1,1,,,0
+Public Method,"org.jasig.cas.client.util.CommonUtilsTests.testIsBlank",7,,,1,1,1,,,0
+Public Method,"org.jasig.cas.client.util.CommonUtilsTests.testIsEmpty",7,,,1,1,1,,,0
+Public Method,"org.jasig.cas.client.util.CommonUtilsTests.testIsNotBlank",7,,,1,1,1,,,0
+Public Method,"org.jasig.cas.client.util.CommonUtilsTests.testIsNotEmpty",7,,,1,1,1,,,0
+Public Method,"org.jasig.cas.client.util.CommonUtilsTests.testRedirectUrlWithParam",12,,,5,1,3,,,2
+Public Method,"org.jasig.cas.client.util.CommonUtilsTests.testUrlEncode",3,,,1,1,1,,,0
