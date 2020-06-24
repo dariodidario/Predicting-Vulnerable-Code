@@ -35,7 +35,8 @@ def main():
 								if(value_list[10]=="VULNERABILITY"):
 									dict_app["type"]=value_list[10]
 									dict_app["rule"]=value_list[5]
-									dict_app["component"]=value_list[12].split("/")[4]
+									list_app=value_list[12].split("/")
+									dict_app["component"]=list_app[3]+"/"+list_app[4]
 									if(count<18):
 										dict_app["class"]="pos"
 									else:

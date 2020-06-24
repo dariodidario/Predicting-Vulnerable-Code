@@ -16,6 +16,7 @@ def main():
 	final_csv.write("Name")
 	for key in rules_dict.keys():
 		final_csv.write(", "+key)
+	final_csv.write(", class")
 	final_csv.write("\n")
 
 
@@ -31,8 +32,10 @@ def main():
 				big_dict[ el["component"] ] [ el["rule"] ]+=1
 			else:
 				big_dict[ el["component"] ] [ el["rule"] ]=1
+			
 		else:
 			big_dict[el["component"]]={}
+			big_dict[el["component"]]["class"]=el["class"]
 			big_dict[el["component"]] [el["rule"]]=1
 
 	for java_class_key in big_dict.keys():
@@ -46,6 +49,7 @@ def main():
 				print(big_dict[java_class_key][rule])
 			else:
 				final_csv.write(", 0")
+		final_csv.write(", "+str(big_dict[java_class_key]["class"]))
 		
 
 

@@ -1,1 +1,0 @@
-{'package': 1, 'org': 1, 'hibernate': 1, 'validator': 1, 'internal': 1, 'metadata': 1, 'raw': 1, 'public': 2, 'enum': 1, 'ConfigurationSource': 2, 'ANNOTATION': 1, 'XML': 1, 'API': 1, 'private': 2, 'int': 3, 'priority': 5, 'this': 1, 'getPriority': 1, 'return': 1}

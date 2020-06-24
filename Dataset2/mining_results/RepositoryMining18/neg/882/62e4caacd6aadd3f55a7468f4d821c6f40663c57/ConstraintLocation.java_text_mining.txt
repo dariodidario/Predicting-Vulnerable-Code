@@ -1,1 +1,0 @@
-{'package': 1, 'org': 1, 'hibernate': 1, 'validator': 1, 'internal': 1, 'metadata': 1, 'location': 1, 'import': 3, 'java': 3, 'lang': 3, 'annotation': 1, 'ElementType': 2, 'reflect': 2, 'Member': 2, 'Type': 2, 'public': 1, 'interface': 1, 'ConstraintLocation': 1, 'Class': 1, 'getBeanClass': 1, 'typeOfAnnotatedElement': 1, 'getElementType': 1, 'getMember': 1}

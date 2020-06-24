@@ -1,1 +1,0 @@
-{'Id': 1, 'package': 1, 'org': 2, 'hibernate': 2, 'validation': 3, 'eg': 1, 'import': 2, 'javax': 1, 'constraints': 2, 'NotNull': 3, 'NotEmpty': 3, 'public': 1, 'interface': 1, 'Person': 1, 'String': 3, 'getFirstName': 1, 'getMiddleName': 1, 'getLastName': 1}

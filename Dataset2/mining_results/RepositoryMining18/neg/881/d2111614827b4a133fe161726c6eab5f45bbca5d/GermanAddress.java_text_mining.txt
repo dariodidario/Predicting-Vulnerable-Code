@@ -1,1 +1,0 @@
-{'Id': 1, 'package': 1, 'org': 2, 'hibernate': 2, 'validation': 2, 'eg': 1, 'import': 1, 'constraints': 1, 'composition': 1, 'GermanZipcode': 2, 'public': 2, 'class': 1, 'GermanAddress': 1, 'extends': 1, 'Address': 1, 'String': 1, 'getZipCode': 2, 'return': 1, 'super': 1}

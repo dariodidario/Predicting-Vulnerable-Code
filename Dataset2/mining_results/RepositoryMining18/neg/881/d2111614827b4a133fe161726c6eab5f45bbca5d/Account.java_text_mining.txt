@@ -1,1 +1,0 @@
-{'Id': 1, 'package': 1, 'org': 1, 'hibernate': 1, 'validation': 2, 'eg': 1, 'import': 1, 'javax': 1, 'Valid': 2, 'public': 5, 'class': 1, 'Account': 1, 'private': 2, 'String': 3, 'accountLogin': 5, 'Customer': 3, 'customer': 5, 'getAccountLogin': 1, 'return': 2, 'void': 2, 'setAccountLogin': 1, 'this': 2, 'getCustomer': 1, 'setCustomer': 1}

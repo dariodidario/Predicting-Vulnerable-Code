@@ -1,1 +1,0 @@
-{'Id': 1, 'package': 1, 'org': 1, 'hibernate': 1, 'validation': 2, 'eg': 1, 'import': 1, 'javax': 1, 'constraints': 1, 'Pattern': 4, 'public': 3, 'class': 1, 'Engine': 1, 'List': 1, 'regexp': 2, 'A': 1, 'message': 2, 'private': 1, 'String': 3, 'serialNumber': 5, 'getSerialNumber': 1, 'return': 1, 'void': 1, 'setSerialNumber': 1, 'this': 1}

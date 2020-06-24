@@ -1,1 +1,0 @@
-{'Id': 1, 'package': 1, 'org': 1, 'hibernate': 1, 'validation': 3, 'eg': 1, 'import': 2, 'javax': 2, 'constraints': 2, 'Max': 3, 'Min': 3, 'public': 2, 'class': 1, 'MultipleMinMax': 2, 'Number': 2, 'number': 4, 'String': 2, 'stringNumber': 4, 'this': 2}

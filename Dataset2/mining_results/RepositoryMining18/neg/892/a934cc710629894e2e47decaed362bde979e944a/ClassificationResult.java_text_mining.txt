@@ -1,1 +1,0 @@
-{'package': 1, 'org': 1, 'apache': 1, 'lucene': 1, 'classification': 1, 'public': 4, 'class': 1, 'ClassificationResult': 2, 'T': 4, 'private': 2, 'final': 2, 'assignedClass': 5, 'double': 3, 'score': 5, 'this': 2, 'getAssignedClass': 1, 'return': 2, 'getScore': 1}
