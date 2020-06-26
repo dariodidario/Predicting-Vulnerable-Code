@@ -3,29 +3,31 @@ import requests
 import os
 from pydriller import RepositoryMining
 """"
-
 """
 def initialize(count):
-	cwd=os.getcwd()
-	#In modo da calcolare tutti e 13 i dataset che sono stati estratti dal dataset principale.
-	#Per calcolarli tutti insieme for count in range(1,14)
-	#PER GILBERTO: for count in range(2,13,2) per calcolare i pari.
-	#PER ME: for count in range(1,14,2) per calcolare i dispari.
-	repoName = 'RepositoryMining'+str(count)
-	name_dataset = str(count)+'.csv'
-	with open(name_dataset, mode='r') as csv_file:
-			if repoName not in os.listdir():
-				os.mkdir(repoName)
-			os.chdir(repoName)
-			csv_reader = csv.DictReader(csv_file)
-			first = 0
-			data = dict()
-			i = 0
-			for riga in csv_reader:
-				data[i]=riga   
-				i+=1
-			startMiningRepo(data, cwd, repoName)
-			os.chdir(cwd)
+    cwd=os.getcwd()
+    #In modo da calcolare tutti e 13 i dataset che sono stati estratti dal dataset principale.
+    #Per calcolarli tutti insieme for count in range(1,14)
+    #PER GILBERTO: for count in range(2,13,2) per calcolare i pari.
+    #PER ME: for count in range(1,14,2) per calcolare i dispari.
+    repoName = 'RepositoryMining'+str(count)
+    os.chdir("Dataset_Divided")
+    name_dataset = str(count)+'.csv'
+    with open(name_dataset, mode='r') as csv_file:
+            os.chdir("..")
+            os.chdir("mining_results")
+            if repoName not in os.listdir():
+                os.mkdir(repoName)
+            os.chdir(repoName)
+            csv_reader = csv.DictReader(csv_file)
+            first = 0
+            data = dict()
+            i = 0
+            for riga in csv_reader:
+                data[i]=riga   
+                i+=1
+            startMiningRepo(data, cwd, repoName)
+            os.chdir(cwd)
 
 def startMiningRepo(data, cwd, repoName):
     statusOK = "OK!\n"

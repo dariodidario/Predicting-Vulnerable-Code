@@ -21,14 +21,15 @@ def initialize():
 			return splitCamelCase(diction)
 		else:
 			print("File doesn't exist, sorry :(")
-	#fake_dic = {'requestUri': 1, 'getRequestUri': 2, 'request': 3, 'eAncheOggiGilbertoNonHaFattoNienteUri': 5}
+	#fake_dic = {'requestUri': 1, 'getRequestUri': 2, 'request': 3}
 			
-
-#1. Prende in input il dizionario ottenuto dal mining totale delle repository
-#2. ne effettua lo split secondo la regex scritta sotto
-#3. inserisce ogni parola che non sia già presente nel dizionario, altrimenti modifica solo il valore.
-#4. effettua un lower case di tutte le parole
-#5. restituisce il dizioario.
+'''
+1. Prende in input il dizionario ottenuto dal mining totale delle repository
+2. ne effettua lo split secondo la regex scritta sotto
+3. inserisce ogni parola che non sia già presente nel dizionario, altrimenti modifica solo il valore.
+4. effettua un lower case di tutte le parole
+5. restituisce il dizioario.
+'''
 def splitCamelCase(fake_dic):
 	regexForCCSplit ='.+?(?:(?<=[a-z])(?=[A-Z])|(?<=[A-Z])(?=[A-Z][a-z])|$)'
 	dic1 = {}
