@@ -4,7 +4,7 @@ import random
 import less_element_text_mining #CamelCase splitting module
 
 def main():
-	dict_file_name="text_mining_dict.txt"
+	dict_file_name="newTextMining.txt"
 	final_csv_name = "csv_mining_final.csv"
 	cwd = os.getcwd()
 	repo_name = "RepositoryMining"
@@ -31,6 +31,7 @@ def main():
 						for folder in os.listdir():
 							if folder != ".DS_Store":
 								os.chdir(folder)
+								commit_name = folder
 								for file in os.listdir():
 									if file != ".DS_Store":
 										if "text_mining.txt" in file:
@@ -39,7 +40,7 @@ def main():
 											current_dict = ast.literal_eval(current_file.read())
 											current_dict = less_element_text_mining.splitCamelCase(current_dict) #splitting the current dict of the java class in more words by CamelCase
 											name_of_file_for_csv = file.replace("text_mining.txt", "")
-											final_csv.write(name_of_file_for_csv)
+											final_csv.write(commit_name + "/" + name_of_file_for_csv)
 											for element in csv_sorted:
 												if element in current_dict.keys():
 													final_csv.write(",")
