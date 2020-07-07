@@ -6,7 +6,7 @@ import json
 def main():
 	dict_file_name="ASA_dict.csv"
 	rules_dict_name="ASA_rules_dict.csv"
-	final_csv_name = "csv_ASA_final.csv"
+	final_csv_name = "csv_ASA_final2.csv"
 	cwd = os.getcwd()
 	big_dict={}
 	repo_name = "RepositoryMining"

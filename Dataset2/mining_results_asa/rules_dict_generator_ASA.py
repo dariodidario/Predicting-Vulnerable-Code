@@ -6,9 +6,9 @@ import csv
 def main():
 	dict_file_name="ASA_rules_dict.csv"
 	cwd = os.getcwd()
-	repo_name = "RepositoryMining" #pre-name of the csv export file of SonarQube
+	repo_name = "RepositoryMining_ASAResults_" #pre-name of the csv export file of SonarQube
 	rules_list={} #create a dict of java rules
-	for count in range(1,36,1):
+	for count in ["pos","neg"]:
 		repo = repo_name + str(count)
 		if repo != ".DS_Store": #check for excluding metadata
 			for file in os.listdir():
