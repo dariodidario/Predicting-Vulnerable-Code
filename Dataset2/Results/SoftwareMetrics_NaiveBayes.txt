@@ -1,0 +1,109 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.bayes.NaiveBayes 
+Relation:     software_metrics_vpm-weka.filters.unsupervised.attribute.Remove-R1-2
+Instances:    4081
+Attributes:   10
+              CountLineCode
+              CountDeclClass
+              CountDeclFunction
+              CountLineCodeDecl
+              SumEssential
+              SumCyclomaticStrict
+              MaxEssential
+              MaxCyclomaticStrict
+              MaxNesting
+              class
+Test mode:    5-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+Naive Bayes Classifier
+
+                         Class
+Attribute                  pos      neg
+                         (0.6)    (0.4)
+========================================
+CountLineCode
+  mean                 338.7962 293.7825
+  std. dev.            500.9133 512.8275
+  weight sum               2444     1637
+  precision              7.5238   7.5238
+
+CountDeclClass
+  mean                   2.4619   2.3444
+  std. dev.              5.7432   4.9188
+  weight sum               2444     1637
+  precision              3.7442   3.7442
+
+CountDeclFunction
+  mean                  27.2365  22.1332
+  std. dev.             47.9604  34.2343
+  weight sum               2444     1637
+  precision              4.2676   4.2676
+
+CountLineCodeDecl
+  mean                 114.5739 101.6805
+  std. dev.            147.5594 177.6104
+  weight sum               2444     1637
+  precision              7.8801   7.8801
+
+SumEssential
+  mean                  35.3496  28.1072
+  std. dev.             60.6046  51.3988
+  weight sum               2444     1637
+  precision              3.7724   3.7724
+
+SumCyclomaticStrict
+  mean                  66.3465  53.1675
+  std. dev.            113.7197 109.0192
+  weight sum               2444     1637
+  precision               5.633    5.633
+
+MaxEssential
+  mean                    3.507   2.5631
+  std. dev.              5.9164   5.3216
+  weight sum               2444     1637
+  precision                3.15     3.15
+
+MaxCyclomaticStrict
+  mean                  10.4389    8.681
+  std. dev.              13.511  13.2478
+  weight sum               2444     1637
+  precision              3.1481   3.1481
+
+MaxNesting
+  mean                   2.6451   2.2273
+  std. dev.              2.1814    1.987
+  weight sum               2444     1637
+  precision              1.5385   1.5385
+
+
+
+Time taken to build model: 0.02 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        1972               48.3215 %
+Incorrectly Classified Instances      2109               51.6785 %
+Kappa statistic                          0.0421
+Mean absolute error                      0.4937
+Root mean squared error                  0.5316
+Relative absolute error                102.7529 %
+Root relative squared error            108.4622 %
+Total Number of Instances             4081     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,319    0,272    0,637      0,319    0,425      0,051    0,543     0,632     pos
+                 0,728    0,681    0,417      0,728    0,531      0,051    0,543     0,440     neg
+Weighted Avg.    0,483    0,436    0,549      0,483    0,467      0,051    0,543     0,555     
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+  780 1664 |    a = pos
+  445 1192 |    b = neg
+

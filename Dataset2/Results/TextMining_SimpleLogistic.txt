@@ -1,0 +1,411 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.functions.SimpleLogistic -I 0 -M 500 -H 50 -W 0.0
+Relation:     csv_mining_final (3)-weka.filters.unsupervised.attribute.Remove-R1
+Instances:    4096
+Attributes:   15472
+              [list of attributes omitted]
+Test mode:    5-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+SimpleLogistic:
+
+Class  pos :
+0.09 + 
+[a ] * 0.01 +
+[additional ] * -0.03 +
+[aggregator ] * -0.09 +
+[album ] * -0.29 +
+[allow ] * 0.02 +
+[amqp ] * -0.02 +
+[annotate ] * -0.98 +
+[appender ] * -0.08 +
+[assertion ] * 0.03 +
+[asynchttpclient ] * 0.07 +
+[backtype ] * -0.31 +
+[backup ] * -0.03 +
+[blob ] * 0.02 +
+[boot ] * 0.17 +
+[cast ] * -0.03 +
+[cells ] * -0.06 +
+[central ] * -0.14 +
+[challenge ] * -0.03 +
+[changes ] * -0.07 +
+[checkstyle ] * -0.16 +
+[classifier ] * -0.17 +
+[clazzes ] * -0.28 +
+[codec ] * -0.04 +
+[compressors ] * 0.57 +
+[container ] * -0.01 +
+[control ] * 0.01 +
+[cris ] * -0.27 +
+[crypto ] * 0.02 +
+[curator ] * 0.02 +
+[death ] * -0.37 +
+[deployment ] * -0.04 +
+[discarded ] * -0.15 +
+[document ] * 0.01 +
+[dom ] * -0.01 +
+[downstream ] * 0.06 +
+[easy ] * -0.07 +
+[eg ] * -0.6 +
+[enable ] * 0.02 +
+[encoder ] * -0.01 +
+[entitlement ] * -0.07 +
+[executable ] * 0.01 +
+[executor ] * 0.01 +
+[experimental ] * 0.21 +
+[expiring ] * 0.02 +
+[facebook ] * -0.14 +
+[failure ] * 0.02 +
+[finder ] * -0.04 +
+[flux ] * -0.29 +
+[fmt ] * -0.41 +
+[fragmentation ] * -0.14 +
+[function ] * 0.02 +
+[functional ] * 0.42 +
+[functions ] * 0.1  +
+[functors ] * 0.96 +
+[geode ] * 0.01 +
+[gfsh ] * -0.1 +
+[greghaskins ] * -0.27 +
+[gridworks ] * -0.1 +
+[hashtable ] * -0.06 +
+[hc ] * -0.03 +
+[holder ] * -0.01 +
+[hsqldb ] * -1.01 +
+[idle ] * -0.02 +
+[implied ] * 0.93 +
+[import ] * 0    +
+[inclusion ] * -0.19 +
+[infinispan ] * 0.15 +
+[infix ] * -0.61 +
+[input ] * 0.01 +
+[instant ] * 0.11 +
+[invalid ] * 0.02 +
+[invoke ] * -0.02 +
+[invoker ] * 0.08 +
+[issuer ] * -0.03 +
+[iterator ] * -0.01 +
+[iv ] * 0.05 +
+[javax ] * 0.03 +
+[jenkinsci ] * 0.1  +
+[jettison ] * -0.31 +
+[jgroups ] * 0.04 +
+[jsecurity ] * -0.1 +
+[jsonp ] * 0.05 +
+[k ] * 0.02 +
+[leaf ] * -0.05 +
+[listable ] * -0.24 +
+[marsh ] * 0.08 +
+[maximum ] * -0.05 +
+[mc ] * -0.05 +
+[membergroup ] * -1.48 +
+[mismatch ] * -0.15 +
+[netty ] * -0.01 +
+[newer ] * -0.32 +
+[nowrap ] * 0.66 +
+[on ] * -0.02 +
+[oname ] * -0.04 +
+[one ] * -0.03 +
+[optimized ] * 0.05 +
+[oss ] * -1.29 +
+[oswego ] * -0.88 +
+[outbound ] * -0.04 +
+[plain ] * 0.03 +
+[plugins ] * 0.02 +
+[pluto ] * -0.15 +
+[pom ] * -0.18 +
+[preauth ] * -0.73 +
+[pred ] * -0.11 +
+[problem ] * -0.09 +
+[produces ] * -0.03 +
+[prompt ] * -0.09 +
+[proto ] * 0.03 +
+[prov ] * -0.05 +
+[pw ] * 0.07 +
+[referral ] * 0.17 +
+[reflection ] * 0.04 +
+[regex ] * 0.03 +
+[release ] * -0.05 +
+[reloaded ] * -0.67 +
+[reloading ] * -0.14 +
+[reset ] * 0.01 +
+[resourcemanager ] * -0.11 +
+[restrictor ] * 0.02 +
+[route ] * -0.01 +
+[rule ] * -0.01 +
+[same ] * -0.03 +
+[scenario ] * 0.66 +
+[security ] * 0.01 +
+[senders ] * -0.04 +
+[seq ] * -0.04 +
+[serialized ] * 0.08 +
+[settings ] * 0.01 +
+[shooting ] * -1.31 +
+[sizes ] * -0.06 +
+[slash ] * 0.02 +
+[sni ] * 0.1  +
+[social ] * 0.06 +
+[sockjs ] * 0.13 +
+[software ] * 0.79 +
+[sorted ] * -0.04 +
+[spi ] * 0.01 +
+[ssl ] * 0    +
+[stepwise ] * -0.2 +
+[struct ] * -0.02 +
+[submits ] * 0.97 +
+[subscribers ] * 0.57 +
+[suf ] * -0.23 +
+[super ] * -0.02 +
+[superclass ] * -0.12 +
+[synchronization ] * -0.09 +
+[tagfile ] * -0.62 +
+[taken ] * -0.14 +
+[tar ] * -0.02 +
+[tck ] * -0.31 +
+[template ] * -0.01 +
+[testutil ] * -0.12 +
+[thoughtworks ] * 0.12 +
+[threading ] * -0.29 +
+[tls ] * -0.01 +
+[tms ] * -0.38 +
+[tokens ] * 0.03 +
+[tpf ] * -0.21 +
+[type ] * -0 +
+[u ] * 0.02 +
+[unmarshal ] * 0.04 +
+[unsigned ] * -0.04 +
+[uri ] * 0.01 +
+[urlencoded ] * -0.19 +
+[usage ] * -0.03 +
+[userman ] * -0.47 +
+[utf ] * 0.05 +
+[util ] * 0.01 +
+[utils ] * 0.01 +
+[validators ] * -0.1 +
+[vector ] * -0.02 +
+[verbose ] * 0.17 +
+[verbosity ] * -0.88 +
+[vertx ] * 0.02 +
+[widget ] * 0.1  +
+[wsaddressing ] * -1.44 +
+[wst ] * -0.58 +
+[xml ] * 0    +
+[xslt ] * 0.05 +
+[xstream ] * 0.03
+
+Class  neg :
+-0.09 + 
+[a ] * -0.01 +
+[additional ] * 0.03 +
+[aggregator ] * 0.09 +
+[album ] * 0.29 +
+[allow ] * -0.02 +
+[amqp ] * 0.02 +
+[annotate ] * 0.98 +
+[appender ] * 0.08 +
+[assertion ] * -0.03 +
+[asynchttpclient ] * -0.07 +
+[backtype ] * 0.31 +
+[backup ] * 0.03 +
+[blob ] * -0.02 +
+[boot ] * -0.17 +
+[cast ] * 0.03 +
+[cells ] * 0.06 +
+[central ] * 0.14 +
+[challenge ] * 0.03 +
+[changes ] * 0.07 +
+[checkstyle ] * 0.16 +
+[classifier ] * 0.17 +
+[clazzes ] * 0.28 +
+[codec ] * 0.04 +
+[compressors ] * -0.57 +
+[container ] * 0.01 +
+[control ] * -0.01 +
+[cris ] * 0.27 +
+[crypto ] * -0.02 +
+[curator ] * -0.02 +
+[death ] * 0.37 +
+[deployment ] * 0.04 +
+[discarded ] * 0.15 +
+[document ] * -0.01 +
+[dom ] * 0.01 +
+[downstream ] * -0.06 +
+[easy ] * 0.07 +
+[eg ] * 0.6  +
+[enable ] * -0.02 +
+[encoder ] * 0.01 +
+[entitlement ] * 0.07 +
+[executable ] * -0.01 +
+[executor ] * -0.01 +
+[experimental ] * -0.21 +
+[expiring ] * -0.02 +
+[facebook ] * 0.14 +
+[failure ] * -0.02 +
+[finder ] * 0.04 +
+[flux ] * 0.29 +
+[fmt ] * 0.41 +
+[fragmentation ] * 0.14 +
+[function ] * -0.02 +
+[functional ] * -0.42 +
+[functions ] * -0.1 +
+[functors ] * -0.96 +
+[geode ] * -0.01 +
+[gfsh ] * 0.1  +
+[greghaskins ] * 0.27 +
+[gridworks ] * 0.1  +
+[hashtable ] * 0.06 +
+[hc ] * 0.03 +
+[holder ] * 0.01 +
+[hsqldb ] * 1.01 +
+[idle ] * 0.02 +
+[implied ] * -0.93 +
+[import ] * -0 +
+[inclusion ] * 0.19 +
+[infinispan ] * -0.15 +
+[infix ] * 0.61 +
+[input ] * -0.01 +
+[instant ] * -0.11 +
+[invalid ] * -0.02 +
+[invoke ] * 0.02 +
+[invoker ] * -0.08 +
+[issuer ] * 0.03 +
+[iterator ] * 0.01 +
+[iv ] * -0.05 +
+[javax ] * -0.03 +
+[jenkinsci ] * -0.1 +
+[jettison ] * 0.31 +
+[jgroups ] * -0.04 +
+[jsecurity ] * 0.1  +
+[jsonp ] * -0.05 +
+[k ] * -0.02 +
+[leaf ] * 0.05 +
+[listable ] * 0.24 +
+[marsh ] * -0.08 +
+[maximum ] * 0.05 +
+[mc ] * 0.05 +
+[membergroup ] * 1.48 +
+[mismatch ] * 0.15 +
+[netty ] * 0.01 +
+[newer ] * 0.32 +
+[nowrap ] * -0.66 +
+[on ] * 0.02 +
+[oname ] * 0.04 +
+[one ] * 0.03 +
+[optimized ] * -0.05 +
+[oss ] * 1.29 +
+[oswego ] * 0.88 +
+[outbound ] * 0.04 +
+[plain ] * -0.03 +
+[plugins ] * -0.02 +
+[pluto ] * 0.15 +
+[pom ] * 0.18 +
+[preauth ] * 0.73 +
+[pred ] * 0.11 +
+[problem ] * 0.09 +
+[produces ] * 0.03 +
+[prompt ] * 0.09 +
+[proto ] * -0.03 +
+[prov ] * 0.05 +
+[pw ] * -0.07 +
+[referral ] * -0.17 +
+[reflection ] * -0.04 +
+[regex ] * -0.03 +
+[release ] * 0.05 +
+[reloaded ] * 0.67 +
+[reloading ] * 0.14 +
+[reset ] * -0.01 +
+[resourcemanager ] * 0.11 +
+[restrictor ] * -0.02 +
+[route ] * 0.01 +
+[rule ] * 0.01 +
+[same ] * 0.03 +
+[scenario ] * -0.66 +
+[security ] * -0.01 +
+[senders ] * 0.04 +
+[seq ] * 0.04 +
+[serialized ] * -0.08 +
+[settings ] * -0.01 +
+[shooting ] * 1.31 +
+[sizes ] * 0.06 +
+[slash ] * -0.02 +
+[sni ] * -0.1 +
+[social ] * -0.06 +
+[sockjs ] * -0.13 +
+[software ] * -0.79 +
+[sorted ] * 0.04 +
+[spi ] * -0.01 +
+[ssl ] * -0 +
+[stepwise ] * 0.2  +
+[struct ] * 0.02 +
+[submits ] * -0.97 +
+[subscribers ] * -0.57 +
+[suf ] * 0.23 +
+[super ] * 0.02 +
+[superclass ] * 0.12 +
+[synchronization ] * 0.09 +
+[tagfile ] * 0.62 +
+[taken ] * 0.14 +
+[tar ] * 0.02 +
+[tck ] * 0.31 +
+[template ] * 0.01 +
+[testutil ] * 0.12 +
+[thoughtworks ] * -0.12 +
+[threading ] * 0.29 +
+[tls ] * 0.01 +
+[tms ] * 0.38 +
+[tokens ] * -0.03 +
+[tpf ] * 0.21 +
+[type ] * 0    +
+[u ] * -0.02 +
+[unmarshal ] * -0.04 +
+[unsigned ] * 0.04 +
+[uri ] * -0.01 +
+[urlencoded ] * 0.19 +
+[usage ] * 0.03 +
+[userman ] * 0.47 +
+[utf ] * -0.05 +
+[util ] * -0.01 +
+[utils ] * -0.01 +
+[validators ] * 0.1  +
+[vector ] * 0.02 +
+[verbose ] * -0.17 +
+[verbosity ] * 0.88 +
+[vertx ] * -0.02 +
+[widget ] * -0.1 +
+[wsaddressing ] * 1.44 +
+[wst ] * 0.58 +
+[xml ] * -0 +
+[xslt ] * -0.05 +
+[xstream ] * -0.03
+
+
+Time taken to build model: 421.56 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        2905               70.9229 %
+Incorrectly Classified Instances      1191               29.0771 %
+Kappa statistic                          0.3452
+Mean absolute error                      0.3693
+Root mean squared error                  0.4401
+Relative absolute error                 76.8731 %
+Root relative squared error             89.8019 %
+Total Number of Instances             4096     
+
+=== Detailed Accuracy By Class ===
+
+                 		TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 		0,911    0,592    0,697      0,911    0,790      0,379    0,767     0,795      pos
+                 		0,408    0,089    0,754      0,408    0,530      0,379    0,767     0,691      neg
+Weighted Avg.    	0,709    0,390    0,720      0,709    0,685      0,379    0,767     0,753     
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 2234  219 |    a =  pos
+  972  671 |    b =  neg
+

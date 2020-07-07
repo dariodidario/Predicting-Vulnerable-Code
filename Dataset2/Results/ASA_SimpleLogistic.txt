@@ -1,0 +1,109 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.functions.Logistic -R 1.0E-8 -M -1 -num-decimal-places 4
+Relation:     csv_ASA_final-weka.filters.unsupervised.attribute.Remove-R1
+Instances:    1251
+Attributes:   20
+               java:S2039
+               java:S2384
+               java:S2658
+               java:S2755
+               java:S1148
+               java:S1444
+               java:S899
+               java:S5542
+               java:S2386
+               java:S2976
+               java:S2612
+               java:S5527
+               java:S4830
+               java:S3329
+               java:S4423
+               java:S4433
+               java:S4426
+               java:S2115
+               java:S2647
+               class
+Test mode:    5-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+Logistic Regression with ridge parameter of 1.0E-8
+Coefficients...
+                             Class
+Variable                       neg
+==================================
+ java:S2039                 0.0206
+ java:S2384                -0.0171
+ java:S2658                 0.0089
+ java:S2755                -1.5391
+ java:S1148                  0.089
+ java:S1444                 0.0002
+ java:S899                 -0.3808
+ java:S5542               -12.7375
+ java:S2386                 0.2082
+ java:S2976                -9.4849
+ java:S2612                 0.3785
+ java:S5527               -16.8222
+ java:S4830                -0.0104
+ java:S3329               -10.9605
+ java:S4423                -0.3103
+ java:S4433               -22.5518
+ java:S4426               -11.3985
+ java:S2115                -9.9241
+ java:S2647                36.8242
+Intercept                  -0.3785
+
+
+Odds Ratios...
+                             Class
+Variable                       neg
+==================================
+ java:S2039                 1.0208
+ java:S2384                 0.9831
+ java:S2658                  1.009
+ java:S2755                 0.2146
+ java:S1148                  1.093
+ java:S1444                 1.0002
+ java:S899                  0.6833
+ java:S5542                      0
+ java:S2386                 1.2315
+ java:S2976                 0.0001
+ java:S2612                 1.4601
+ java:S5527                      0
+ java:S4830                 0.9896
+ java:S3329                      0
+ java:S4423                 0.7332
+ java:S4433                      0
+ java:S4426                      0
+ java:S2115                      0
+ java:S2647    9.83032251541445E15
+
+
+Time taken to build model: 0.05 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         775               61.9504 %
+Incorrectly Classified Instances       476               38.0496 %
+Kappa statistic                          0.0198
+Mean absolute error                      0.4478
+Root mean squared error                  0.4769
+Relative absolute error                 95.1202 %
+Root relative squared error             98.2995 %
+Total Number of Instances             1251     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,049    0,032    0,479      0,049    0,088      0,041    0,587     0,428      neg
+                 0,968    0,951    0,625      0,968    0,760      0,041    0,587     0,724      pos
+Weighted Avg.    0,620    0,603    0,570      0,620    0,505      0,041    0,587     0,612     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+  23 451 |   a =  neg
+  25 752 |   b =  pos
+
