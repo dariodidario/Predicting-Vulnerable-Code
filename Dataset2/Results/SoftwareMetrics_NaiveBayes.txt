@@ -1,8 +1,8 @@
 === Run information ===
 
 Scheme:       weka.classifiers.bayes.NaiveBayes 
-Relation:     software_metrics_vpm-weka.filters.unsupervised.attribute.Remove-R1-2
-Instances:    4081
+Relation:     mining_results_sm_final-weka.filters.unsupervised.attribute.Remove-R1-2
+Instances:    4073
 Attributes:   10
               CountLineCode
               CountDeclClass
@@ -25,57 +25,57 @@ Attribute                  pos      neg
                          (0.6)    (0.4)
 ========================================
 CountLineCode
-  mean                 338.7962 293.7825
-  std. dev.            500.9133 512.8275
-  weight sum               2444     1637
-  precision              7.5238   7.5238
+  mean                 339.1886 292.8118
+  std. dev.            502.1073 512.1693
+  weight sum               2430     1643
+  precision              7.5116   7.5116
 
 CountDeclClass
-  mean                   2.4619   2.3444
-  std. dev.              5.7432   4.9188
-  weight sum               2444     1637
+  mean                   2.4684   2.3358
+  std. dev.              5.7575   4.9118
+  weight sum               2430     1643
   precision              3.7442   3.7442
 
 CountDeclFunction
-  mean                  27.2365  22.1332
-  std. dev.             47.9604  34.2343
-  weight sum               2444     1637
+  mean                  27.2653  22.0523
+  std. dev.              48.068  34.1978
+  weight sum               2430     1643
   precision              4.2676   4.2676
 
 CountLineCodeDecl
-  mean                 114.5739 101.6805
-  std. dev.            147.5594 177.6104
-  weight sum               2444     1637
-  precision              7.8801   7.8801
+  mean                 114.5423 101.2521
+  std. dev.            147.8283 177.3607
+  weight sum               2430     1643
+  precision              7.8522   7.8522
 
 SumEssential
-  mean                  35.3496  28.1072
-  std. dev.             60.6046  51.3988
-  weight sum               2444     1637
+  mean                  35.4105  28.0045
+  std. dev.             60.7514  51.3329
+  weight sum               2430     1643
   precision              3.7724   3.7724
 
 SumCyclomaticStrict
-  mean                  66.3465  53.1675
-  std. dev.            113.7197 109.0192
-  weight sum               2444     1637
+  mean                  66.5016  52.9733
+  std. dev.            114.0073 108.8673
+  weight sum               2430     1643
   precision               5.633    5.633
 
 MaxEssential
-  mean                    3.507   2.5631
-  std. dev.              5.9164   5.3216
-  weight sum               2444     1637
+  mean                   3.5194   2.5537
+  std. dev.              5.9299   5.3142
+  weight sum               2430     1643
   precision                3.15     3.15
 
 MaxCyclomaticStrict
-  mean                  10.4389    8.681
-  std. dev.              13.511  13.2478
-  weight sum               2444     1637
+  mean                  10.4563   8.6493
+  std. dev.             13.5315   13.234
+  weight sum               2430     1643
   precision              3.1481   3.1481
 
 MaxNesting
-  mean                   2.6451   2.2273
-  std. dev.              2.1814    1.987
-  weight sum               2444     1637
+  mean                    2.647   2.2201
+  std. dev.              2.1818   1.9873
+  weight sum               2430     1643
   precision              1.5385   1.5385
 
 
@@ -85,25 +85,24 @@ Time taken to build model: 0.02 seconds
 === Stratified cross-validation ===
 === Summary ===
 
-Correctly Classified Instances        1972               48.3215 %
-Incorrectly Classified Instances      2109               51.6785 %
-Kappa statistic                          0.0421
-Mean absolute error                      0.4937
-Root mean squared error                  0.5316
-Relative absolute error                102.7529 %
-Root relative squared error            108.4622 %
-Total Number of Instances             4081     
+Correctly Classified Instances        1996               49.0056 %
+Incorrectly Classified Instances      2077               50.9944 %
+Kappa statistic                          0.0453
+Mean absolute error                      0.4955
+Root mean squared error                  0.5385
+Relative absolute error                102.9503 %
+Root relative squared error            109.7678 %
+Total Number of Instances             4073     
 
 === Detailed Accuracy By Class ===
 
-                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
-                 0,319    0,272    0,637      0,319    0,425      0,051    0,543     0,632     pos
-                 0,728    0,681    0,417      0,728    0,531      0,051    0,543     0,440     neg
-Weighted Avg.    0,483    0,436    0,549      0,483    0,467      0,051    0,543     0,555     
+                 		TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 		0,344    0,293    0,634      0,344    0,446      0,053    0,532     0,626     pos
+                 		0,707    0,656    0,421      0,707    0,528      0,053    0,532     0,426     neg
+Weighted Avg.    	0,490    0,440    0,548      0,490    0,479      0,053    0,532     0,545     
 
 === Confusion Matrix ===
 
     a    b   <-- classified as
-  780 1664 |    a = pos
-  445 1192 |    b = neg
-
+  835 1595 |    a = pos
+  482 1161 |    b = neg

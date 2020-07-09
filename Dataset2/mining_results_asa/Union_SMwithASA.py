@@ -11,13 +11,14 @@ def initialize(name_csv_sm, name_csv_asa, new_Union):
 	os.chdir("mining_results_asa")
 	csv_asa = open(name_csv_asa, "r+",encoding="utf-8")
 	number_of_file = 0
-	found=False;
-	flag_mining = True
+	found = False
+	flag_sm = True
 	flag_asa = True
 	for line_sm in csv_sm:
+		found=False
 		#Se è la prima riga del csv delle software metrics
 		if(flag_sm == True):
-			flag_mining = False
+			flag_sm = False
 			line_asa = csv_asa.readline()
 			#Se è la prima riga del csv delle asa
 			if( flag_asa == True):
@@ -31,37 +32,43 @@ def initialize(name_csv_sm, name_csv_asa, new_Union):
 				withoutClassInMining = line_sm[:-7]
 				new_Union.write(withoutClassInMining + toString + ",class")
 				new_Union.write("\n")
+
 				#prendi il nome dei file nelle asa
 				
 		else:
 			csv_asa.seek(0,0)
 			csv_asa.readline()
+			#print("Eccomi")
 			#ottengo i caratteri (SOFTWARE METRICS)
-			file_name_sm = line_sm.split(',')[0].replace("_","")
+			file_name_sm = line_sm.split(',')[1].replace("\"","")
+
 			#ottengo il valore della classe (pos || neg) (SOFTWARE METRICS)
 			class_element = getClass(line_sm)
+			class_element = class_element.replace(" ","")
+			element_software_metrics = another_option(None, line_sm, class_element)
 			for line_asa in csv_asa:
-				file_name_asa = line_asa.split(',')[1].replace("\"", "")
-				
-				print("ASA Results :" + file_name_asa)
-				print("Software Metrics :" + file_name_sm)
+				file_name_asa = line_asa.split(',')[0].replace("\"", "")
+				#print("Eccomi")
+				#print("ASA Results :" + file_name_asa)
+				#print("Software Metrics :" + file_name_sm)
 				if(file_name_sm == file_name_asa):
 					number_of_file += 1
-					print("i file sono uguali")
+					#print("i file sono uguali")
 					#SOFTWARE METRICS
-					element_software_metrics = another_option(None, line_sm, class_element)
+					
 					#Static Analysis Results
 					element_ASA = another_option(line_asa, None, class_element)
-					found=True
+					found = True
 					#scrivo la tupla del nuovo dataset
 					new_Union.write(element_software_metrics + element_ASA + class_element)		
-				else:
-					print("i file non sono uguali")
+				#else:
+					#print("i file non sono uguali")
 			if(found==False): #se lo script non trova la classe nel dataset ASA
 				element_ASA ="" # inserisce 19 valori uguali a 0
-				for i in range(0,18): #
-					element_ASA +=",0"
+				for i in range(0,18):
+					element_ASA +="0,"
 				new_Union.write(element_software_metrics +element_ASA + class_element)
+	#print("Number:"+str(number_of_file))
 	print("i file che sono stati letti e scritti sono :" + str(number_of_file))
 	print("BUILD SUCCESS")
 
@@ -87,7 +94,14 @@ SE OMETTIAMO LE ASA :
 def another_option(line_asa, line_sm, class_element):
 	if(line_sm == None):
 		toString = ""
-		lista = line_asa.split(",")
+		#print("Class_Element:"+class_element+"_fine")
+		class_element=class_element.replace(" ","")
+		class_element=class_element.replace("\n","")
+		#print("Class_Element_AFTER:"+class_element+"_fine")
+		lista = line_asa.replace(" ","").replace("\n","").split(",")
+
+		#print(lista)
+		lista.remove(class_element)
 		#print(lista)
 		count = 0
 		for element in lista:
@@ -122,7 +136,7 @@ def getClass(line):
 
 def main():
 	new_Union = open("union_SM_ASA.csv", "w")
-	name_csv_sm = "mining_results.csv"
+	name_csv_sm = "mining_results_sm_final.csv"
 	name_csv_asa = "csv_ASA_final.csv"
 	initialize(name_csv_sm, name_csv_asa, new_Union)
 
