@@ -11,10 +11,11 @@ def initialize(name_csv_mining, name_csv_asa, new_Union):
 	os.chdir("mining_results_asa")
 	csv_asa = open(name_csv_asa, "r+",encoding="utf-8")
 	number_of_file = 0
-	found=False;
+	found=False
 	flag_mining = True
 	flag_asa = True
 	for line_tm in csv_mining:
+		found = False
 		#Se è la prima riga del csv del text mining
 		if(flag_mining == True):
 			flag_mining = False
@@ -37,30 +38,35 @@ def initialize(name_csv_mining, name_csv_asa, new_Union):
 			csv_asa.seek(0,0)
 			csv_asa.readline()
 			#ottengo i caratteri (TEXT_MINING)
-			file_name_tm = line_tm.split(',')[0].replace("_","")
+			file_name_tm = line_tm.split(',')[0].replace(".java_",".java")
 			#ottengo il valore della classe (pos || neg) (TEXT_MINING)
 			class_element = getClass(line_tm)
+			#print("Valore classe: " + class_element)
+			# effettuo la chiamata ad another_option() perche se non matcha nessun elemento,
+			# non posso ottenere il file che non ha matchato per scriverlo nell'altro file.
+			element_doesnt_match = another_option(None, line_tm, class_element)
+			#print("Attributi TM: " + element_doesnt_match)
 			for line_asa in csv_asa:
-				file_name_asa = line_asa.split(',')[1].replace("\"", "")
+				file_name_asa = line_asa.split(',')[0].replace("\"", "")
 				
-				print("ASA Results :" + file_name_asa)
-				print("Text Mining :" + file_name_tm)
+				#print("ASA Results :" + file_name_asa)
+				#print("Text Mining :" + file_name_tm)
 				if(file_name_tm == file_name_asa):
 					number_of_file += 1
-					print("i file sono uguali")
+					#print("i file sono uguali")
 					element_text_mining = another_option(None, line_tm, class_element)
 					#Static Analysis Results
 					element_ASA = another_option(line_asa, None, class_element)
 					found=True
 					#scrivo la tupla del nuovo dataset
 					new_Union.write(element_text_mining + element_ASA + class_element)		
-				else:
-					print("i file non sono uguali")
+				#else:
+					#print("i file non sono uguali")
 			if(found==False): #se lo script non trova la classe nel dataset ASA
 				element_ASA ="" # inserisce 19 valori uguali a 0
 				for i in range(0,18): #
-					element_ASA +=",0"
-				new_Union.write(element_text_mining +element_ASA + class_element)
+					element_ASA +="0,"
+				new_Union.write(element_doesnt_match +element_ASA + class_element)
 	print("i file che sono stati letti e scritti sono :" + str(number_of_file))
 	print("BUILD SUCCESS")
 
@@ -86,7 +92,10 @@ SE OMETTIAMO LE ASA :
 def another_option(line_asa, line_tm, class_element):
 	if(line_tm == None):
 		toString = ""
-		lista = line_asa.split(",")
+		class_element = class_element.replace(" ", "")
+		class_element = class_element.replace("\n", "")
+		lista = line_asa.replace(" ", "").replace("\n","").split(",")
+		lista.remove(class_element)
 		#print(lista)
 		count = 0
 		for element in lista:
