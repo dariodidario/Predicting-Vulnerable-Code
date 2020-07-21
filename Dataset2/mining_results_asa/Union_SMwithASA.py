@@ -25,7 +25,7 @@ def initialize(name_csv_sm, name_csv_asa, new_Union):
 				flag_asa = False
 					
 				withoutFirst2Argument = line_asa.split(',')
-				withoutFirst2Argument = withoutFirst2Argument[1:18]
+				withoutFirst2Argument = withoutFirst2Argument[1:20]
 				toString = ""
 				for element in withoutFirst2Argument:
 					toString+= "," + element
@@ -65,7 +65,7 @@ def initialize(name_csv_sm, name_csv_asa, new_Union):
 					#print("i file non sono uguali")
 			if(found==False): #se lo script non trova la classe nel dataset ASA
 				element_ASA ="" # inserisce 19 valori uguali a 0
-				for i in range(0,18):
+				for i in range(0,19):
 					element_ASA +="0,"
 				new_Union.write(element_software_metrics +element_ASA + class_element)
 	#print("Number:"+str(number_of_file))
