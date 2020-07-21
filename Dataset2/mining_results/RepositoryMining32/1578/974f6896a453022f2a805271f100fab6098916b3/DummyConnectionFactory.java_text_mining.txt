@@ -1,0 +1,1 @@
+{'package': 1, 'org': 2, 'apache': 2, 'activemq': 2, 'console': 1, 'command': 1, 'import': 2, 'java': 1, 'net': 1, 'URI': 3, 'ActiveMQConnectionFactory': 2, 'public': 6, 'class': 1, 'DummyConnectionFactory': 6, 'extends': 1, 'super': 5, 'String': 6, 'userName': 4, 'password': 4, 'brokerURL': 8}

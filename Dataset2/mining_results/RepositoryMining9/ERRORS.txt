@@ -1,0 +1,19 @@
+indice: 18 link repo: https://github.com/apache/ofbiz status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,4cf0a9f20b37f977a4338ae0ccac9e8980ee1943indice: 18 link repo: https://github.com/apache/poi status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,103b45073c7b504236588b3acc146530205af53cindice: 18 link repo: https://github.com/apache/ofbiz status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,5caeb525634157e10bde176f33afc60bbe3e9ef0indice: 18 link repo: https://github.com/apache/ofbiz status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,4cf0a9f20b37f977a4338ae0ccac9e8980ee1943indice: 18 link repo: https://github.com/apache/poi status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,103b45073c7b504236588b3acc146530205af53cindice: 18 link repo: https://github.com/apache/ofbiz status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,5caeb525634157e10bde176f33afc60bbe3e9ef0indice: 18 link repo: https://github.com/apache/ofbiz status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,4cf0a9f20b37f977a4338ae0ccac9e8980ee1943indice: 18 link repo: https://github.com/apache/poi status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,103b45073c7b504236588b3acc146530205af53cindice: 18 link repo: https://github.com/apache/ofbiz status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,4cf0a9f20b37f977a4338ae0ccac9e8980ee1943indice: 18 link repo: https://github.com/apache/poi status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,103b45073c7b504236588b3acc146530205af53cindice: 18 link repo: https://github.com/apache/ofbiz status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,5caeb525634157e10bde176f33afc60bbe3e9ef0indice: 18 link repo: https://github.com/apache/ofbiz status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,4cf0a9f20b37f977a4338ae0ccac9e8980ee1943indice: 18 link repo: https://github.com/apache/poi status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,103b45073c7b504236588b3acc146530205af53cindice: 18 link repo: https://github.com/apache/ofbiz status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,5caeb525634157e10bde176f33afc60bbe3e9ef0indice: 19 link repo: https://github.com/apache/derby status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,a2027c64e185a9ce46929f352e2db03371c1f95bindice: 19 link repo: https://github.com/apache/poi status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,3a328aa220f6979f9805f658ae33244d153beaa7indice: 37 link repo: https://github.com/apache/jackrabbit status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,30318d5aef7bf494e579a86f45c79b18b204a997indice: 39 link repo: https://github.com/apache/jackrabbit status: VALUE ERROR! COMMIT HASH NOT EXISTS
+,43accb855897b0d82393d47420e25a1e4a569211

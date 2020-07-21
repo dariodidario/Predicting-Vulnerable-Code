@@ -1,0 +1,1 @@
+{'package': 1, 'org': 1, 'apache': 1, 'commons': 1, 'compress': 1, 'tar': 1, 'interface': 1, 'TarConstants': 1, 'int': 10, 'MODELEN': 1, 'UIDLEN': 1, 'GIDLEN': 1, 'CHKSUMLEN': 1, 'SIZELEN': 1, 'MAGICLEN': 1, 'MODTIMELEN': 1, 'UNAMELEN': 1, 'GNAMELEN': 1, 'DEVLEN': 1, 'byte': 19, 'String': 3, 'TMAGIC': 1, 'LongLink': 1}

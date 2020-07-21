@@ -1,0 +1,1 @@
+{'package': 1, 'com': 3, 'facebook': 3, 'buck': 3, 'python': 1, 'import': 2, 'cxx': 1, 'CxxPlatform': 2, 'rules': 1, 'TargetGraph': 2, 'public': 1, 'interface': 1, 'PythonPackagable': 1, 'PythonPackageComponents': 1, 'getPythonPackageComponents': 1, 'targetGraph': 1, 'PythonPlatform': 1, 'pythonPlatform': 1, 'cxxPlatform': 1}

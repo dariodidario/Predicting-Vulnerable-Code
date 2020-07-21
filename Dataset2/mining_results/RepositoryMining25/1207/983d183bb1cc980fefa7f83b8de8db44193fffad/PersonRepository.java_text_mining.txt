@@ -1,0 +1,1 @@
+{'package': 1, 'org': 3, 'springframework': 3, 'ldap': 3, 'itest': 2, 'repositories': 1, 'import': 2, 'odm': 1, 'Person': 2, 'repository': 1, 'LdapRepository': 2, 'public': 1, 'interface': 1, 'PersonRepository': 1, 'extends': 1}

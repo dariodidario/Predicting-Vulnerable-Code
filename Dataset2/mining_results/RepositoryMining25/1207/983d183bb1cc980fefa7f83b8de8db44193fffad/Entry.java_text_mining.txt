@@ -1,0 +1,1 @@
+{'package': 1, 'org': 1, 'springframework': 1, 'ldap': 1, 'odm': 1, 'annotations': 1, 'import': 4, 'java': 4, 'lang': 4, 'annotation': 4, 'ElementType': 2, 'Retention': 2, 'RetentionPolicy': 2, 'Target': 2, 'TYPE': 1, 'RUNTIME': 1, 'public': 1, 'interface': 1, 'Entry': 1, 'String': 2, 'objectClasses': 1, 'base': 1, 'default': 1}

@@ -1,0 +1,1 @@
+{'package': 1, 'com': 1, 'googlecode': 1, 'wicket': 1, 'jquery': 1, 'core': 1, 'renderer': 1, 'public': 1, 'interface': 1, 'IChoiceRenderer': 1, 'T': 3, 'extends': 1, 'ITextRenderer': 1, 'String': 2, 'getValueField': 1, 'getValue': 1, 'object': 1}

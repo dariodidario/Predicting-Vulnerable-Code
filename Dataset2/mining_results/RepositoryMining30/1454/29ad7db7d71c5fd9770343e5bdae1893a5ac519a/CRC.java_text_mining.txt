@@ -1,0 +1,1 @@
+{'package': 1, 'org': 1, 'apache': 1, 'commons': 1, 'compress': 1, 'class': 1, 'CRC': 2, 'private': 2, 'static': 1, 'int': 6, 'new': 1, 'protected': 1, 'initialiseCRC': 2, 'getFinalCRC': 1, 'return': 1, 'void': 2, 'updateCRC': 1, 'final': 1, 'inCh': 2, 'temp': 5, 'if': 1}

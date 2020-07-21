@@ -1,0 +1,1 @@
+{'package': 1, 'javax': 1, 'websocket': 1, 'import': 1, 'java': 1, 'util': 1, 'Map': 2, 'public': 1, 'interface': 1, 'Extension': 1, 'String': 3, 'getName': 1, 'getParameters': 1}

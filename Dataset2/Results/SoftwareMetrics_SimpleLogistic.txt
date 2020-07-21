@@ -1,0 +1,70 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.functions.SimpleLogistic -I 0 -M 500 -H 50 -W 0.0
+Relation:     software_metrics_vpm-weka.filters.unsupervised.attribute.Remove-R1-2
+Instances:    4081
+Attributes:   10
+              CountLineCode
+              CountDeclClass
+              CountDeclFunction
+              CountLineCodeDecl
+              SumEssential
+              SumCyclomaticStrict
+              MaxEssential
+              MaxCyclomaticStrict
+              MaxNesting
+              class
+Test mode:    5-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+SimpleLogistic:
+
+Class pos :
+0.07 + 
+[CountLineCode] * -0 +
+[CountDeclClass] * -0.01 +
+[CountDeclFunction] * 0    +
+[SumCyclomaticStrict] * -0 +
+[MaxEssential] * 0.01 +
+[MaxCyclomaticStrict] * -0 +
+[MaxNesting] * 0.05
+
+Class neg :
+-0.07 + 
+[CountLineCode] * 0    +
+[CountDeclClass] * 0.01 +
+[CountDeclFunction] * -0 +
+[SumCyclomaticStrict] * 0    +
+[MaxEssential] * -0.01 +
+[MaxCyclomaticStrict] * 0    +
+[MaxNesting] * -0.05
+
+
+Time taken to build model: 0.48 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        2442               59.8383 %
+Incorrectly Classified Instances      1639               40.1617 %
+Kappa statistic                          0.0017
+Mean absolute error                      0.4805
+Root mean squared error                  0.4912
+Relative absolute error                100.0096 %
+Root relative squared error            100.2228 %
+Total Number of Instances             4081     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,995    0,993    0,599      0,995    0,748      0,009    0,535     0,630     pos
+                 0,007    0,005    0,458      0,007    0,013      0,009    0,535     0,419     neg
+Weighted Avg.    0,598    0,597    0,543      0,598    0,453      0,009    0,535     0,545     
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 2431   13 |    a = pos
+ 1626   11 |    b = neg
+

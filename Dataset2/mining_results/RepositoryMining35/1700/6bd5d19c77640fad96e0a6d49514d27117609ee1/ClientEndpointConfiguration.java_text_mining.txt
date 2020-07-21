@@ -1,0 +1,1 @@
+{'package': 1, 'javax': 1, 'websocket': 1, 'import': 2, 'java': 2, 'util': 2, 'List': 4, 'Map': 2, 'public': 1, 'interface': 1, 'ClientEndpointConfiguration': 1, 'extends': 1, 'EndpointConfiguration': 1, 'String': 4, 'getPreferredSubprotocols': 1, 'getExtensions': 1, 'void': 2, 'beforeRequest': 1, 'headers': 1, 'afterResponse': 1, 'HandshakeResponse': 1, 'handshakeResponse': 1}

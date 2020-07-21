@@ -1,0 +1,77 @@
+indice: 1 link repo: https://github.com/apache/httpcomponents-client status: OK!
+indice: 2 link repo: https://github.com/netty/netty status: OK!
+indice: 3 link repo: https://github.com/apache/tomcat status: OK!
+indice: 4 link repo: https://github.com/apache/cayenne status: OK!
+indice: 5 link repo: https://github.com/apache/cxf status: OK!
+indice: 6 link repo: https://github.com/jenkinsci/subversion-plugin status: OK!
+indice: 7 link repo: https://github.com/apache/nifi status: OK!
+indice: 8 link repo: https://github.com/apache/geode status: OK!
+indice: 9 link repo: https://android.googlesource.com/platform//external/conscrypt status: NOT EXIST COMMIT
+indice: 10 link repo: https://github.com/spring-projects/spring-amqp status: OK!
+indice: 11 link repo: https://github.com/FasterXML/jackson-databind status: OK!
+indice: 12 link repo: https://github.com/blynkkk/blynk-server status: OK!
+indice: 13 link repo: https://github.com/apache/jackrabbit status: VALUE ERROR! COMMIT HASH NOT EXISTS
+indice: 13 link repo: https://github.com/bcgit/bc-java status: OK!
+indice: 14 link repo: https://github.com/apache/cxf status: OK!
+indice: 15 link repo: https://github.com/apache/activemq status: OK!
+indice: 16 link repo: https://github.com/apache/tomcat status: OK!
+indice: 17 link repo: https://github.com/apache/camel status: OK!
+indice: 18 link repo: https://github.com/x-stream/xstream status: OK!
+indice: 19 link repo: https://github.com/apache/struts status: OK!
+indice: 20 link repo: https://github.com/apache/ofbiz status: VALUE ERROR! COMMIT HASH NOT EXISTS
+indice: 20 link repo: https://github.com/spring-projects/spring-security-oauth status: OK!
+indice: 21 link repo: https://github.com/apache/tomcat status: OK!
+indice: 22 link repo: https://github.com/apache/uima-uimaj status: OK!
+indice: 23 link repo: https://github.com/zeroturnaround/zt-zip status: OK!
+indice: 24 link repo: https://github.com/apache/activemq status: OK!
+indice: 25 link repo: https://github.com/apache/derby status: OK!
+indice: 1 link repo: https://github.com/apache/httpcomponents-client status: OK!
+indice: 2 link repo: https://github.com/netty/netty status: OK!
+indice: 3 link repo: https://github.com/apache/tomcat status: OK!
+indice: 4 link repo: https://github.com/apache/cayenne status: OK!
+indice: 5 link repo: https://github.com/apache/cxf status: OK!
+indice: 6 link repo: https://github.com/jenkinsci/subversion-plugin status: OK!
+indice: 7 link repo: https://github.com/apache/nifi status: OK!
+indice: 8 link repo: https://github.com/apache/geode status: OK!
+indice: 9 link repo: https://android.googlesource.com/platform//external/conscrypt status: NOT EXIST COMMIT
+indice: 10 link repo: https://github.com/spring-projects/spring-amqp status: OK!
+indice: 11 link repo: https://github.com/FasterXML/jackson-databind status: OK!
+indice: 12 link repo: https://github.com/blynkkk/blynk-server status: OK!
+indice: 13 link repo: https://github.com/apache/jackrabbit status: VALUE ERROR! COMMIT HASH NOT EXISTS
+indice: 13 link repo: https://github.com/bcgit/bc-java status: OK!
+indice: 14 link repo: https://github.com/apache/cxf status: OK!
+indice: 15 link repo: https://github.com/apache/activemq status: OK!
+indice: 16 link repo: https://github.com/apache/tomcat status: OK!
+indice: 17 link repo: https://github.com/apache/camel status: OK!
+indice: 18 link repo: https://github.com/x-stream/xstream status: OK!
+indice: 19 link repo: https://github.com/apache/struts status: OK!
+indice: 20 link repo: https://github.com/apache/ofbiz status: VALUE ERROR! COMMIT HASH NOT EXISTS
+indice: 20 link repo: https://github.com/spring-projects/spring-security-oauth status: OK!
+indice: 21 link repo: https://github.com/apache/tomcat status: OK!
+indice: 22 link repo: https://github.com/apache/uima-uimaj status: OK!
+indice: 23 link repo: https://github.com/zeroturnaround/zt-zip status: OK!
+indice: 24 link repo: https://github.com/apache/activemq status: OK!
+indice: 25 link repo: https://github.com/apache/derby status: OK!
+indice: 26 link repo: https://github.com/apache/hbase status: OK!
+indice: 27 link repo: https://github.com/apache/tomcat status: OK!
+indice: 28 link repo: https://github.com/apache/struts status: OK!
+indice: 29 link repo: https://github.com/spring-projects/spring-framework status: OK!
+indice: 30 link repo: https://github.com/apache/poi status: VALUE ERROR! COMMIT HASH NOT EXISTS
+indice: 30 link repo: https://github.com/cloudfoundry/uaa status: OK!
+indice: 31 link repo: https://github.com/apache/tomcat55 status: OK!
+indice: 32 link repo: https://github.com/undertow-io/undertow status: OK!
+indice: 33 link repo: https://github.com/apache/activemq status: OK!
+indice: 34 link repo: https://github.com/belaban/JGroups status: OK!
+indice: 35 link repo: https://github.com/pivotal-cf/spring-cloud-sso-connector status: OK!
+indice: 36 link repo: https://github.com/apache/pdfbox status: VALUE ERROR! COMMIT HASH NOT EXISTS
+indice: 36 link repo: https://github.com/eclipse/jetty.project status: OK!
+indice: 37 link repo: https://github.com/jenkinsci/jenkins status: OK!
+indice: 38 link repo: https://github.com/apache/geode status: OK!
+indice: 39 link repo: https://github.com/apache/tomcat status: OK!
+indice: 40 link repo: https://github.com/apache/tika status: OK!
+indice: 41 link repo: https://github.com/spring-projects/spring-framework status: OK!
+indice: 42 link repo: https://github.com/apache/commons-collections status: OK!
+indice: 43 link repo: https://github.com/apache/tapestry-5 status: OK!
+indice: 44 link repo: https://github.com/apache/commons-compress status: OK!
+indice: 45 link repo: https://gerrit.ovirt.org/ovirt-engine status: REPO NOT AVAILABLE
+indice: 46 link repo: https://github.com/beanshell/beanshell status: OK!

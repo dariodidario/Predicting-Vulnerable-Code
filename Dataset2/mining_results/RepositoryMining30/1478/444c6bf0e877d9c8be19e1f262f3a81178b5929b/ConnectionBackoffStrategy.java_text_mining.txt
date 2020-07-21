@@ -1,0 +1,1 @@
+{'package': 1, 'org': 2, 'apache': 2, 'http': 2, 'client': 1, 'import': 1, 'HttpResponse': 2, 'public': 1, 'interface': 1, 'ConnectionBackoffStrategy': 1, 'boolean': 2, 'shouldBackoff': 2, 'Throwable': 1, 't': 1, 'resp': 1}

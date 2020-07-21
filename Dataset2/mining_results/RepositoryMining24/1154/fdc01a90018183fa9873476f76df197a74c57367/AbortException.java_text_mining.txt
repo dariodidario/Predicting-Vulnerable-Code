@@ -1,0 +1,1 @@
+{'package': 1, 'hudson': 1, 'tasks': 1, 'junit': 1, 'import': 1, 'java': 1, 'io': 1, 'IOException': 2, 'class': 1, 'AbortException': 2, 'extends': 1, 'public': 1, 'String': 1, 'msg': 2, 'super': 1, 'private': 1, 'static': 1, 'final': 1, 'long': 1, 'serialVersionUID': 1}

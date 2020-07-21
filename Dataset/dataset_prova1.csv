@@ -1,0 +1,4 @@
+cve_id,repolink,commit_id,class
+CVE-2016-3674,https://github.com/x-stream/xstream,806949e1b3c22a3b31819a37402489a0303221a,pos
+
+

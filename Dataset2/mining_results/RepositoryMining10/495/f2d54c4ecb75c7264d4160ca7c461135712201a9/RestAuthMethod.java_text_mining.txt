@@ -1,0 +1,1 @@
+{'package': 1, 'org': 1, 'infinispan': 1, 'server': 1, 'endpoint': 1, 'subsystem': 1, 'public': 2, 'enum': 1, 'AuthMethod': 1, 'BASIC': 1, 'DIGEST': 1, 'SPNEGO': 1, 'Override': 1, 'String': 1, 'toString': 2, 'return': 1, 'super': 1, 'replace': 1}

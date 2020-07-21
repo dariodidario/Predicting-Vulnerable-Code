@@ -1,0 +1,1 @@
+{'package': 1, 'org': 2, 'apache': 2, 'http': 2, 'client': 1, 'params': 1, 'import': 1, 'annotation': 1, 'Immutable': 2, 'public': 7, 'final': 7, 'class': 1, 'CookiePolicy': 2, 'static': 6, 'String': 6, 'NETSCAPE': 1, 'best': 1, 'match': 1, 'private': 1, 'super': 1}

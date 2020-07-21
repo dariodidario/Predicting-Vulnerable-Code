@@ -1,0 +1,1 @@
+{'package': 1, 'org': 1, 'jolokia': 1, 'public': 3, 'final': 3, 'class': 1, 'Version': 2, 'private': 3, 'static': 4, 'String': 4, 'VERSION': 2, 'Major': 1, 'Minor': 1, 'PROTOCOL': 2, 'getAgentVersion': 1, 'return': 2, 'getProtocolVersion': 1}

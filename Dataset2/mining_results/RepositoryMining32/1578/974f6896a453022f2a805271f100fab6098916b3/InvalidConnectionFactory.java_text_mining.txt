@@ -1,0 +1,1 @@
+{'package': 1, 'org': 2, 'apache': 2, 'activemq': 2, 'console': 1, 'command': 1, 'import': 1, 'ActiveMQConnectionFactory': 2, 'public': 1, 'class': 1, 'InvalidConnectionFactory': 1, 'extends': 1}

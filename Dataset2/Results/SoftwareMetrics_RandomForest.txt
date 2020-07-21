@@ -1,0 +1,52 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.RandomForest -P 100 -I 100 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1
+Relation:     mining_results_sm_final-weka.filters.unsupervised.attribute.Remove-R1-2
+Instances:    4073
+Attributes:   10
+              CountLineCode
+              CountDeclClass
+              CountDeclFunction
+              CountLineCodeDecl
+              SumEssential
+              SumCyclomaticStrict
+              MaxEssential
+              MaxCyclomaticStrict
+              MaxNesting
+              class
+Test mode:    5-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+RandomForest
+
+Bagging with 100 iterations and base learner
+
+weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1 -do-not-check-capabilities
+
+Time taken to build model: 2.03 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        2524               61.9691 %
+Incorrectly Classified Instances      1549               38.0309 %
+Kappa statistic                          0.1683
+Mean absolute error                      0.4323
+Root mean squared error                  0.4832
+Relative absolute error                 89.8013 %
+Root relative squared error             98.506  %
+Total Number of Instances             4073     
+
+=== Detailed Accuracy By Class ===
+
+                 		TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 		0,786    0,626    0,650      0,786    0,711      0,175    0,641     0,719     pos
+                 		0,374    0,214    0,541      0,374    0,443      0,175    0,641     0,530     neg
+Weighted Avg.    	0,620    0,460    0,606      0,620    0,603      0,175    0,641     0,643     
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 1909  521 |    a = pos
+ 1028  615 |    b = neg

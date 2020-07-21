@@ -1,0 +1,1 @@
+{'package': 1, 'io': 1, 'netty': 1, 'handler': 1, 'codec': 1, 'http': 1, 'websocketx': 1, 'final': 2, 'class': 1, 'extends': 1, 'RuntimeException': 1, 'private': 1, 'static': 1, 'long': 1, 'serialVersionUID': 1, 'String': 1, 'reason': 2, 'super': 1}

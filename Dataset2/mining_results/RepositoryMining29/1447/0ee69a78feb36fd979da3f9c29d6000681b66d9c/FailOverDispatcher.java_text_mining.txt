@@ -1,0 +1,1 @@
+{'package': 1, 'org': 2, 'springframework': 2, 'integration': 2, 'dispatcher': 1, 'import': 3, 'java': 2, 'util': 2, 'Iterator': 2, 'List': 2, 'message': 1, 'MessageHandler': 3, 'public': 1, 'class': 1, 'FailOverDispatcher': 1, 'extends': 1, 'AbstractUnicastDispatcher': 1, 'Override': 1, 'protected': 1, 'getHandlerIterator': 1, 'handlers': 2, 'return': 1, 'iterator': 1}

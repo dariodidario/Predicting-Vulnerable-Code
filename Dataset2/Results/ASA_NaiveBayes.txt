@@ -1,0 +1,179 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.bayes.NaiveBayes 
+Relation:     csv_ASA_final-weka.filters.unsupervised.attribute.Remove-R1
+Instances:    1251
+Attributes:   20
+               java:S2039
+               java:S2384
+               java:S2658
+               java:S2755
+               java:S1148
+               java:S1444
+               java:S899
+               java:S5542
+               java:S2386
+               java:S2976
+               java:S2612
+               java:S5527
+               java:S4830
+               java:S3329
+               java:S4423
+               java:S4433
+               java:S4426
+               java:S2115
+               java:S2647
+               class
+Test mode:    5-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+Naive Bayes Classifier
+
+                Class
+Attribute         neg    pos
+               (0.38) (0.62)
+=============================
+ java:S2039
+  mean           2.819 1.8399
+  std. dev.     8.1121 4.5849
+  weight sum       474    777
+  precision     2.5946 2.5946
+
+ java:S2384
+  mean          0.6385 0.6469
+  std. dev.      1.503 1.5749
+  weight sum       474    777
+  precision     1.3333 1.3333
+
+ java:S2658
+  mean          0.2222 0.1355
+  std. dev.     3.8059 2.6756
+  weight sum       474    777
+  precision        8.1    8.1
+
+ java:S2755
+  mean          0.0309 0.2299
+  std. dev.     0.2352 0.7141
+  weight sum       474    777
+  precision     1.3333 1.3333
+
+ java:S1148
+  mean          0.2136  0.139
+  std. dev.     1.1166 0.6509
+  weight sum       474    777
+  precision       2.25   2.25
+
+ java:S1444
+  mean           0.246 0.1773
+  std. dev.     3.0306 1.3327
+  weight sum       474    777
+  precision        5.3    5.3
+
+ java:S899
+  mean          0.0586 0.2467
+  std. dev.      0.463 1.3402
+  weight sum       474    777
+  precision     2.7778 2.7778
+
+ java:S5542
+  mean               0 0.0154
+  std. dev.     0.2222 0.2222
+  weight sum       474    777
+  precision     1.3333 1.3333
+
+ java:S2386
+  mean          0.0396 0.0273
+  std. dev.     0.3172 0.2083
+  weight sum       474    777
+  precision       1.25   1.25
+
+ java:S2976
+  mean               0 0.0077
+  std. dev.     0.1667 0.1667
+  weight sum       474    777
+  precision          1      1
+
+ java:S2612
+  mean          0.0021 0.0013
+  std. dev.     0.1667 0.1667
+  weight sum       474    777
+  precision          1      1
+
+ java:S5527
+  mean               0 0.0077
+  std. dev.     0.1667 0.1667
+  weight sum       474    777
+  precision          1      1
+
+ java:S4830
+  mean          0.0042 0.0154
+  std. dev.     0.3333 0.3333
+  weight sum       474    777
+  precision          2      2
+
+ java:S3329
+  mean               0 0.0129
+  std. dev.     0.1667 0.1678
+  weight sum       474    777
+  precision          1      1
+
+ java:S4423
+  mean          0.0095 0.0212
+  std. dev.       0.25   0.25
+  weight sum       474    777
+  precision        1.5    1.5
+
+ java:S4433
+  mean               0 0.0013
+  std. dev.     0.1667 0.1667
+  weight sum       474    777
+  precision          1      1
+
+ java:S4426
+  mean               0 0.0026
+  std. dev.     0.3333 0.3333
+  weight sum       474    777
+  precision          2      2
+
+ java:S2115
+  mean               0 0.0039
+  std. dev.        0.5    0.5
+  weight sum       474    777
+  precision          3      3
+
+ java:S2647
+  mean          0.0021      0
+  std. dev.     0.1667 0.1667
+  weight sum       474    777
+  precision          1      1
+
+
+
+Time taken to build model: 0.01 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         755               60.3517 %
+Incorrectly Classified Instances       496               39.6483 %
+Kappa statistic                          0.0169
+Mean absolute error                      0.4291
+Root mean squared error                  0.5127
+Relative absolute error                 91.1484 %
+Root relative squared error            105.6888 %
+Total Number of Instances             1251     
+
+=== Detailed Accuracy By Class ===
+
+                 		TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 		0,110    0,095    0,413      0,110    0,173      0,023    0,575     0,421      neg
+                 		0,905    0,890    0,625      0,905    0,739      0,023    0,575     0,709      pos
+Weighted Avg.    	0,604    0,589    0,544      0,604    0,525      0,023    0,575     0,600     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+  52 422 |   a =  neg
+  74 703 |   b =  pos
+

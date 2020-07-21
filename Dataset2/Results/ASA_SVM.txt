@@ -1,0 +1,92 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.functions.SMO -C 1.0 -L 0.001 -P 1.0E-12 -N 0 -V -1 -W 1 -K "weka.classifiers.functions.supportVector.PolyKernel -E 1.0 -C 250007" -calibrator "weka.classifiers.functions.Logistic -R 1.0E-8 -M -1 -num-decimal-places 4"
+Relation:     csv_ASA_final-weka.filters.unsupervised.attribute.Remove-R1
+Instances:    1251
+Attributes:   20
+               java:S2039
+               java:S2384
+               java:S2658
+               java:S2755
+               java:S1148
+               java:S1444
+               java:S899
+               java:S5542
+               java:S2386
+               java:S2976
+               java:S2612
+               java:S5527
+               java:S4830
+               java:S3329
+               java:S4423
+               java:S4433
+               java:S4426
+               java:S2115
+               java:S2647
+               class
+Test mode:    5-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+SMO
+
+Kernel used:
+  Linear Kernel: K(x,y) = <x,y>
+
+Classifier for classes:  neg,  pos
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+        -0.0166 * (normalized)  java:S2039
+ +      -0.0008 * (normalized)  java:S2384
+ +      -0.015  * (normalized)  java:S2658
+ +       0.0022 * (normalized)  java:S2755
+ +      -0.0001 * (normalized)  java:S1148
+ +      -0.0002 * (normalized)  java:S1444
+ +       0.0034 * (normalized)  java:S899
+ +       0.0012 * (normalized)  java:S5542
+ +      -0.1923 * (normalized)  java:S2386
+ +      -0      * (normalized)  java:S2976
+ +      -0.0003 * (normalized)  java:S2612
+ +       0.0383 * (normalized)  java:S5527
+ +       0.0017 * (normalized)  java:S4830
+ +      -0      * (normalized)  java:S3329
+ +      -0.0013 * (normalized)  java:S4423
+ +       0.0002 * (normalized)  java:S4433
+ +       0      * (normalized)  java:S2115
+ +      -1      * (normalized)  java:S2647
+ +       1.0005
+
+Number of kernel evaluations: 62366 (73.465% cached)
+
+
+
+Time taken to build model: 0.09 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         777               62.1103 %
+Incorrectly Classified Instances       474               37.8897 %
+Kappa statistic                          0     
+Mean absolute error                      0.3789
+Root mean squared error                  0.6155
+Relative absolute error                 80.4917 %
+Root relative squared error            126.8869 %
+Total Number of Instances             1251     
+
+=== Detailed Accuracy By Class ===
+
+                 		TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 		0,000    0,000    ?          0,000    ?          ?        0,500     0,379      neg
+                 		1,000    1,000    0,621      1,000    0,766      ?        0,500     0,621      pos
+Weighted Avg.    	0,621    0,621    ?          0,621    ?          ?        0,500     0,529     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+   0 474 |   a =  neg
+   0 777 |   b =  pos
+

@@ -1,0 +1,1 @@
+{'package': 1, 'org': 7, 'springframework': 7, 'amqp': 5, 'config': 1, 'import': 6, 'core': 4, 'AmqpAdmin': 2, 'Binding': 1, 'DirectExchange': 3, 'Queue': 2, 'context': 2, 'annotation': 2, 'Bean': 3, 'Configuration': 2, 'public': 4, 'abstract': 3, 'class': 1, 'AbstractAmqpConfiguration': 1, 'amqpAdmin': 1, 'generatedQueue': 1, 'defaultExchange': 1, 'return': 1, 'new': 1}
