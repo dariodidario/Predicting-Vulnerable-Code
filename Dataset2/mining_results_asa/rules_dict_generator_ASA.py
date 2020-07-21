@@ -2,7 +2,11 @@ import ast
 import os
 import csv
 
-
+'''
+This script collect all possible ASA vulnerabilty rules contained in the ASA dataset in order to create a dictionary of rules
+For each element having the field "type" = "VULNERABILITY",the script collect the rule of the element in a dictionary
+Finally, it writes the resulting dictionary in ASA_rules_dict.csv
+'''
 def main():
 	dict_file_name="ASA_rules_dict.csv"
 	cwd = os.getcwd()
