@@ -1,4 +1,0 @@
-cve_id,repolink,commit_id,class
-CVE-2018-1000134,https://github.com/pingidentity/ldapsdk,8471904a02438c03965d21367890276bc25fa5a6,pos
-
-
