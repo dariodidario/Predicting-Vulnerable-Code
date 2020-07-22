@@ -2,14 +2,19 @@ import os
 
 def initialize(name_csv_sm, name_csv_asa, new_Union):
 	cwd = os.getcwd()
-	#Return to Dataset2 folder
+	#Return to Union folder
 	os.chdir("..")
-	os.chdir("Software_Metrics_Mining_Result")
+	#Return to Dataset2
+	os.chdir("..")
+	os.chdir("Software_Metrics")
 	csv_sm = open(name_csv_sm, "r+",encoding="utf-8")
 	#Return to Dataset2
 	os.chdir("..")
 	os.chdir("mining_results_asa")
 	csv_asa = open(name_csv_asa, "r+",encoding="utf-8")
+	os.chdir("..")
+	#Return to Union_SM_ASA
+	os.chdir("Union/Union_SM_ASA")
 	number_of_file = 0
 	found = False
 	flag_sm = True

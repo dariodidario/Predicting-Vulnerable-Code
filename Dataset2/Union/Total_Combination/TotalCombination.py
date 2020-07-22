@@ -2,17 +2,20 @@ import os
 
 def initialize(name_csv_mining, name_csv_soft_m, new_Union):
 	cwd = os.getcwd()
-	#Return to Dataset2 folder
+	#Return to Union folder
 	os.chdir("..")
-	os.chdir("mining_results")
+	os.chdir("Union_TM_ASA")
 	csv_mining = open(name_csv_mining, "r+")
+	#Return to Union
+	os.chdir("..")
 	#Return to Dataset2
 	os.chdir("..")
-	os.chdir("Software_Metrics_Mining_Result")
+	os.chdir("Software_Metrics")
 	csv_software_metric = open(name_csv_soft_m, "r+")
+	os.chdir("..")
+	#Return to Total_Combination
+	os.chdir("Union/Total_Combination")
 	number_of_file = 0
-	
-
 	flag_mining = True
 	flag_soft_met = True
 	for line_tm in csv_mining:
@@ -25,7 +28,7 @@ def initialize(name_csv_mining, name_csv_soft_m, new_Union):
 				flag_soft_met = False
 					
 				withoutFirst2Argument = line_sm.split(',')
-				withoutFirst2Argument = withoutFirst2Argument[2:10]
+				withoutFirst2Argument = withoutFirst2Argument[2:11]
 				toString = ""
 				for element in withoutFirst2Argument:
 					toString+= "," + element
@@ -39,12 +42,12 @@ def initialize(name_csv_mining, name_csv_soft_m, new_Union):
 			csv_software_metric.readline()
 			for line_sm in csv_software_metric:
 				file_name_sm = line_sm.split(',')[1].replace("\"", "")
-				file_name_tm = line_tm.split(',')[0].replace("_","")
-				print("Software Metric :" + file_name_sm)
-				print("Text Mining :" + file_name_tm)
+				file_name_tm = line_tm.split(',')[0].replace(".java_",".java")
+				#print("Software Metric :" + file_name_sm)
+				#print("Text Mining :" + file_name_tm)
 				if(file_name_tm == file_name_sm):
 					number_of_file += 1
-					print("i file sono uguali")
+					#print("i file sono uguali")
 					#ottengo il valore della classe (pos || neg) (TEXT_MINING)
 					class_element = getClass(line_tm)
 					#ottengo i caratteri (TEXT_MINING)
@@ -54,8 +57,8 @@ def initialize(name_csv_mining, name_csv_soft_m, new_Union):
 
 					
 					new_Union.write(element_text_mining + element_software_metrics + class_element)
-				else:
-					print("i file non sono uguali")
+				#else:
+					#print("i file non sono uguali")
 	print("i file che sono stati letti e scritti sono :" + str(number_of_file))
 	print("BUILD SUCCESS")
 
@@ -115,9 +118,9 @@ def getClass(line):
 	
 
 def main():
-	new_Union = open("union_SM_TM.csv", "w")
-	name_csv_mining = "csv_mining_final.csv"
-	name_csv_soft_m = "mining_results.csv"
+	new_Union = open("3COMBINATION.csv", "w")
+	name_csv_mining = "Union_TM_ASA.csv"
+	name_csv_soft_m = "mining_results_sm_final.csv"
 	initialize(name_csv_mining, name_csv_soft_m, new_Union)
 
 
