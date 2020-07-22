@@ -1,5 +1,17 @@
 import os
+"""
+This script takes the software metrics and the ASA dataset in order to create a unique dataset that contains both metrics
+@Param name_csv_sm: name of software metrics dataset (with extension)
+@Param name_csv_asa: name of asa dataset (with extension)
+@Param new_Union: file object of the destination file.
 
+It combines the first line that contains the name of the metrics (first SM and then ASA)
+Then, for each line in software metrics dataset:
+-Find a line in ASA dataset with the same file name (<commit>/<filename.java>) 
+-if not found, it generates a combination of 0 values for the ASA line.
+-combines the two resulting metrics values
+-writes the combination line in the destination file
+"""
 def initialize(name_csv_sm, name_csv_asa, new_Union):
 	cwd = os.getcwd()
 	#Return to Union folder
@@ -21,11 +33,11 @@ def initialize(name_csv_sm, name_csv_asa, new_Union):
 	flag_asa = True
 	for line_sm in csv_sm:
 		found=False
-		#Se è la prima riga del csv delle software metrics
+		#If it's the first line of the csv software metrics
 		if(flag_sm == True):
 			flag_sm = False
 			line_asa = csv_asa.readline()
-			#Se è la prima riga del csv delle asa
+			#If it's the first line of the csv ASA
 			if( flag_asa == True):
 				flag_asa = False
 					
@@ -38,80 +50,65 @@ def initialize(name_csv_sm, name_csv_asa, new_Union):
 				new_Union.write(withoutClassInMining + toString + ",class")
 				new_Union.write("\n")
 
-				#prendi il nome dei file nelle asa
 				
 		else:
 			csv_asa.seek(0,0)
 			csv_asa.readline()
-			#print("Eccomi")
-			#ottengo i caratteri (SOFTWARE METRICS)
 			file_name_sm = line_sm.split(',')[1].replace("\"","")
 
-			#ottengo il valore della classe (pos || neg) (SOFTWARE METRICS)
 			class_element = getClass(line_sm)
 			class_element = class_element.replace(" ","")
 			element_software_metrics = another_option(None, line_sm, class_element)
 			for line_asa in csv_asa:
 				file_name_asa = line_asa.split(',')[0].replace("\"", "")
-				#print("Eccomi")
-				#print("ASA Results :" + file_name_asa)
-				#print("Software Metrics :" + file_name_sm)
 				if(file_name_sm == file_name_asa):
 					number_of_file += 1
-					#print("i file sono uguali")
 					#SOFTWARE METRICS
 					
 					#Static Analysis Results
 					element_ASA = another_option(line_asa, None, class_element)
 					found = True
-					#scrivo la tupla del nuovo dataset
-					new_Union.write(element_software_metrics + element_ASA + class_element)		
-				#else:
-					#print("i file non sono uguali")
-			if(found==False): #se lo script non trova la classe nel dataset ASA
-				element_ASA ="" # inserisce 19 valori uguali a 0
+					#write the line of the new dataset
+					new_Union.write(element_software_metrics + element_ASA + class_element)	
+			if(found==False): #if the script doesn't find the corresponding line in the ASA dataset
+				element_ASA ="" # insert 19 "0" values
 				for i in range(0,19):
 					element_ASA +="0,"
 				new_Union.write(element_software_metrics +element_ASA + class_element)
-	#print("Number:"+str(number_of_file))
-	print("i file che sono stati letti e scritti sono :" + str(number_of_file))
+	print("The files that are read and written are :" + str(number_of_file))
 	print("BUILD SUCCESS")
 
+
 '''
-@Param "line_asa" : linea del dataset delle asa che contiene tutti i valori delle ASA
-@Param "line_sm" : linea del dataset delle software metrics che contiene tutti i valori delle SOFTWARE METRICS 
-@Param "class_element" : parametro che descrivere la classe (pos o neg)
-è possibile chiamare questa funzione omettendo una delle due linee
+@Param "line_asa" : line of the dataset ASA that contains all the values resulting by Static Analysis
+@Param "line_sm" : line of the software metrics dataset that contains all software metrics values
+@Param "class_element" : describe the class of the file [pos || neg]
 
-SE OMETTIAMO LE SOFTWARE METRICS: 
+It's possible to call this function passing only one of the two parameter (passing None on the other parameter)
+IF WE PASS line_sm=None
+1. then it execute a split of the ASA elements in a list
+2. for each element of the resulting list, it deletes the possible "\n" characters and the count the elements
+3. skip the first two elements that are the type and the name of the file.
+4. It returns the concatenation of the element separated by ","
 
-1. se la Software Metrics è omessa allora si effettua lo split degli elememtni dell ASA e li si mette in una lista
-2. per ogni elemento in lista, si tolgono i possibili \n e si contano gli elementi
-3. se sono maggiori di 1 ovvero stiamo tralasciando il tipo del file e il nome del file.
-4. si concatenano gli elementi in una stringa e si fa return
-
-SE OMETTIAMO LE ASA : 
-1. si effettua lo split di tutti gli elementi delle software metrics e si mettono in una lista
-2. si rimuove l'elemento che specifica la classe (pos o neg)
-3. per ogni elemento in lista si tolgono i possibili \n e si concatenano gli elementi
-4. si concatenano gli elementi e si restituiscono
+If line_asa=None
+1. then it execute a split of the text mining elements in a list
+2. it deletes the class element
+3. for each element of the resulting list, it deletes the possible "\n" characters
+4. It returns the concatenation of the element separated by ","
 '''
+
 def another_option(line_asa, line_sm, class_element):
 	if(line_sm == None):
 		toString = ""
-		#print("Class_Element:"+class_element+"_fine")
 		class_element=class_element.replace(" ","")
 		class_element=class_element.replace("\n","")
-		#print("Class_Element_AFTER:"+class_element+"_fine")
 		lista = line_asa.replace(" ","").replace("\n","").split(",")
 
-		#print(lista)
 		lista.remove(class_element)
-		#print(lista)
 		count = 0
 		for element in lista:
 			elem = element.replace("\n", "")
-			#print(elem)
 			if(count > 0):
 				toString += elem + ","
 			count += 1
@@ -126,16 +123,14 @@ def another_option(line_asa, line_sm, class_element):
 		return toString
 
 '''
-@Param "line" : linea delle software metrics che vengono splittati e inseriti in una lista 
-e si restituisce solo l'ultimo elemento quindi o "pos" o "neg"
+@Param "line" : line of the dataset that contains class_element(pos || neg) 
+It returns the class element of the line
 '''
 def getClass(line):
 	lista = line.split(",")
 	count = 0
 	for element in lista:
-		#print("-" + element)
 		count+=1
-	#print("sono pos" + lista[count-1])
 	return lista[count-1]
 	
 
