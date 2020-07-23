@@ -1,0 +1,242 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.bayes.NaiveBayes 
+Relation:     union_SM_ASA-weka.filters.unsupervised.attribute.Remove-R1-2
+Instances:    4073
+Attributes:   29
+              CountLineCode
+              CountDeclClass
+              CountDeclFunction
+              CountLineCodeDecl
+              SumEssential
+              SumCyclomaticStrict
+              MaxEssential
+              MaxCyclomaticStrict
+              MaxNesting
+               java:S2039
+               java:S2384
+               java:S2658
+               java:S2755
+               java:S1148
+               java:S1444
+               java:S899
+               java:S5542
+               java:S2386
+               java:S2976
+               java:S2612
+               java:S5527
+               java:S4830
+               java:S3329
+               java:S4423
+               java:S4433
+               java:S4426
+               java:S2115
+               java:S2647
+              class
+Test mode:    5-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+Naive Bayes Classifier
+
+                         Class
+Attribute                  pos      neg
+                         (0.6)    (0.4)
+========================================
+CountLineCode
+  mean                 339.1886 292.8118
+  std. dev.            502.1073 512.1693
+  weight sum               2430     1643
+  precision              7.5116   7.5116
+
+CountDeclClass
+  mean                   2.4684   2.3358
+  std. dev.              5.7575   4.9118
+  weight sum               2430     1643
+  precision              3.7442   3.7442
+
+CountDeclFunction
+  mean                  27.2653  22.0523
+  std. dev.              48.068  34.1978
+  weight sum               2430     1643
+  precision              4.2676   4.2676
+
+CountLineCodeDecl
+  mean                 114.5423 101.2521
+  std. dev.            147.8283 177.3607
+  weight sum               2430     1643
+  precision              7.8522   7.8522
+
+SumEssential
+  mean                  35.4105  28.0045
+  std. dev.             60.7514  51.3329
+  weight sum               2430     1643
+  precision              3.7724   3.7724
+
+SumCyclomaticStrict
+  mean                  66.5016  52.9733
+  std. dev.            114.0073 108.8673
+  weight sum               2430     1643
+  precision               5.633    5.633
+
+MaxEssential
+  mean                   3.5194   2.5537
+  std. dev.              5.9299   5.3142
+  weight sum               2430     1643
+  precision                3.15     3.15
+
+MaxCyclomaticStrict
+  mean                  10.4563   8.6493
+  std. dev.             13.5315   13.234
+  weight sum               2430     1643
+  precision              3.1481   3.1481
+
+MaxNesting
+  mean                    2.647   2.2201
+  std. dev.              2.1818   1.9873
+  weight sum               2430     1643
+  precision              1.5385   1.5385
+
+ java:S2039
+  mean                   0.5883   0.8133
+  std. dev.              2.7309   4.5405
+  weight sum               2430     1643
+  precision              2.5946   2.5946
+
+ java:S2384
+  mean                   0.2069   0.1842
+  std. dev.              0.9403   0.8575
+  weight sum               2430     1643
+  precision              1.3333   1.3333
+
+ java:S2658
+  mean                   0.0433   0.0641
+  std. dev.              1.5143   2.0467
+  weight sum               2430     1643
+  precision                 8.1      8.1
+
+ java:S2755
+  mean                   0.0735   0.0089
+  std. dev.              0.4178   0.2222
+  weight sum               2430     1643
+  precision              1.3333   1.3333
+
+ java:S1148
+  mean                   0.0444   0.0616
+  std. dev.               0.375   0.6075
+  weight sum               2430     1643
+  precision                2.25     2.25
+
+ java:S1444
+  mean                   0.0567    0.071
+  std. dev.              0.8833   1.6316
+  weight sum               2430     1643
+  precision                 5.3      5.3
+
+ java:S899
+  mean                   0.0789   0.0169
+  std. dev.              0.7665    0.463
+  weight sum               2430     1643
+  precision              2.7778   2.7778
+
+ java:S5542
+  mean                   0.0049        0
+  std. dev.              0.2222   0.2222
+  weight sum               2430     1643
+  precision              1.3333   1.3333
+
+ java:S2386
+  mean                   0.0087   0.0114
+  std. dev.              0.2083   0.2083
+  weight sum               2430     1643
+  precision                1.25     1.25
+
+ java:S2976
+  mean                   0.0025        0
+  std. dev.              0.1667   0.1667
+  weight sum               2430     1643
+  precision                   1        1
+
+ java:S2612
+  mean                   0.0004   0.0006
+  std. dev.              0.1667   0.1667
+  weight sum               2430     1643
+  precision                   1        1
+
+ java:S5527
+  mean                   0.0025        0
+  std. dev.              0.1667   0.1667
+  weight sum               2430     1643
+  precision                   1        1
+
+ java:S4830
+  mean                   0.0049   0.0012
+  std. dev.              0.3333   0.3333
+  weight sum               2430     1643
+  precision                   2        2
+
+ java:S3329
+  mean                   0.0041        0
+  std. dev.              0.1667   0.1667
+  weight sum               2430     1643
+  precision                   1        1
+
+ java:S4423
+  mean                   0.0068   0.0027
+  std. dev.                0.25     0.25
+  weight sum               2430     1643
+  precision                 1.5      1.5
+
+ java:S4433
+  mean                   0.0004        0
+  std. dev.              0.1667   0.1667
+  weight sum               2430     1643
+  precision                   1        1
+
+ java:S4426
+  mean                   0.0008        0
+  std. dev.              0.3333   0.3333
+  weight sum               2430     1643
+  precision                   2        2
+
+ java:S2115
+  mean                   0.0012        0
+  std. dev.                 0.5      0.5
+  weight sum               2430     1643
+  precision                   3        3
+
+ java:S2647
+  mean                        0   0.0006
+  std. dev.              0.1667   0.1667
+  weight sum               2430     1643
+  precision                   1        1
+
+
+
+Time taken to build model: 0.05 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        2215               54.3825 %
+Incorrectly Classified Instances      1858               45.6175 %
+Kappa statistic                          0.0682
+Mean absolute error                      0.4757
+Root mean squared error                  0.5291
+Relative absolute error                 98.8377 %
+Root relative squared error            107.8605 %
+Total Number of Instances             4073     
+
+=== Detailed Accuracy By Class ===
+
+                 		TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 		0,582    0,512    0,627      0,582    0,603      0,069    0,548     0,646     pos
+                 		0,488    0,418    0,441      0,488    0,463      0,069    0,548     0,432     neg
+Weighted Avg.    	0,544    0,474    0,552      0,544    0,547      0,069    0,548     0,559     
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 1414 1016 |    a = pos
+  842  801 |    b = neg
+

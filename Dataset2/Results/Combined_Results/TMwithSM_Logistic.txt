@@ -1,0 +1,255 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.functions.SimpleLogistic -I 0 -M 500 -H 50 -W 0.0
+Relation:     union_SM_TM
+Instances:    4093
+Attributes:   15482
+              [list of attributes omitted]
+Test mode:    5-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+SimpleLogistic:
+
+Class  pos :
+0.06 + 
+[additional ] * -0.03 +
+[allow ] * 0.02 +
+[annotated ] * -0.02 +
+[b ] * 0.01 +
+[backup ] * -0.02 +
+[boot ] * 0.16 +
+[builders ] * 0.05 +
+[cast ] * -0.03 +
+[central ] * -0.15 +
+[changes ] * -0.07 +
+[checkstyle ] * -0.19 +
+[classifier ] * -0.16 +
+[codec ] * -0.03 +
+[compressors ] * 0.56 +
+[container ] * -0.01 +
+[crypto ] * 0.02 +
+[death ] * -0.38 +
+[decoder ] * -0.02 +
+[dimensions ] * -0.34 +
+[discarded ] * -0.17 +
+[dns ] * -0.01 +
+[document ] * 0.01 +
+[dom ] * -0.01 +
+[easy ] * -0.08 +
+[eg ] * -0.64 +
+[encoder ] * -0.02 +
+[engine ] * 0.01 +
+[entitlement ] * -0.07 +
+[executor ] * 0.01 +
+[facebook ] * -0.12 +
+[flux ] * -0.29 +
+[fmt ] * -0.44 +
+[fragmentation ] * -0.16 +
+[function ] * 0.03 +
+[functions ] * 0.1  +
+[functors ] * 0.55 +
+[gfsh ] * -0.04 +
+[greghaskins ] * -0.29 +
+[gridworks ] * -0.1 +
+[hashtable ] * -0.06 +
+[hc ] * -0.03 +
+[hsqldb ] * -0.92 +
+[implied ] * 0.96 +
+[import ] * 0    +
+[infinispan ] * 0.07 +
+[input ] * 0.01 +
+[instant ] * 0.13 +
+[invalid ] * 0.02 +
+[invoke ] * -0.02 +
+[issuer ] * -0.03 +
+[iterator ] * -0.01 +
+[javax ] * 0.03 +
+[jgroups ] * 0.04 +
+[jolokia ] * 0.05 +
+[jsecurity ] * -0.1 +
+[k ] * 0.02 +
+[leaf ] * -0.05 +
+[marshaller ] * 0.01 +
+[membergroup ] * -1.44 +
+[micromata ] * 0.74 +
+[min ] * -0.03 +
+[mismatch ] * -0.16 +
+[newer ] * -0.33 +
+[on ] * -0.01 +
+[oname ] * -0.04 +
+[one ] * -0.02 +
+[outbound ] * -0.04 +
+[phase ] * -0.03 +
+[plain ] * 0.04 +
+[plugins ] * 0.02 +
+[preauth ] * -0.73 +
+[pred ] * -0.12 +
+[produces ] * -0.03 +
+[proto ] * 0.03 +
+[rack ] * -0.21 +
+[recover ] * -0.09 +
+[reflection ] * 0.03 +
+[reflective ] * -0.21 +
+[registrar ] * -0.13 +
+[release ] * -0.06 +
+[reloading ] * -0.13 +
+[security ] * 0.01 +
+[senders ] * -0.04 +
+[sockjs ] * 0.13 +
+[sorted ] * -0.04 +
+[struct ] * -0.02 +
+[superclass ] * -0.11 +
+[synchronization ] * -0.11 +
+[tagfile ] * -0.62 +
+[tar ] * -0.02 +
+[threading ] * -0.29 +
+[tls ] * -0.01 +
+[tokens ] * 0.02 +
+[tpf ] * -0.2 +
+[type ] * -0 +
+[u ] * 0.02 +
+[unsigned ] * -0.05 +
+[uri ] * 0    +
+[utf ] * 0.05 +
+[util ] * 0.01 +
+[xbeans ] * -0.26 +
+[xstream ] * 0.03 +
+[xxe ] * 0.33 +
+[MaxNesting] * 0.02
+
+Class  neg :
+-0.06 + 
+[additional ] * 0.03 +
+[allow ] * -0.02 +
+[annotated ] * 0.02 +
+[b ] * -0.01 +
+[backup ] * 0.02 +
+[boot ] * -0.16 +
+[builders ] * -0.05 +
+[cast ] * 0.03 +
+[central ] * 0.15 +
+[changes ] * 0.07 +
+[checkstyle ] * 0.19 +
+[classifier ] * 0.16 +
+[codec ] * 0.03 +
+[compressors ] * -0.56 +
+[container ] * 0.01 +
+[crypto ] * -0.02 +
+[death ] * 0.38 +
+[decoder ] * 0.02 +
+[dimensions ] * 0.34 +
+[discarded ] * 0.17 +
+[dns ] * 0.01 +
+[document ] * -0.01 +
+[dom ] * 0.01 +
+[easy ] * 0.08 +
+[eg ] * 0.64 +
+[encoder ] * 0.02 +
+[engine ] * -0.01 +
+[entitlement ] * 0.07 +
+[executor ] * -0.01 +
+[facebook ] * 0.12 +
+[flux ] * 0.29 +
+[fmt ] * 0.44 +
+[fragmentation ] * 0.16 +
+[function ] * -0.03 +
+[functions ] * -0.1 +
+[functors ] * -0.55 +
+[gfsh ] * 0.04 +
+[greghaskins ] * 0.29 +
+[gridworks ] * 0.1  +
+[hashtable ] * 0.06 +
+[hc ] * 0.03 +
+[hsqldb ] * 0.92 +
+[implied ] * -0.96 +
+[import ] * -0 +
+[infinispan ] * -0.07 +
+[input ] * -0.01 +
+[instant ] * -0.13 +
+[invalid ] * -0.02 +
+[invoke ] * 0.02 +
+[issuer ] * 0.03 +
+[iterator ] * 0.01 +
+[javax ] * -0.03 +
+[jgroups ] * -0.04 +
+[jolokia ] * -0.05 +
+[jsecurity ] * 0.1  +
+[k ] * -0.02 +
+[leaf ] * 0.05 +
+[marshaller ] * -0.01 +
+[membergroup ] * 1.44 +
+[micromata ] * -0.74 +
+[min ] * 0.03 +
+[mismatch ] * 0.16 +
+[newer ] * 0.33 +
+[on ] * 0.01 +
+[oname ] * 0.04 +
+[one ] * 0.02 +
+[outbound ] * 0.04 +
+[phase ] * 0.03 +
+[plain ] * -0.04 +
+[plugins ] * -0.02 +
+[preauth ] * 0.73 +
+[pred ] * 0.12 +
+[produces ] * 0.03 +
+[proto ] * -0.03 +
+[rack ] * 0.21 +
+[recover ] * 0.09 +
+[reflection ] * -0.03 +
+[reflective ] * 0.21 +
+[registrar ] * 0.13 +
+[release ] * 0.06 +
+[reloading ] * 0.13 +
+[security ] * -0.01 +
+[senders ] * 0.04 +
+[sockjs ] * -0.13 +
+[sorted ] * 0.04 +
+[struct ] * 0.02 +
+[superclass ] * 0.11 +
+[synchronization ] * 0.11 +
+[tagfile ] * 0.62 +
+[tar ] * 0.02 +
+[threading ] * 0.29 +
+[tls ] * 0.01 +
+[tokens ] * -0.02 +
+[tpf ] * 0.2  +
+[type ] * 0    +
+[u ] * -0.02 +
+[unsigned ] * 0.05 +
+[uri ] * -0 +
+[utf ] * -0.05 +
+[util ] * -0.01 +
+[xbeans ] * 0.26 +
+[xstream ] * -0.03 +
+[xxe ] * -0.33 +
+[MaxNesting] * -0.02
+
+
+Time taken to build model: 353.12 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        2868               70.0709 %
+Incorrectly Classified Instances      1225               29.9291 %
+Kappa statistic                          0.3234
+Mean absolute error                      0.3734
+Root mean squared error                  0.4397
+Relative absolute error                 77.7184 %
+Root relative squared error             89.7191 %
+Total Number of Instances             4093     
+
+=== Detailed Accuracy By Class ===
+
+                 		TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 		0,911    0,613    0,689      0,911    0,785      0,359    0,763     0,799      pos
+                 		0,387    0,089    0,744      0,387    0,509      0,359    0,763     0,692      neg
+Weighted Avg.    	0,701    0,403    0,711      0,701    0,674      0,359    0,763     0,756     
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 2233  218 |    a =  pos
+ 1007  635 |    b =  neg
+

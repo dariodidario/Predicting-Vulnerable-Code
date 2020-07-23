@@ -1,0 +1,72 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.RandomForest -P 100 -I 100 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1
+Relation:     union_SM_ASA-weka.filters.unsupervised.attribute.Remove-R1-2
+Instances:    4073
+Attributes:   29
+              CountLineCode
+              CountDeclClass
+              CountDeclFunction
+              CountLineCodeDecl
+              SumEssential
+              SumCyclomaticStrict
+              MaxEssential
+              MaxCyclomaticStrict
+              MaxNesting
+               java:S2039
+               java:S2384
+               java:S2658
+               java:S2755
+               java:S1148
+               java:S1444
+               java:S899
+               java:S5542
+               java:S2386
+               java:S2976
+               java:S2612
+               java:S5527
+               java:S4830
+               java:S3329
+               java:S4423
+               java:S4433
+               java:S4426
+               java:S2115
+               java:S2647
+              class
+Test mode:    5-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+RandomForest
+
+Bagging with 100 iterations and base learner
+
+weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1 -do-not-check-capabilities
+
+Time taken to build model: 2.65 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        2575               63.2212 %
+Incorrectly Classified Instances      1498               36.7788 %
+Kappa statistic                          0.1934
+Mean absolute error                      0.4243
+Root mean squared error                  0.4764
+Relative absolute error                 88.1445 %
+Root relative squared error             97.1084 %
+Total Number of Instances             4073     
+
+=== Detailed Accuracy By Class ===
+
+                 		TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 		0,802    0,618    0,657      0,802    0,722      0,202    0,661     0,740     pos
+                		0,382    0,198    0,565      0,382    0,456      0,202    0,661     0,549     neg
+Weighted Avg.    	0,632    0,449    0,620      0,632    0,615      0,202    0,661     0,663     
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 1948  482 |    a = pos
+ 1016  627 |    b = neg
+
